@@ -182,14 +182,11 @@ function App() {
   return (
     <>
       <header className="site-nav">
-        <button className="brand-button" type="button" onClick={() => navigate("home")}>
+        <button className={`brand-button${route === "home" ? " active" : ""}`} type="button" onClick={() => navigate("home")}>
+          <House size={15} aria-hidden="true" />
           Alan Jackson
         </button>
         <nav className="nav-links" aria-label="Primary navigation">
-          <button className={route === "home" ? "active" : ""} type="button" onClick={() => navigate("home")}>
-            <House size={15} aria-hidden="true" />
-            Home
-          </button>
           <div className={`projects-menu${projectsOpen ? " open" : ""}`}>
             <button
               className={`projects-trigger${["trading", "project-2", "project-3"].includes(route) ? " active" : ""}`}

@@ -46,10 +46,16 @@ select {
 }
 
 .brand-button {
-  font-size: 1rem;
-  font-weight: 900;
+  align-items: center;
+  border-radius: 6px;
+  color: #475569;
+  display: inline-flex;
+  font-size: 0.86rem;
+  font-weight: 800;
+  gap: 6px;
   letter-spacing: 0;
-  padding: 8px 0;
+  min-height: 34px;
+  padding: 7px 10px;
 }
 
 .nav-links {
@@ -76,6 +82,8 @@ select {
 
 .nav-links button.active,
 .nav-links button:hover,
+.brand-button.active,
+.brand-button:hover,
 .home-link-band button:hover {
   background: #172033;
   color: #ffffff;
