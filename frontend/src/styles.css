@@ -60,13 +60,16 @@ select {
 }
 
 .nav-links button {
+  align-items: center;
   background: transparent;
   border: 0;
   border-radius: 6px;
   color: #475569;
   cursor: pointer;
+  display: inline-flex;
   font-size: 0.86rem;
   font-weight: 800;
+  gap: 6px;
   min-height: 34px;
   padding: 7px 10px;
 }
@@ -256,6 +259,14 @@ select {
   font-size: 1.02rem;
   margin: 0;
   max-width: 760px;
+}
+
+.content-panel a {
+  color: #0f766e;
+}
+
+.content-panel a:hover {
+  color: #172033;
 }
 
 .resume-list {

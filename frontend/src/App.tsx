@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import type { CSSProperties } from "react";
-import { ArrowRight, Camera, ChevronDown, Mail, UserRound } from "lucide-react";
+import { ArrowRight, Camera, ChevronDown, House, Mail, UserRound } from "lucide-react";
 
 import { ControlsPanel } from "./components/ControlsPanel";
 import { EquityCurveChart } from "./components/EquityCurveChart";
@@ -186,6 +186,10 @@ function App() {
           Alan Jackson
         </button>
         <nav className="nav-links" aria-label="Primary navigation">
+          <button className={route === "home" ? "active" : ""} type="button" onClick={() => navigate("home")}>
+            <House size={15} aria-hidden="true" />
+            Home
+          </button>
           <div className={`projects-menu${projectsOpen ? " open" : ""}`}>
             <button
               className={`projects-trigger${["trading", "project-2", "project-3"].includes(route) ? " active" : ""}`}
@@ -471,7 +475,16 @@ function ContactPage() {
       <section className="content-panel narrow">
         <p className="eyebrow">Contact</p>
         <h1>Let&apos;s connect.</h1>
-        <p>Add your preferred email, LinkedIn, GitHub, or contact form here.</p>
+        <p>
+          Find me{" "}
+          <a href="https://www.linkedin.com/in/alan-jackson-814151b3/" target="_blank" rel="noreferrer">
+            <strong>
+              <em>here</em>
+            </strong>
+          </a>{" "}
+          on LinkedIn!
+        </p>
+        <p>You can also reach out to me directly at: aj96818@gmail.com</p>
       </section>
     </main>
   );
