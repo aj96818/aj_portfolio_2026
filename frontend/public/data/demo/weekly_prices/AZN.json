@@ -1,0 +1,6442 @@
+[
+  {
+    "symbol": "AZN",
+    "week_date": "2014-01-03",
+    "open": 59.38,
+    "high": 59.67,
+    "low": 58.35,
+    "close": 58.86,
+    "adjusted_close": 20.1381,
+    "volume": 4574100
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-01-10",
+    "open": 58.9,
+    "high": 60.59,
+    "low": 58.2901,
+    "close": 60.48,
+    "adjusted_close": 20.6924,
+    "volume": 8951200
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-01-17",
+    "open": 59.82,
+    "high": 63.77,
+    "low": 59.56,
+    "close": 63.73,
+    "adjusted_close": 21.8043,
+    "volume": 12235100
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-01-24",
+    "open": 65.0,
+    "high": 65.82,
+    "low": 63.9199,
+    "close": 64.21,
+    "adjusted_close": 21.9686,
+    "volume": 17988700
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-01-31",
+    "open": 64.32,
+    "high": 64.37,
+    "low": 62.95,
+    "close": 63.5,
+    "adjusted_close": 21.7257,
+    "volume": 10111500
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-02-07",
+    "open": 63.58,
+    "high": 63.77,
+    "low": 61.75,
+    "close": 63.76,
+    "adjusted_close": 21.8146,
+    "volume": 10464100
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-02-14",
+    "open": 64.0,
+    "high": 68.0,
+    "low": 63.85,
+    "close": 67.4,
+    "adjusted_close": 23.06,
+    "volume": 12738900
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-02-21",
+    "open": 68.01,
+    "high": 68.35,
+    "low": 65.7,
+    "close": 66.61,
+    "adjusted_close": 23.448,
+    "volume": 17173000
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-02-28",
+    "open": 67.23,
+    "high": 68.76,
+    "low": 67.2,
+    "close": 67.76,
+    "adjusted_close": 23.8528,
+    "volume": 14517000
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-03-07",
+    "open": 66.52,
+    "high": 68.23,
+    "low": 66.41,
+    "close": 66.94,
+    "adjusted_close": 23.5641,
+    "volume": 8711200
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-03-14",
+    "open": 66.21,
+    "high": 66.92,
+    "low": 64.94,
+    "close": 65.3,
+    "adjusted_close": 22.9868,
+    "volume": 11008600
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-03-21",
+    "open": 65.63,
+    "high": 66.55,
+    "low": 64.14,
+    "close": 64.14,
+    "adjusted_close": 22.5785,
+    "volume": 10126000
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-03-28",
+    "open": 64.49,
+    "high": 65.91,
+    "low": 63.57,
+    "close": 65.2,
+    "adjusted_close": 22.9516,
+    "volume": 7580500
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-04-04",
+    "open": 65.01,
+    "high": 65.98,
+    "low": 64.19,
+    "close": 64.42,
+    "adjusted_close": 22.677,
+    "volume": 5565200
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-04-11",
+    "open": 64.13,
+    "high": 64.81,
+    "low": 62.54,
+    "close": 62.6,
+    "adjusted_close": 22.0364,
+    "volume": 9834000
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-04-17",
+    "open": 62.83,
+    "high": 63.75,
+    "low": 61.795,
+    "close": 63.49,
+    "adjusted_close": 22.3497,
+    "volume": 6223800
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-04-25",
+    "open": 67.58,
+    "high": 70.71,
+    "low": 66.55,
+    "close": 68.66,
+    "adjusted_close": 24.1696,
+    "volume": 30177400
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-05-02",
+    "open": 79.69,
+    "high": 82.68,
+    "low": 73.85,
+    "close": 81.02,
+    "adjusted_close": 28.5206,
+    "volume": 71700300
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-05-09",
+    "open": 79.62,
+    "high": 80.47,
+    "low": 72.79,
+    "close": 77.24,
+    "adjusted_close": 27.1899,
+    "volume": 42165400
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-05-16",
+    "open": 78.06,
+    "high": 81.19,
+    "low": 76.83,
+    "close": 80.28,
+    "adjusted_close": 28.2601,
+    "volume": 30236900
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-05-23",
+    "open": 71.35,
+    "high": 75.235,
+    "low": 69.78,
+    "close": 72.28,
+    "adjusted_close": 25.4439,
+    "volume": 65570900
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-05-30",
+    "open": 71.03,
+    "high": 72.5,
+    "low": 70.77,
+    "close": 72.2,
+    "adjusted_close": 25.4157,
+    "volume": 17170900
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-06-06",
+    "open": 72.74,
+    "high": 73.57,
+    "low": 72.0,
+    "close": 72.86,
+    "adjusted_close": 25.6481,
+    "volume": 19987500
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-06-13",
+    "open": 72.54,
+    "high": 74.75,
+    "low": 72.31,
+    "close": 74.24,
+    "adjusted_close": 26.1339,
+    "volume": 19432900
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-06-20",
+    "open": 73.87,
+    "high": 76.15,
+    "low": 73.58,
+    "close": 75.47,
+    "adjusted_close": 26.5668,
+    "volume": 12213500
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-06-27",
+    "open": 74.44,
+    "high": 74.73,
+    "low": 73.49,
+    "close": 74.1,
+    "adjusted_close": 26.0846,
+    "volume": 9348300
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-07-03",
+    "open": 74.15,
+    "high": 76.33,
+    "low": 73.61,
+    "close": 75.64,
+    "adjusted_close": 26.6267,
+    "volume": 6143200
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-07-11",
+    "open": 76.06,
+    "high": 76.57,
+    "low": 74.08,
+    "close": 74.51,
+    "adjusted_close": 26.2289,
+    "volume": 7519500
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-07-18",
+    "open": 74.69,
+    "high": 75.89,
+    "low": 72.9,
+    "close": 74.52,
+    "adjusted_close": 26.2324,
+    "volume": 9452500
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-07-25",
+    "open": 74.63,
+    "high": 75.55,
+    "low": 74.24,
+    "close": 74.48,
+    "adjusted_close": 26.2183,
+    "volume": 8216500
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-08-01",
+    "open": 74.57,
+    "high": 74.58,
+    "low": 72.57,
+    "close": 72.59,
+    "adjusted_close": 25.553,
+    "volume": 18653000
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-08-08",
+    "open": 73.48,
+    "high": 73.89,
+    "low": 67.48,
+    "close": 68.49,
+    "adjusted_close": 24.1098,
+    "volume": 27743900
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-08-15",
+    "open": 70.17,
+    "high": 70.19,
+    "low": 68.0,
+    "close": 68.54,
+    "adjusted_close": 24.4444,
+    "volume": 11012000
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-08-22",
+    "open": 70.01,
+    "high": 73.6999,
+    "low": 69.88,
+    "close": 73.05,
+    "adjusted_close": 26.0528,
+    "volume": 10664100
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-08-29",
+    "open": 73.51,
+    "high": 76.24,
+    "low": 73.33,
+    "close": 76.01,
+    "adjusted_close": 27.1085,
+    "volume": 8788800
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-09-05",
+    "open": 73.83,
+    "high": 75.62,
+    "low": 73.35,
+    "close": 74.74,
+    "adjusted_close": 26.6556,
+    "volume": 5328700
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-09-12",
+    "open": 73.24,
+    "high": 74.77,
+    "low": 72.49,
+    "close": 73.3,
+    "adjusted_close": 26.142,
+    "volume": 6871700
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-09-19",
+    "open": 73.78,
+    "high": 75.02,
+    "low": 72.65,
+    "close": 74.72,
+    "adjusted_close": 26.6484,
+    "volume": 7768600
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-09-26",
+    "open": 74.54,
+    "high": 74.95,
+    "low": 70.45,
+    "close": 71.96,
+    "adjusted_close": 25.6641,
+    "volume": 13765473
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-10-03",
+    "open": 71.42,
+    "high": 72.34,
+    "low": 68.92,
+    "close": 69.84,
+    "adjusted_close": 24.908,
+    "volume": 7836172
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-10-10",
+    "open": 70.48,
+    "high": 70.64,
+    "low": 67.15,
+    "close": 68.41,
+    "adjusted_close": 24.398,
+    "volume": 11879229
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-10-17",
+    "open": 70.11,
+    "high": 70.44,
+    "low": 66.38,
+    "close": 67.81,
+    "adjusted_close": 24.184,
+    "volume": 18207987
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-10-24",
+    "open": 67.1,
+    "high": 70.32,
+    "low": 67.02,
+    "close": 70.12,
+    "adjusted_close": 25.0079,
+    "volume": 10363552
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-10-31",
+    "open": 70.22,
+    "high": 73.13,
+    "low": 70.2,
+    "close": 72.94,
+    "adjusted_close": 26.0136,
+    "volume": 8607937
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-11-07",
+    "open": 72.48,
+    "high": 74.05,
+    "low": 72.14,
+    "close": 72.88,
+    "adjusted_close": 25.9922,
+    "volume": 8216544
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-11-14",
+    "open": 73.4,
+    "high": 74.88,
+    "low": 72.64,
+    "close": 72.85,
+    "adjusted_close": 25.9815,
+    "volume": 6392868
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-11-21",
+    "open": 71.72,
+    "high": 75.935,
+    "low": 71.67,
+    "close": 74.56,
+    "adjusted_close": 26.5914,
+    "volume": 9121579
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-11-28",
+    "open": 74.19,
+    "high": 75.07,
+    "low": 73.42,
+    "close": 74.17,
+    "adjusted_close": 26.4523,
+    "volume": 4071989
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-12-05",
+    "open": 74.36,
+    "high": 74.51,
+    "low": 72.58,
+    "close": 73.72,
+    "adjusted_close": 26.2918,
+    "volume": 8133114
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-12-12",
+    "open": 73.63,
+    "high": 74.65,
+    "low": 71.425,
+    "close": 71.8,
+    "adjusted_close": 25.607,
+    "volume": 14910170
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-12-19",
+    "open": 70.43,
+    "high": 72.145,
+    "low": 69.32,
+    "close": 71.69,
+    "adjusted_close": 25.5678,
+    "volume": 9314054
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2014-12-26",
+    "open": 72.72,
+    "high": 72.73,
+    "low": 69.76,
+    "close": 70.91,
+    "adjusted_close": 25.2896,
+    "volume": 3815286
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-01-02",
+    "open": 70.66,
+    "high": 71.485,
+    "low": 70.3,
+    "close": 70.4,
+    "adjusted_close": 25.1077,
+    "volume": 3335114
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-01-09",
+    "open": 70.31,
+    "high": 70.35,
+    "low": 67.463,
+    "close": 69.44,
+    "adjusted_close": 24.7653,
+    "volume": 9517148
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-01-16",
+    "open": 70.75,
+    "high": 72.12,
+    "low": 70.01,
+    "close": 72.05,
+    "adjusted_close": 25.6962,
+    "volume": 7024235
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-01-23",
+    "open": 71.72,
+    "high": 72.035,
+    "low": 70.02,
+    "close": 70.69,
+    "adjusted_close": 25.2111,
+    "volume": 6293050
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-01-30",
+    "open": 71.04,
+    "high": 72.22,
+    "low": 70.47,
+    "close": 71.04,
+    "adjusted_close": 25.336,
+    "volume": 12655228
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-02-06",
+    "open": 71.3,
+    "high": 71.89,
+    "low": 67.52,
+    "close": 67.69,
+    "adjusted_close": 24.1412,
+    "volume": 13663512
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-02-13",
+    "open": 67.38,
+    "high": 70.25,
+    "low": 67.33,
+    "close": 69.96,
+    "adjusted_close": 24.9508,
+    "volume": 9116374
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-02-20",
+    "open": 69.07,
+    "high": 70.18,
+    "low": 67.14,
+    "close": 68.58,
+    "adjusted_close": 25.1392,
+    "volume": 7572830
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-02-27",
+    "open": 69.02,
+    "high": 69.98,
+    "low": 68.68,
+    "close": 68.9,
+    "adjusted_close": 25.2565,
+    "volume": 6730292
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-03-06",
+    "open": 68.85,
+    "high": 68.93,
+    "low": 66.15,
+    "close": 66.27,
+    "adjusted_close": 24.2925,
+    "volume": 5631802
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-03-13",
+    "open": 65.93,
+    "high": 67.45,
+    "low": 64.26,
+    "close": 67.35,
+    "adjusted_close": 24.6884,
+    "volume": 6519663
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-03-20",
+    "open": 67.77,
+    "high": 73.0,
+    "low": 67.71,
+    "close": 72.7,
+    "adjusted_close": 26.6495,
+    "volume": 8720802
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-03-27",
+    "open": 72.49,
+    "high": 72.6,
+    "low": 69.55,
+    "close": 70.07,
+    "adjusted_close": 25.6854,
+    "volume": 5288201
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-04-02",
+    "open": 69.47,
+    "high": 70.16,
+    "low": 68.24,
+    "close": 68.8,
+    "adjusted_close": 25.2199,
+    "volume": 4191377
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-04-10",
+    "open": 68.97,
+    "high": 70.53,
+    "low": 68.81,
+    "close": 69.91,
+    "adjusted_close": 25.6268,
+    "volume": 4632527
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-04-17",
+    "open": 69.2,
+    "high": 72.69,
+    "low": 68.7632,
+    "close": 71.32,
+    "adjusted_close": 26.1436,
+    "volume": 6304844
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-04-24",
+    "open": 71.65,
+    "high": 73.38,
+    "low": 71.05,
+    "close": 71.79,
+    "adjusted_close": 26.3159,
+    "volume": 5980647
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-05-01",
+    "open": 71.69,
+    "high": 71.82,
+    "low": 67.39,
+    "close": 67.88,
+    "adjusted_close": 24.8826,
+    "volume": 7228137
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-05-08",
+    "open": 68.73,
+    "high": 70.27,
+    "low": 66.77,
+    "close": 69.92,
+    "adjusted_close": 25.6304,
+    "volume": 5580034
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-05-15",
+    "open": 70.55,
+    "high": 70.67,
+    "low": 68.65,
+    "close": 69.29,
+    "adjusted_close": 25.3995,
+    "volume": 5572166
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-05-22",
+    "open": 68.8,
+    "high": 69.87,
+    "low": 68.28,
+    "close": 69.45,
+    "adjusted_close": 25.4582,
+    "volume": 4592143
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-05-29",
+    "open": 68.15,
+    "high": 68.96,
+    "low": 66.9201,
+    "close": 67.55,
+    "adjusted_close": 24.7617,
+    "volume": 7561618
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-06-05",
+    "open": 67.37,
+    "high": 67.81,
+    "low": 66.23,
+    "close": 67.02,
+    "adjusted_close": 24.5674,
+    "volume": 6671730
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-06-12",
+    "open": 66.46,
+    "high": 66.9058,
+    "low": 64.88,
+    "close": 65.69,
+    "adjusted_close": 24.0799,
+    "volume": 5826793
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-06-19",
+    "open": 65.11,
+    "high": 67.07,
+    "low": 64.69,
+    "close": 66.7,
+    "adjusted_close": 24.4501,
+    "volume": 7644289
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-06-26",
+    "open": 66.95,
+    "high": 67.9,
+    "low": 65.79,
+    "close": 66.33,
+    "adjusted_close": 24.3145,
+    "volume": 8453360
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-07-02",
+    "open": 64.85,
+    "high": 65.77,
+    "low": 63.22,
+    "close": 65.41,
+    "adjusted_close": 23.9772,
+    "volume": 9342582
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-07-10",
+    "open": 64.81,
+    "high": 66.54,
+    "low": 64.2,
+    "close": 66.45,
+    "adjusted_close": 24.3584,
+    "volume": 7385435
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-07-17",
+    "open": 67.33,
+    "high": 68.13,
+    "low": 67.0438,
+    "close": 67.52,
+    "adjusted_close": 24.7507,
+    "volume": 6909440
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-07-24",
+    "open": 67.82,
+    "high": 67.98,
+    "low": 65.63,
+    "close": 65.76,
+    "adjusted_close": 24.1055,
+    "volume": 4599953
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-07-31",
+    "open": 32.68,
+    "high": 34.02,
+    "low": 32.35,
+    "close": 33.79,
+    "adjusted_close": 24.7727,
+    "volume": 8519561
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-08-07",
+    "open": 33.85,
+    "high": 34.69,
+    "low": 33.43,
+    "close": 33.69,
+    "adjusted_close": 24.6994,
+    "volume": 11631400
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-08-14",
+    "open": 33.62,
+    "high": 34.17,
+    "low": 32.96,
+    "close": 33.46,
+    "adjusted_close": 24.8541,
+    "volume": 7826031
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-08-21",
+    "open": 33.26,
+    "high": 34.0,
+    "low": 31.62,
+    "close": 31.63,
+    "adjusted_close": 23.4948,
+    "volume": 6580463
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-08-28",
+    "open": 30.67,
+    "high": 31.71,
+    "low": 29.5,
+    "close": 31.67,
+    "adjusted_close": 23.5245,
+    "volume": 13795525
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-09-04",
+    "open": 31.55,
+    "high": 32.66,
+    "low": 30.54,
+    "close": 31.7,
+    "adjusted_close": 23.5468,
+    "volume": 11470308
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-09-11",
+    "open": 32.82,
+    "high": 33.545,
+    "low": 32.34,
+    "close": 33.3,
+    "adjusted_close": 24.7352,
+    "volume": 10467272
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-09-18",
+    "open": 33.23,
+    "high": 34.47,
+    "low": 33.01,
+    "close": 34.37,
+    "adjusted_close": 25.53,
+    "volume": 16408541
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-09-25",
+    "open": 34.2,
+    "high": 34.25,
+    "low": 31.96,
+    "close": 32.36,
+    "adjusted_close": 24.037,
+    "volume": 15815436
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-10-02",
+    "open": 32.43,
+    "high": 32.43,
+    "low": 31.02,
+    "close": 32.11,
+    "adjusted_close": 23.8513,
+    "volume": 12285088
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-10-09",
+    "open": 32.16,
+    "high": 32.45,
+    "low": 31.38,
+    "close": 32.23,
+    "adjusted_close": 23.9404,
+    "volume": 14237596
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-10-16",
+    "open": 32.18,
+    "high": 32.37,
+    "low": 31.2,
+    "close": 32.35,
+    "adjusted_close": 24.0296,
+    "volume": 12255992
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-10-23",
+    "open": 32.26,
+    "high": 32.437,
+    "low": 30.26,
+    "close": 31.36,
+    "adjusted_close": 23.2942,
+    "volume": 15012030
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-10-30",
+    "open": 31.33,
+    "high": 32.26,
+    "low": 31.21,
+    "close": 31.89,
+    "adjusted_close": 23.6879,
+    "volume": 10853170
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-11-06",
+    "open": 31.89,
+    "high": 32.78,
+    "low": 31.67,
+    "close": 32.09,
+    "adjusted_close": 23.8365,
+    "volume": 14194430
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-11-13",
+    "open": 31.71,
+    "high": 32.185,
+    "low": 30.74,
+    "close": 31.29,
+    "adjusted_close": 23.2422,
+    "volume": 12106261
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-11-20",
+    "open": 32.06,
+    "high": 34.35,
+    "low": 32.06,
+    "close": 34.08,
+    "adjusted_close": 25.3146,
+    "volume": 31471670
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-11-27",
+    "open": 34.15,
+    "high": 34.33,
+    "low": 33.55,
+    "close": 34.05,
+    "adjusted_close": 25.2923,
+    "volume": 13855244
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-12-04",
+    "open": 34.19,
+    "high": 34.88,
+    "low": 33.48,
+    "close": 33.92,
+    "adjusted_close": 25.1958,
+    "volume": 20174206
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-12-11",
+    "open": 34.13,
+    "high": 34.25,
+    "low": 33.07,
+    "close": 33.25,
+    "adjusted_close": 24.6981,
+    "volume": 16351796
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-12-18",
+    "open": 33.0,
+    "high": 33.86,
+    "low": 32.5744,
+    "close": 32.8,
+    "adjusted_close": 24.3638,
+    "volume": 15838616
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-12-24",
+    "open": 33.3,
+    "high": 34.2499,
+    "low": 32.78,
+    "close": 34.13,
+    "adjusted_close": 25.3518,
+    "volume": 8757895
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2015-12-31",
+    "open": 33.92,
+    "high": 34.74,
+    "low": 33.87,
+    "close": 33.95,
+    "adjusted_close": 25.2181,
+    "volume": 8005163
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-01-08",
+    "open": 33.5,
+    "high": 33.935,
+    "low": 31.7,
+    "close": 31.77,
+    "adjusted_close": 23.5988,
+    "volume": 19783012
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-01-15",
+    "open": 31.81,
+    "high": 32.21,
+    "low": 30.25,
+    "close": 30.59,
+    "adjusted_close": 22.7223,
+    "volume": 19954392
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-01-22",
+    "open": 31.06,
+    "high": 31.69,
+    "low": 29.96,
+    "close": 31.48,
+    "adjusted_close": 23.3833,
+    "volume": 20929722
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-01-29",
+    "open": 31.87,
+    "high": 32.24,
+    "low": 30.97,
+    "close": 32.22,
+    "adjusted_close": 23.933,
+    "volume": 22478722
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-02-05",
+    "open": 32.02,
+    "high": 32.82,
+    "low": 29.8143,
+    "close": 30.03,
+    "adjusted_close": 22.3063,
+    "volume": 42292090
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-02-12",
+    "open": 29.07,
+    "high": 29.68,
+    "low": 28.29,
+    "close": 29.66,
+    "adjusted_close": 22.0314,
+    "volume": 30391502
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-02-19",
+    "open": 29.76,
+    "high": 30.46,
+    "low": 29.17,
+    "close": 29.56,
+    "adjusted_close": 22.6365,
+    "volume": 19256357
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-02-26",
+    "open": 29.35,
+    "high": 29.65,
+    "low": 28.665,
+    "close": 29.37,
+    "adjusted_close": 22.491,
+    "volume": 18415992
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-03-04",
+    "open": 28.74,
+    "high": 29.09,
+    "low": 28.36,
+    "close": 28.87,
+    "adjusted_close": 22.1081,
+    "volume": 24591189
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-03-11",
+    "open": 28.52,
+    "high": 29.63,
+    "low": 28.441,
+    "close": 29.57,
+    "adjusted_close": 22.6441,
+    "volume": 24059770
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-03-18",
+    "open": 29.33,
+    "high": 29.45,
+    "low": 28.18,
+    "close": 28.48,
+    "adjusted_close": 21.8094,
+    "volume": 32137675
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-03-24",
+    "open": 28.28,
+    "high": 28.47,
+    "low": 27.68,
+    "close": 28.0,
+    "adjusted_close": 21.4419,
+    "volume": 19040928
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-04-01",
+    "open": 28.13,
+    "high": 28.61,
+    "low": 27.7,
+    "close": 28.22,
+    "adjusted_close": 21.6103,
+    "volume": 13752743
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-04-08",
+    "open": 28.79,
+    "high": 29.87,
+    "low": 28.17,
+    "close": 29.45,
+    "adjusted_close": 22.5522,
+    "volume": 21534114
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-04-15",
+    "open": 29.52,
+    "high": 29.8,
+    "low": 28.77,
+    "close": 29.71,
+    "adjusted_close": 22.7513,
+    "volume": 13365087
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-04-22",
+    "open": 29.66,
+    "high": 30.41,
+    "low": 29.66,
+    "close": 30.1,
+    "adjusted_close": 23.05,
+    "volume": 21491254
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-04-29",
+    "open": 29.97,
+    "high": 30.0577,
+    "low": 28.88,
+    "close": 28.96,
+    "adjusted_close": 22.177,
+    "volume": 19770203
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-05-06",
+    "open": 29.11,
+    "high": 29.29,
+    "low": 27.74,
+    "close": 27.96,
+    "adjusted_close": 21.4112,
+    "volume": 19511568
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-05-13",
+    "open": 28.63,
+    "high": 29.0,
+    "low": 28.37,
+    "close": 28.5,
+    "adjusted_close": 21.8248,
+    "volume": 17288427
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-05-20",
+    "open": 28.42,
+    "high": 28.94,
+    "low": 28.11,
+    "close": 28.69,
+    "adjusted_close": 21.9703,
+    "volume": 16502073
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-05-27",
+    "open": 28.69,
+    "high": 30.09,
+    "low": 28.54,
+    "close": 29.88,
+    "adjusted_close": 22.8815,
+    "volume": 21986517
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-06-03",
+    "open": 30.09,
+    "high": 30.2,
+    "low": 29.34,
+    "close": 29.73,
+    "adjusted_close": 22.7667,
+    "volume": 14527534
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-06-10",
+    "open": 29.77,
+    "high": 30.03,
+    "low": 27.7501,
+    "close": 27.97,
+    "adjusted_close": 21.4189,
+    "volume": 19671020
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-06-17",
+    "open": 27.69,
+    "high": 27.91,
+    "low": 26.97,
+    "close": 27.58,
+    "adjusted_close": 21.1202,
+    "volume": 29436082
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-06-24",
+    "open": 28.89,
+    "high": 29.3099,
+    "low": 27.61,
+    "close": 27.86,
+    "adjusted_close": 21.3347,
+    "volume": 30668768
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-07-01",
+    "open": 27.91,
+    "high": 30.46,
+    "low": 27.57,
+    "close": 30.42,
+    "adjusted_close": 23.2951,
+    "volume": 30590689
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-07-08",
+    "open": 29.98,
+    "high": 30.41,
+    "low": 29.68,
+    "close": 30.11,
+    "adjusted_close": 23.0577,
+    "volume": 16018681
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-07-15",
+    "open": 29.93,
+    "high": 30.5,
+    "low": 29.83,
+    "close": 30.24,
+    "adjusted_close": 23.1572,
+    "volume": 41606640
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-07-22",
+    "open": 30.48,
+    "high": 31.23,
+    "low": 30.17,
+    "close": 31.13,
+    "adjusted_close": 23.8388,
+    "volume": 40999490
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-07-29",
+    "open": 31.07,
+    "high": 34.35,
+    "low": 30.75,
+    "close": 34.14,
+    "adjusted_close": 26.1438,
+    "volume": 57455280
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-08-05",
+    "open": 33.66,
+    "high": 35.04,
+    "low": 33.66,
+    "close": 34.28,
+    "adjusted_close": 26.251,
+    "volume": 41726124
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-08-12",
+    "open": 34.18,
+    "high": 34.62,
+    "low": 33.38,
+    "close": 33.54,
+    "adjusted_close": 26.0211,
+    "volume": 22906140
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-08-19",
+    "open": 33.65,
+    "high": 33.72,
+    "low": 33.3142,
+    "close": 33.56,
+    "adjusted_close": 26.0366,
+    "volume": 17657069
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-08-26",
+    "open": 33.56,
+    "high": 34.51,
+    "low": 32.785,
+    "close": 33.05,
+    "adjusted_close": 25.641,
+    "volume": 25148355
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-09-02",
+    "open": 33.11,
+    "high": 33.4769,
+    "low": 32.36,
+    "close": 33.31,
+    "adjusted_close": 25.8427,
+    "volume": 22123985
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-09-09",
+    "open": 33.18,
+    "high": 33.285,
+    "low": 32.185,
+    "close": 32.2,
+    "adjusted_close": 24.9815,
+    "volume": 18813076
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-09-16",
+    "open": 32.53,
+    "high": 34.15,
+    "low": 32.47,
+    "close": 33.82,
+    "adjusted_close": 26.2384,
+    "volume": 27587456
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-09-23",
+    "open": 33.61,
+    "high": 34.34,
+    "low": 33.185,
+    "close": 33.97,
+    "adjusted_close": 26.3547,
+    "volume": 19044127
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-09-30",
+    "open": 33.67,
+    "high": 34.09,
+    "low": 32.77,
+    "close": 32.86,
+    "adjusted_close": 25.4936,
+    "volume": 27965626
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-10-07",
+    "open": 32.86,
+    "high": 33.27,
+    "low": 32.0,
+    "close": 32.29,
+    "adjusted_close": 25.0514,
+    "volume": 20353161
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-10-14",
+    "open": 32.02,
+    "high": 32.195,
+    "low": 30.4,
+    "close": 30.59,
+    "adjusted_close": 23.7325,
+    "volume": 20414930
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-10-21",
+    "open": 30.32,
+    "high": 31.41,
+    "low": 30.27,
+    "close": 30.72,
+    "adjusted_close": 23.8333,
+    "volume": 20925895
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-10-28",
+    "open": 30.24,
+    "high": 30.27,
+    "low": 28.0,
+    "close": 28.6,
+    "adjusted_close": 22.1886,
+    "volume": 50925412
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-11-04",
+    "open": 28.5,
+    "high": 28.59,
+    "low": 27.63,
+    "close": 27.66,
+    "adjusted_close": 21.4593,
+    "volume": 26667123
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-11-11",
+    "open": 27.74,
+    "high": 29.16,
+    "low": 27.4,
+    "close": 27.98,
+    "adjusted_close": 21.7076,
+    "volume": 46485960
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-11-18",
+    "open": 27.57,
+    "high": 27.85,
+    "low": 27.0,
+    "close": 27.12,
+    "adjusted_close": 21.0403,
+    "volume": 30333078
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-11-25",
+    "open": 27.24,
+    "high": 27.41,
+    "low": 25.88,
+    "close": 27.1,
+    "adjusted_close": 21.0248,
+    "volume": 41170068
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-12-02",
+    "open": 26.75,
+    "high": 26.98,
+    "low": 25.76,
+    "close": 25.89,
+    "adjusted_close": 20.0861,
+    "volume": 41179098
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-12-09",
+    "open": 26.03,
+    "high": 27.42,
+    "low": 25.55,
+    "close": 27.16,
+    "adjusted_close": 21.0714,
+    "volume": 40599924
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-12-16",
+    "open": 26.83,
+    "high": 28.01,
+    "low": 26.79,
+    "close": 27.86,
+    "adjusted_close": 21.6145,
+    "volume": 49211674
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-12-23",
+    "open": 27.28,
+    "high": 27.43,
+    "low": 26.915,
+    "close": 27.31,
+    "adjusted_close": 21.1878,
+    "volume": 56116756
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2016-12-30",
+    "open": 27.38,
+    "high": 27.57,
+    "low": 27.19,
+    "close": 27.32,
+    "adjusted_close": 21.1955,
+    "volume": 16092043
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-01-06",
+    "open": 27.53,
+    "high": 28.76,
+    "low": 27.445,
+    "close": 28.43,
+    "adjusted_close": 22.0567,
+    "volume": 21331288
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-01-13",
+    "open": 28.33,
+    "high": 28.81,
+    "low": 27.9669,
+    "close": 28.58,
+    "adjusted_close": 22.173,
+    "volume": 30349275
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-01-20",
+    "open": 28.69,
+    "high": 28.69,
+    "low": 26.865,
+    "close": 27.07,
+    "adjusted_close": 21.0016,
+    "volume": 27280270
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-01-27",
+    "open": 27.1,
+    "high": 27.58,
+    "low": 26.64,
+    "close": 27.05,
+    "adjusted_close": 20.986,
+    "volume": 37350316
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-02-03",
+    "open": 27.04,
+    "high": 27.94,
+    "low": 26.51,
+    "close": 27.92,
+    "adjusted_close": 21.661,
+    "volume": 48784307
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-02-10",
+    "open": 27.71,
+    "high": 29.625,
+    "low": 27.71,
+    "close": 29.53,
+    "adjusted_close": 22.9101,
+    "volume": 33715662
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-02-17",
+    "open": 29.6,
+    "high": 29.735,
+    "low": 28.52,
+    "close": 29.16,
+    "adjusted_close": 23.3525,
+    "volume": 23614490
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-02-24",
+    "open": 28.98,
+    "high": 29.63,
+    "low": 28.61,
+    "close": 29.35,
+    "adjusted_close": 23.5047,
+    "volume": 18343731
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-03-03",
+    "open": 29.12,
+    "high": 29.96,
+    "low": 28.95,
+    "close": 29.92,
+    "adjusted_close": 23.9612,
+    "volume": 26616909
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-03-10",
+    "open": 29.77,
+    "high": 29.8155,
+    "low": 29.03,
+    "close": 29.55,
+    "adjusted_close": 23.6649,
+    "volume": 19646761
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-03-17",
+    "open": 29.88,
+    "high": 30.9,
+    "low": 29.8147,
+    "close": 30.69,
+    "adjusted_close": 24.5778,
+    "volume": 24157186
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-03-24",
+    "open": 30.72,
+    "high": 31.6,
+    "low": 30.36,
+    "close": 31.31,
+    "adjusted_close": 25.0744,
+    "volume": 28751559
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-03-31",
+    "open": 31.65,
+    "high": 31.88,
+    "low": 31.13,
+    "close": 31.14,
+    "adjusted_close": 24.9382,
+    "volume": 17585740
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-04-07",
+    "open": 31.05,
+    "high": 31.4,
+    "low": 30.14,
+    "close": 30.3,
+    "adjusted_close": 24.2655,
+    "volume": 21952574
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-04-13",
+    "open": 29.88,
+    "high": 30.2368,
+    "low": 29.8301,
+    "close": 30.14,
+    "adjusted_close": 24.1374,
+    "volume": 11861023
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-04-21",
+    "open": 30.17,
+    "high": 30.34,
+    "low": 29.6308,
+    "close": 29.76,
+    "adjusted_close": 23.8331,
+    "volume": 15884527
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-04-28",
+    "open": 30.2,
+    "high": 31.065,
+    "low": 30.13,
+    "close": 30.25,
+    "adjusted_close": 24.2255,
+    "volume": 19489292
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-05-05",
+    "open": 30.32,
+    "high": 30.74,
+    "low": 30.24,
+    "close": 30.46,
+    "adjusted_close": 24.3936,
+    "volume": 16660793
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-05-12",
+    "open": 30.46,
+    "high": 34.08,
+    "low": 30.21,
+    "close": 34.0,
+    "adjusted_close": 27.2286,
+    "volume": 31525203
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-05-19",
+    "open": 33.97,
+    "high": 34.69,
+    "low": 33.81,
+    "close": 33.9,
+    "adjusted_close": 27.1485,
+    "volume": 23486689
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-05-26",
+    "open": 33.83,
+    "high": 34.4,
+    "low": 33.81,
+    "close": 33.85,
+    "adjusted_close": 27.1085,
+    "volume": 17811294
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-06-02",
+    "open": 33.97,
+    "high": 35.19,
+    "low": 33.9,
+    "close": 35.11,
+    "adjusted_close": 28.1176,
+    "volume": 15577842
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-06-09",
+    "open": 35.24,
+    "high": 35.27,
+    "low": 34.01,
+    "close": 34.17,
+    "adjusted_close": 27.3648,
+    "volume": 22931277
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-06-16",
+    "open": 34.03,
+    "high": 34.605,
+    "low": 33.895,
+    "close": 34.54,
+    "adjusted_close": 27.6611,
+    "volume": 15124204
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-06-23",
+    "open": 34.44,
+    "high": 35.6,
+    "low": 34.44,
+    "close": 35.07,
+    "adjusted_close": 28.0855,
+    "volume": 19897660
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-06-30",
+    "open": 35.33,
+    "high": 35.33,
+    "low": 33.87,
+    "close": 34.09,
+    "adjusted_close": 27.3007,
+    "volume": 15764497
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-07-07",
+    "open": 33.84,
+    "high": 34.19,
+    "low": 33.5,
+    "close": 33.75,
+    "adjusted_close": 27.0284,
+    "volume": 11086128
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-07-14",
+    "open": 33.71,
+    "high": 34.5,
+    "low": 32.26,
+    "close": 33.87,
+    "adjusted_close": 27.1245,
+    "volume": 48890103
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-07-21",
+    "open": 33.73,
+    "high": 34.07,
+    "low": 33.3,
+    "close": 34.05,
+    "adjusted_close": 27.2687,
+    "volume": 19505964
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-07-28",
+    "open": 33.63,
+    "high": 34.05,
+    "low": 28.43,
+    "close": 30.27,
+    "adjusted_close": 24.2415,
+    "volume": 51813381
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-08-04",
+    "open": 30.82,
+    "high": 30.84,
+    "low": 29.87,
+    "close": 30.17,
+    "adjusted_close": 24.1614,
+    "volume": 32333113
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-08-11",
+    "open": 30.07,
+    "high": 30.31,
+    "low": 28.855,
+    "close": 29.08,
+    "adjusted_close": 23.6362,
+    "volume": 24175891
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-08-18",
+    "open": 28.98,
+    "high": 29.56,
+    "low": 28.88,
+    "close": 29.12,
+    "adjusted_close": 23.6687,
+    "volume": 15910729
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-08-25",
+    "open": 29.05,
+    "high": 29.66,
+    "low": 28.78,
+    "close": 29.24,
+    "adjusted_close": 23.7662,
+    "volume": 14312100
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-09-01",
+    "open": 29.43,
+    "high": 30.29,
+    "low": 29.14,
+    "close": 30.11,
+    "adjusted_close": 24.4734,
+    "volume": 12416312
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-09-08",
+    "open": 30.41,
+    "high": 32.42,
+    "low": 29.975,
+    "close": 32.25,
+    "adjusted_close": 26.2128,
+    "volume": 29562591
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-09-15",
+    "open": 32.73,
+    "high": 33.49,
+    "low": 32.45,
+    "close": 32.53,
+    "adjusted_close": 26.4403,
+    "volume": 32949670
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-09-22",
+    "open": 32.46,
+    "high": 34.07,
+    "low": 32.24,
+    "close": 33.95,
+    "adjusted_close": 27.5945,
+    "volume": 30476124
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-09-29",
+    "open": 33.64,
+    "high": 34.02,
+    "low": 33.03,
+    "close": 33.88,
+    "adjusted_close": 27.5376,
+    "volume": 20796203
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-10-06",
+    "open": 33.85,
+    "high": 34.4,
+    "low": 33.85,
+    "close": 34.26,
+    "adjusted_close": 27.8465,
+    "volume": 19002801
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-10-13",
+    "open": 34.38,
+    "high": 34.785,
+    "low": 34.19,
+    "close": 34.61,
+    "adjusted_close": 28.131,
+    "volume": 16947168
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-10-20",
+    "open": 34.91,
+    "high": 34.94,
+    "low": 34.49,
+    "close": 34.62,
+    "adjusted_close": 28.1391,
+    "volume": 18462616
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-10-27",
+    "open": 34.57,
+    "high": 34.71,
+    "low": 33.35,
+    "close": 33.49,
+    "adjusted_close": 27.2206,
+    "volume": 16550251
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-11-03",
+    "open": 33.59,
+    "high": 34.79,
+    "low": 33.52,
+    "close": 34.48,
+    "adjusted_close": 28.0253,
+    "volume": 18070007
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-11-10",
+    "open": 34.33,
+    "high": 34.35,
+    "low": 32.61,
+    "close": 32.91,
+    "adjusted_close": 26.7492,
+    "volume": 20895861
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-11-17",
+    "open": 32.85,
+    "high": 33.69,
+    "low": 32.67,
+    "close": 33.46,
+    "adjusted_close": 27.1962,
+    "volume": 12000766
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-11-24",
+    "open": 33.51,
+    "high": 34.04,
+    "low": 33.3,
+    "close": 33.84,
+    "adjusted_close": 27.5051,
+    "volume": 5486066
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-12-01",
+    "open": 34.06,
+    "high": 34.08,
+    "low": 32.62,
+    "close": 32.85,
+    "adjusted_close": 26.7004,
+    "volume": 16212588
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-12-08",
+    "open": 32.96,
+    "high": 33.0,
+    "low": 31.99,
+    "close": 32.74,
+    "adjusted_close": 26.611,
+    "volume": 15047378
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-12-15",
+    "open": 32.85,
+    "high": 33.66,
+    "low": 32.8,
+    "close": 33.13,
+    "adjusted_close": 26.928,
+    "volume": 16560764
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-12-22",
+    "open": 33.3,
+    "high": 33.74,
+    "low": 32.94,
+    "close": 33.61,
+    "adjusted_close": 27.3182,
+    "volume": 12143851
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2017-12-29",
+    "open": 33.45,
+    "high": 34.95,
+    "low": 33.45,
+    "close": 34.7,
+    "adjusted_close": 28.2041,
+    "volume": 10821419
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-01-05",
+    "open": 35.24,
+    "high": 35.92,
+    "low": 34.95,
+    "close": 35.87,
+    "adjusted_close": 29.1551,
+    "volume": 17509880
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-01-12",
+    "open": 35.72,
+    "high": 35.77,
+    "low": 35.01,
+    "close": 35.65,
+    "adjusted_close": 28.9763,
+    "volume": 11518087
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-01-19",
+    "open": 35.48,
+    "high": 35.58,
+    "low": 34.92,
+    "close": 35.44,
+    "adjusted_close": 28.8056,
+    "volume": 13231068
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-01-26",
+    "open": 35.65,
+    "high": 36.7,
+    "low": 35.62,
+    "close": 36.63,
+    "adjusted_close": 29.7728,
+    "volume": 19835075
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-02-02",
+    "open": 36.37,
+    "high": 36.37,
+    "low": 34.94,
+    "close": 35.9,
+    "adjusted_close": 29.1795,
+    "volume": 23877348
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-02-09",
+    "open": 35.31,
+    "high": 35.33,
+    "low": 32.85,
+    "close": 33.61,
+    "adjusted_close": 27.3182,
+    "volume": 42637131
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-02-16",
+    "open": 33.79,
+    "high": 34.47,
+    "low": 33.58,
+    "close": 33.93,
+    "adjusted_close": 28.3484,
+    "volume": 20013839
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-02-23",
+    "open": 33.53,
+    "high": 34.54,
+    "low": 33.48,
+    "close": 34.01,
+    "adjusted_close": 28.4152,
+    "volume": 15911781
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-03-02",
+    "open": 34.03,
+    "high": 34.26,
+    "low": 32.69,
+    "close": 33.16,
+    "adjusted_close": 27.705,
+    "volume": 19760673
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-03-09",
+    "open": 33.38,
+    "high": 34.13,
+    "low": 33.33,
+    "close": 33.79,
+    "adjusted_close": 28.2314,
+    "volume": 12703913
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-03-16",
+    "open": 33.98,
+    "high": 34.62,
+    "low": 33.65,
+    "close": 34.59,
+    "adjusted_close": 28.8998,
+    "volume": 15797892
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-03-23",
+    "open": 34.83,
+    "high": 34.87,
+    "low": 34.11,
+    "close": 34.17,
+    "adjusted_close": 28.5489,
+    "volume": 20018114
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-03-29",
+    "open": 34.87,
+    "high": 35.53,
+    "low": 34.29,
+    "close": 34.97,
+    "adjusted_close": 29.2173,
+    "volume": 16819400
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-04-06",
+    "open": 34.89,
+    "high": 35.9,
+    "low": 34.48,
+    "close": 35.42,
+    "adjusted_close": 29.5933,
+    "volume": 19695372
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-04-13",
+    "open": 35.76,
+    "high": 36.75,
+    "low": 35.65,
+    "close": 36.32,
+    "adjusted_close": 30.3452,
+    "volume": 23117965
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-04-20",
+    "open": 35.97,
+    "high": 36.04,
+    "low": 35.28,
+    "close": 35.34,
+    "adjusted_close": 29.5264,
+    "volume": 22562055
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-04-27",
+    "open": 35.58,
+    "high": 35.65,
+    "low": 34.89,
+    "close": 35.59,
+    "adjusted_close": 29.7353,
+    "volume": 15718719
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-05-04",
+    "open": 35.52,
+    "high": 36.15,
+    "low": 35.4,
+    "close": 35.58,
+    "adjusted_close": 29.7269,
+    "volume": 25367666
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-05-11",
+    "open": 35.77,
+    "high": 36.5,
+    "low": 35.48,
+    "close": 36.4,
+    "adjusted_close": 30.4121,
+    "volume": 17853296
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-05-18",
+    "open": 36.46,
+    "high": 36.74,
+    "low": 35.42,
+    "close": 36.33,
+    "adjusted_close": 30.3536,
+    "volume": 22099446
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-05-25",
+    "open": 36.89,
+    "high": 37.3,
+    "low": 36.61,
+    "close": 37.04,
+    "adjusted_close": 30.9468,
+    "volume": 29768714
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-06-01",
+    "open": 36.44,
+    "high": 37.17,
+    "low": 36.28,
+    "close": 36.81,
+    "adjusted_close": 30.7546,
+    "volume": 13846754
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-06-08",
+    "open": 37.02,
+    "high": 37.06,
+    "low": 36.28,
+    "close": 36.42,
+    "adjusted_close": 30.4288,
+    "volume": 11149082
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-06-15",
+    "open": 36.34,
+    "high": 36.96,
+    "low": 36.03,
+    "close": 36.41,
+    "adjusted_close": 30.4204,
+    "volume": 11398521
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-06-22",
+    "open": 36.08,
+    "high": 36.17,
+    "low": 34.92,
+    "close": 35.06,
+    "adjusted_close": 29.2925,
+    "volume": 16351106
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-06-29",
+    "open": 35.26,
+    "high": 35.32,
+    "low": 34.38,
+    "close": 35.11,
+    "adjusted_close": 29.3343,
+    "volume": 19424538
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-07-06",
+    "open": 34.52,
+    "high": 35.26,
+    "low": 34.4,
+    "close": 35.18,
+    "adjusted_close": 29.3927,
+    "volume": 12481843
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-07-13",
+    "open": 35.32,
+    "high": 37.18,
+    "low": 35.15,
+    "close": 37.16,
+    "adjusted_close": 31.047,
+    "volume": 20510498
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-07-20",
+    "open": 36.73,
+    "high": 37.37,
+    "low": 36.58,
+    "close": 37.17,
+    "adjusted_close": 31.0554,
+    "volume": 14930331
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-07-27",
+    "open": 37.16,
+    "high": 38.73,
+    "low": 37.05,
+    "close": 38.23,
+    "adjusted_close": 31.941,
+    "volume": 18402545
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-08-03",
+    "open": 38.33,
+    "high": 39.25,
+    "low": 38.18,
+    "close": 38.66,
+    "adjusted_close": 32.3003,
+    "volume": 24497337
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-08-10",
+    "open": 37.94,
+    "high": 39.76,
+    "low": 37.94,
+    "close": 39.38,
+    "adjusted_close": 33.2756,
+    "volume": 22649604
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-08-17",
+    "open": 39.38,
+    "high": 39.44,
+    "low": 37.85,
+    "close": 38.12,
+    "adjusted_close": 32.2109,
+    "volume": 28575257
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-08-24",
+    "open": 38.6,
+    "high": 39.08,
+    "low": 38.1,
+    "close": 38.3,
+    "adjusted_close": 32.363,
+    "volume": 19776772
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-08-31",
+    "open": 38.66,
+    "high": 39.01,
+    "low": 38.15,
+    "close": 38.34,
+    "adjusted_close": 32.3968,
+    "volume": 15700243
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-09-07",
+    "open": 37.83,
+    "high": 37.95,
+    "low": 36.88,
+    "close": 37.18,
+    "adjusted_close": 31.4166,
+    "volume": 10151457
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-09-14",
+    "open": 37.83,
+    "high": 38.0,
+    "low": 37.27,
+    "close": 37.45,
+    "adjusted_close": 31.6448,
+    "volume": 23727586
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-09-21",
+    "open": 37.42,
+    "high": 37.77,
+    "low": 37.24,
+    "close": 37.68,
+    "adjusted_close": 31.8391,
+    "volume": 13146150
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-09-28",
+    "open": 37.7,
+    "high": 39.74,
+    "low": 37.7,
+    "close": 39.57,
+    "adjusted_close": 33.4362,
+    "volume": 23280178
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-10-05",
+    "open": 39.59,
+    "high": 40.16,
+    "low": 38.88,
+    "close": 39.06,
+    "adjusted_close": 33.0052,
+    "volume": 18950531
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-10-12",
+    "open": 38.39,
+    "high": 38.51,
+    "low": 36.88,
+    "close": 37.15,
+    "adjusted_close": 31.3913,
+    "volume": 19834739
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-10-19",
+    "open": 37.39,
+    "high": 39.51,
+    "low": 37.24,
+    "close": 39.21,
+    "adjusted_close": 33.132,
+    "volume": 25023464
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-10-26",
+    "open": 39.67,
+    "high": 39.76,
+    "low": 36.67,
+    "close": 37.9,
+    "adjusted_close": 32.025,
+    "volume": 24247015
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-11-02",
+    "open": 38.46,
+    "high": 39.42,
+    "low": 37.63,
+    "close": 37.85,
+    "adjusted_close": 31.9828,
+    "volume": 23526363
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-11-09",
+    "open": 38.72,
+    "high": 41.28,
+    "low": 37.67,
+    "close": 40.97,
+    "adjusted_close": 34.6191,
+    "volume": 21478670
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-11-16",
+    "open": 41.19,
+    "high": 41.78,
+    "low": 39.94,
+    "close": 40.67,
+    "adjusted_close": 34.3657,
+    "volume": 32873069
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-11-23",
+    "open": 40.45,
+    "high": 40.98,
+    "low": 39.74,
+    "close": 40.2,
+    "adjusted_close": 33.9685,
+    "volume": 14453881
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-11-30",
+    "open": 40.18,
+    "high": 40.45,
+    "low": 39.25,
+    "close": 39.82,
+    "adjusted_close": 33.6474,
+    "volume": 23615475
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-12-07",
+    "open": 39.95,
+    "high": 40.35,
+    "low": 38.12,
+    "close": 38.18,
+    "adjusted_close": 32.2616,
+    "volume": 21941317
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-12-14",
+    "open": 38.86,
+    "high": 39.5,
+    "low": 38.13,
+    "close": 39.15,
+    "adjusted_close": 33.0813,
+    "volume": 25016115
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-12-21",
+    "open": 39.2,
+    "high": 39.28,
+    "low": 37.49,
+    "close": 37.51,
+    "adjusted_close": 31.6955,
+    "volume": 19488418
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2018-12-28",
+    "open": 37.87,
+    "high": 38.095,
+    "low": 36.49,
+    "close": 37.77,
+    "adjusted_close": 31.9152,
+    "volume": 17176384
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-01-04",
+    "open": 37.82,
+    "high": 39.38,
+    "low": 37.59,
+    "close": 39.18,
+    "adjusted_close": 33.1066,
+    "volume": 13087094
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-01-11",
+    "open": 39.0,
+    "high": 39.14,
+    "low": 36.89,
+    "close": 36.95,
+    "adjusted_close": 31.2223,
+    "volume": 27128093
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-01-18",
+    "open": 36.54,
+    "high": 36.84,
+    "low": 35.42,
+    "close": 36.55,
+    "adjusted_close": 30.8843,
+    "volume": 39640528
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-01-25",
+    "open": 36.49,
+    "high": 37.03,
+    "low": 35.58,
+    "close": 35.75,
+    "adjusted_close": 30.2083,
+    "volume": 28151249
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-02-01",
+    "open": 35.56,
+    "high": 36.88,
+    "low": 35.3,
+    "close": 36.65,
+    "adjusted_close": 30.9688,
+    "volume": 21887583
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-02-08",
+    "open": 36.8,
+    "high": 37.26,
+    "low": 36.56,
+    "close": 37.01,
+    "adjusted_close": 31.273,
+    "volume": 14798700
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-02-15",
+    "open": 36.8,
+    "high": 41.01,
+    "low": 36.55,
+    "close": 40.92,
+    "adjusted_close": 34.5769,
+    "volume": 30775258
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-02-22",
+    "open": 39.97,
+    "high": 40.985,
+    "low": 39.94,
+    "close": 40.94,
+    "adjusted_close": 34.5938,
+    "volume": 26899725
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-03-01",
+    "open": 41.5,
+    "high": 42.58,
+    "low": 41.13,
+    "close": 41.76,
+    "adjusted_close": 36.0929,
+    "volume": 24966781
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-03-08",
+    "open": 41.73,
+    "high": 42.61,
+    "low": 41.33,
+    "close": 41.77,
+    "adjusted_close": 36.1015,
+    "volume": 21529879
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-03-15",
+    "open": 41.65,
+    "high": 42.56,
+    "low": 41.64,
+    "close": 42.51,
+    "adjusted_close": 36.7411,
+    "volume": 23140206
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-03-22",
+    "open": 42.52,
+    "high": 43.3,
+    "low": 42.42,
+    "close": 42.59,
+    "adjusted_close": 36.8103,
+    "volume": 16368728
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-03-29",
+    "open": 42.6,
+    "high": 43.26,
+    "low": 40.14,
+    "close": 40.43,
+    "adjusted_close": 34.9434,
+    "volume": 48699448
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-04-05",
+    "open": 41.44,
+    "high": 41.66,
+    "low": 40.47,
+    "close": 40.7,
+    "adjusted_close": 35.1768,
+    "volume": 36988326
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-04-12",
+    "open": 41.08,
+    "high": 41.08,
+    "low": 39.47,
+    "close": 39.52,
+    "adjusted_close": 34.1569,
+    "volume": 26106001
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-04-18",
+    "open": 39.76,
+    "high": 40.1,
+    "low": 38.35,
+    "close": 38.8,
+    "adjusted_close": 33.5346,
+    "volume": 16178939
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-04-26",
+    "open": 38.78,
+    "high": 39.15,
+    "low": 37.6575,
+    "close": 37.99,
+    "adjusted_close": 32.8345,
+    "volume": 24927842
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-05-03",
+    "open": 38.56,
+    "high": 38.57,
+    "low": 36.83,
+    "close": 38.41,
+    "adjusted_close": 33.1975,
+    "volume": 32817054
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-05-10",
+    "open": 37.92,
+    "high": 38.73,
+    "low": 37.39,
+    "close": 37.65,
+    "adjusted_close": 32.5407,
+    "volume": 21658808
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-05-17",
+    "open": 37.29,
+    "high": 38.06,
+    "low": 37.12,
+    "close": 37.78,
+    "adjusted_close": 32.653,
+    "volume": 24097344
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-05-24",
+    "open": 37.34,
+    "high": 39.32,
+    "low": 37.33,
+    "close": 39.02,
+    "adjusted_close": 33.7247,
+    "volume": 18097616
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-05-31",
+    "open": 38.5,
+    "high": 38.65,
+    "low": 37.12,
+    "close": 37.38,
+    "adjusted_close": 32.3073,
+    "volume": 12677974
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-06-07",
+    "open": 38.04,
+    "high": 39.27,
+    "low": 37.76,
+    "close": 39.02,
+    "adjusted_close": 33.7247,
+    "volume": 12252404
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-06-14",
+    "open": 39.16,
+    "high": 40.01,
+    "low": 39.08,
+    "close": 39.67,
+    "adjusted_close": 34.2865,
+    "volume": 11312149
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-06-21",
+    "open": 39.56,
+    "high": 42.08,
+    "low": 39.55,
+    "close": 41.36,
+    "adjusted_close": 35.7472,
+    "volume": 14204635
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-06-28",
+    "open": 41.53,
+    "high": 41.7,
+    "low": 40.76,
+    "close": 41.28,
+    "adjusted_close": 35.678,
+    "volume": 9048601
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-07-05",
+    "open": 41.65,
+    "high": 42.15,
+    "low": 40.9,
+    "close": 40.94,
+    "adjusted_close": 35.3842,
+    "volume": 10185516
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-07-12",
+    "open": 40.75,
+    "high": 41.41,
+    "low": 39.85,
+    "close": 40.21,
+    "adjusted_close": 34.7532,
+    "volume": 10953261
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-07-19",
+    "open": 40.26,
+    "high": 40.74,
+    "low": 40.06,
+    "close": 40.12,
+    "adjusted_close": 34.6755,
+    "volume": 11440398
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-07-26",
+    "open": 40.41,
+    "high": 43.54,
+    "low": 39.85,
+    "close": 43.51,
+    "adjusted_close": 37.6054,
+    "volume": 27420192
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-08-02",
+    "open": 44.56,
+    "high": 44.74,
+    "low": 42.97,
+    "close": 44.28,
+    "adjusted_close": 38.2709,
+    "volume": 19104466
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-08-09",
+    "open": 43.86,
+    "high": 45.28,
+    "low": 43.16,
+    "close": 44.77,
+    "adjusted_close": 39.0889,
+    "volume": 18274466
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-08-16",
+    "open": 44.79,
+    "high": 44.86,
+    "low": 43.8,
+    "close": 44.34,
+    "adjusted_close": 38.7135,
+    "volume": 12040826
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-08-23",
+    "open": 44.57,
+    "high": 45.69,
+    "low": 44.33,
+    "close": 44.58,
+    "adjusted_close": 38.923,
+    "volume": 20911212
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-08-30",
+    "open": 44.98,
+    "high": 45.51,
+    "low": 44.47,
+    "close": 45.03,
+    "adjusted_close": 39.3159,
+    "volume": 12007259
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-09-06",
+    "open": 45.16,
+    "high": 45.53,
+    "low": 44.56,
+    "close": 44.74,
+    "adjusted_close": 39.0627,
+    "volume": 7504459
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-09-13",
+    "open": 43.99,
+    "high": 44.03,
+    "low": 42.19,
+    "close": 42.77,
+    "adjusted_close": 37.3427,
+    "volume": 25210731
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-09-20",
+    "open": 43.03,
+    "high": 45.33,
+    "low": 42.44,
+    "close": 45.18,
+    "adjusted_close": 39.4469,
+    "volume": 18551587
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-09-27",
+    "open": 45.08,
+    "high": 46.22,
+    "low": 44.56,
+    "close": 45.28,
+    "adjusted_close": 39.5342,
+    "volume": 16527730
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-10-04",
+    "open": 44.78,
+    "high": 45.16,
+    "low": 42.25,
+    "close": 43.31,
+    "adjusted_close": 37.8142,
+    "volume": 13609274
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-10-11",
+    "open": 43.41,
+    "high": 44.16,
+    "low": 42.9,
+    "close": 43.58,
+    "adjusted_close": 38.0499,
+    "volume": 17392076
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-10-18",
+    "open": 43.99,
+    "high": 44.36,
+    "low": 43.63,
+    "close": 43.87,
+    "adjusted_close": 38.3031,
+    "volume": 10661286
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-10-25",
+    "open": 43.87,
+    "high": 47.72,
+    "low": 43.65,
+    "close": 47.67,
+    "adjusted_close": 41.6209,
+    "volume": 17488582
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-11-01",
+    "open": 47.69,
+    "high": 49.22,
+    "low": 47.14,
+    "close": 48.39,
+    "adjusted_close": 42.2496,
+    "volume": 19069841
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-11-08",
+    "open": 48.52,
+    "high": 48.55,
+    "low": 46.31,
+    "close": 47.26,
+    "adjusted_close": 41.2629,
+    "volume": 18491536
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-11-15",
+    "open": 46.4,
+    "high": 47.97,
+    "low": 46.39,
+    "close": 47.44,
+    "adjusted_close": 41.4201,
+    "volume": 10358775
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-11-22",
+    "open": 47.99,
+    "high": 48.39,
+    "low": 46.67,
+    "close": 47.97,
+    "adjusted_close": 41.8828,
+    "volume": 10808385
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-11-29",
+    "open": 48.78,
+    "high": 49.0,
+    "low": 48.35,
+    "close": 48.48,
+    "adjusted_close": 42.3281,
+    "volume": 9360779
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-12-06",
+    "open": 48.67,
+    "high": 48.68,
+    "low": 47.5,
+    "close": 47.68,
+    "adjusted_close": 41.6296,
+    "volume": 21289547
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-12-13",
+    "open": 47.62,
+    "high": 48.59,
+    "low": 47.45,
+    "close": 48.36,
+    "adjusted_close": 42.2234,
+    "volume": 15054774
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-12-20",
+    "open": 49.48,
+    "high": 51.23,
+    "low": 48.85,
+    "close": 50.46,
+    "adjusted_close": 44.0569,
+    "volume": 17013021
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2019-12-27",
+    "open": 50.4,
+    "high": 50.66,
+    "low": 49.6,
+    "close": 50.44,
+    "adjusted_close": 44.0394,
+    "volume": 6595075
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-01-03",
+    "open": 50.83,
+    "high": 50.84,
+    "low": 49.68,
+    "close": 50.09,
+    "adjusted_close": 43.7338,
+    "volume": 8506242
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-01-10",
+    "open": 50.04,
+    "high": 50.3,
+    "low": 49.74,
+    "close": 49.85,
+    "adjusted_close": 43.5243,
+    "volume": 9571516
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-01-17",
+    "open": 49.48,
+    "high": 51.55,
+    "low": 49.42,
+    "close": 51.33,
+    "adjusted_close": 44.8165,
+    "volume": 12880170
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-01-24",
+    "open": 50.48,
+    "high": 51.04,
+    "low": 49.2,
+    "close": 49.28,
+    "adjusted_close": 43.0266,
+    "volume": 9915422
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-01-31",
+    "open": 48.91,
+    "high": 50.11,
+    "low": 48.47,
+    "close": 48.7,
+    "adjusted_close": 42.5202,
+    "volume": 18179293
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-02-07",
+    "open": 48.62,
+    "high": 50.1,
+    "low": 48.45,
+    "close": 49.4,
+    "adjusted_close": 43.1314,
+    "volume": 10519187
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-02-14",
+    "open": 49.49,
+    "high": 49.98,
+    "low": 47.4,
+    "close": 47.85,
+    "adjusted_close": 41.7781,
+    "volume": 15784550
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-02-21",
+    "open": 48.96,
+    "high": 50.25,
+    "low": 48.59,
+    "close": 50.17,
+    "adjusted_close": 43.8037,
+    "volume": 14302918
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-02-28",
+    "open": 48.25,
+    "high": 48.7,
+    "low": 42.96,
+    "close": 43.8,
+    "adjusted_close": 39.0481,
+    "volume": 22496549
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-03-06",
+    "open": 44.45,
+    "high": 48.69,
+    "low": 44.35,
+    "close": 47.52,
+    "adjusted_close": 42.3645,
+    "volume": 22915632
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-03-13",
+    "open": 45.54,
+    "high": 46.95,
+    "low": 38.58,
+    "close": 42.28,
+    "adjusted_close": 37.693,
+    "volume": 37315979
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-03-20",
+    "open": 36.81,
+    "high": 41.98,
+    "low": 36.15,
+    "close": 39.42,
+    "adjusted_close": 35.1433,
+    "volume": 36952989
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-03-27",
+    "open": 39.36,
+    "high": 43.13,
+    "low": 38.14,
+    "close": 42.47,
+    "adjusted_close": 37.8624,
+    "volume": 31904617
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-04-03",
+    "open": 42.8,
+    "high": 45.11,
+    "low": 42.8,
+    "close": 43.96,
+    "adjusted_close": 39.1907,
+    "volume": 30784933
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-04-09",
+    "open": 44.02,
+    "high": 44.98,
+    "low": 42.84,
+    "close": 44.66,
+    "adjusted_close": 39.8148,
+    "volume": 20824260
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-04-17",
+    "open": 45.41,
+    "high": 50.31,
+    "low": 45.39,
+    "close": 50.03,
+    "adjusted_close": 44.6022,
+    "volume": 21134595
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-04-24",
+    "open": 49.82,
+    "high": 51.26,
+    "low": 49.79,
+    "close": 51.18,
+    "adjusted_close": 45.6274,
+    "volume": 14402350
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-05-01",
+    "open": 51.61,
+    "high": 54.0,
+    "low": 50.66,
+    "close": 51.86,
+    "adjusted_close": 46.2336,
+    "volume": 20707689
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-05-08",
+    "open": 52.22,
+    "high": 54.71,
+    "low": 51.76,
+    "close": 53.29,
+    "adjusted_close": 47.5085,
+    "volume": 18319498
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-05-15",
+    "open": 53.03,
+    "high": 55.59,
+    "low": 52.54,
+    "close": 53.41,
+    "adjusted_close": 47.6155,
+    "volume": 17453404
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-05-22",
+    "open": 53.64,
+    "high": 57.44,
+    "low": 53.17,
+    "close": 55.22,
+    "adjusted_close": 49.2291,
+    "volume": 38642193
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-05-29",
+    "open": 54.52,
+    "high": 55.61,
+    "low": 50.81,
+    "close": 54.6,
+    "adjusted_close": 48.6764,
+    "volume": 24662219
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-06-05",
+    "open": 54.32,
+    "high": 55.29,
+    "low": 53.74,
+    "close": 53.85,
+    "adjusted_close": 48.0077,
+    "volume": 26057912
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-06-12",
+    "open": 52.81,
+    "high": 54.26,
+    "low": 50.95,
+    "close": 51.47,
+    "adjusted_close": 45.8859,
+    "volume": 29506580
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-06-19",
+    "open": 52.44,
+    "high": 54.25,
+    "low": 51.69,
+    "close": 53.02,
+    "adjusted_close": 47.2678,
+    "volume": 26762522
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-06-26",
+    "open": 53.37,
+    "high": 55.19,
+    "low": 52.0,
+    "close": 52.7,
+    "adjusted_close": 46.9825,
+    "volume": 31721146
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-07-02",
+    "open": 53.37,
+    "high": 54.07,
+    "low": 52.04,
+    "close": 53.8,
+    "adjusted_close": 47.9632,
+    "volume": 19197769
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-07-10",
+    "open": 53.85,
+    "high": 54.99,
+    "low": 53.43,
+    "close": 53.76,
+    "adjusted_close": 47.9275,
+    "volume": 24787285
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-07-17",
+    "open": 53.93,
+    "high": 61.46,
+    "low": 53.12,
+    "close": 61.1,
+    "adjusted_close": 54.4712,
+    "volume": 69493436
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-07-24",
+    "open": 62.69,
+    "high": 64.94,
+    "low": 54.81,
+    "close": 55.8,
+    "adjusted_close": 49.7462,
+    "volume": 97463197
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-07-31",
+    "open": 56.16,
+    "high": 57.95,
+    "low": 55.35,
+    "close": 55.78,
+    "adjusted_close": 49.7283,
+    "volume": 30737939
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-08-07",
+    "open": 56.68,
+    "high": 57.488,
+    "low": 54.97,
+    "close": 55.41,
+    "adjusted_close": 49.3985,
+    "volume": 19575839
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-08-14",
+    "open": 55.7,
+    "high": 57.18,
+    "low": 55.0502,
+    "close": 55.19,
+    "adjusted_close": 49.5992,
+    "volume": 18736418
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-08-21",
+    "open": 55.94,
+    "high": 57.35,
+    "low": 55.24,
+    "close": 55.71,
+    "adjusted_close": 50.0665,
+    "volume": 16411015
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-08-28",
+    "open": 57.5,
+    "high": 57.925,
+    "low": 55.52,
+    "close": 55.69,
+    "adjusted_close": 50.0485,
+    "volume": 21028063
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-09-04",
+    "open": 55.8,
+    "high": 56.34,
+    "low": 52.57,
+    "close": 53.58,
+    "adjusted_close": 48.1522,
+    "volume": 20574775
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-09-11",
+    "open": 54.14,
+    "high": 54.94,
+    "low": 53.04,
+    "close": 53.73,
+    "adjusted_close": 48.2871,
+    "volume": 27186650
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-09-18",
+    "open": 54.23,
+    "high": 56.8,
+    "low": 53.37,
+    "close": 56.45,
+    "adjusted_close": 50.7315,
+    "volume": 20136021
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-09-25",
+    "open": 55.09,
+    "high": 56.585,
+    "low": 53.92,
+    "close": 55.51,
+    "adjusted_close": 49.8867,
+    "volume": 22673658
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-10-02",
+    "open": 55.07,
+    "high": 55.45,
+    "low": 54.13,
+    "close": 54.22,
+    "adjusted_close": 48.7274,
+    "volume": 20348366
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-10-09",
+    "open": 54.46,
+    "high": 54.85,
+    "low": 53.33,
+    "close": 54.72,
+    "adjusted_close": 49.1768,
+    "volume": 18361499
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-10-16",
+    "open": 55.19,
+    "high": 55.45,
+    "low": 52.235,
+    "close": 53.03,
+    "adjusted_close": 47.658,
+    "volume": 16096200
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-10-23",
+    "open": 53.23,
+    "high": 53.325,
+    "low": 50.47,
+    "close": 52.0,
+    "adjusted_close": 46.7323,
+    "volume": 25614483
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-10-30",
+    "open": 52.87,
+    "high": 53.49,
+    "low": 49.79,
+    "close": 50.16,
+    "adjusted_close": 45.0787,
+    "volume": 23286179
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-11-06",
+    "open": 50.47,
+    "high": 56.3831,
+    "low": 50.15,
+    "close": 55.52,
+    "adjusted_close": 49.8957,
+    "volume": 27258962
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-11-13",
+    "open": 54.77,
+    "high": 58.08,
+    "low": 53.885,
+    "close": 57.38,
+    "adjusted_close": 51.5673,
+    "volume": 20104808
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-11-20",
+    "open": 56.49,
+    "high": 56.77,
+    "low": 53.67,
+    "close": 55.3,
+    "adjusted_close": 49.698,
+    "volume": 27457210
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-11-27",
+    "open": 54.52,
+    "high": 54.71,
+    "low": 51.44,
+    "close": 52.61,
+    "adjusted_close": 47.2805,
+    "volume": 48431338
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-12-04",
+    "open": 53.3,
+    "high": 54.135,
+    "low": 52.25,
+    "close": 53.74,
+    "adjusted_close": 48.296,
+    "volume": 45564431
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-12-11",
+    "open": 54.3784,
+    "high": 55.06,
+    "low": 53.62,
+    "close": 54.27,
+    "adjusted_close": 48.7723,
+    "volume": 32679768
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-12-18",
+    "open": 50.67,
+    "high": 51.81,
+    "low": 49.89,
+    "close": 50.21,
+    "adjusted_close": 45.1236,
+    "volume": 136409752
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-12-24",
+    "open": 49.48,
+    "high": 49.835,
+    "low": 48.17,
+    "close": 48.52,
+    "adjusted_close": 43.6048,
+    "volume": 43484508
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2020-12-31",
+    "open": 50.23,
+    "high": 50.7001,
+    "low": 49.12,
+    "close": 49.99,
+    "adjusted_close": 44.9259,
+    "volume": 57652719
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-01-08",
+    "open": 50.92,
+    "high": 51.44,
+    "low": 49.89,
+    "close": 50.86,
+    "adjusted_close": 45.7078,
+    "volume": 66341334
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-01-15",
+    "open": 50.58,
+    "high": 51.8,
+    "low": 50.1,
+    "close": 51.34,
+    "adjusted_close": 46.1392,
+    "volume": 53791723
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-01-22",
+    "open": 52.52,
+    "high": 53.54,
+    "low": 51.91,
+    "close": 53.25,
+    "adjusted_close": 47.8557,
+    "volume": 56625513
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-01-29",
+    "open": 53.73,
+    "high": 54.65,
+    "low": 50.51,
+    "close": 50.6,
+    "adjusted_close": 45.4741,
+    "volume": 60974634
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-02-05",
+    "open": 51.255,
+    "high": 51.3,
+    "low": 49.65,
+    "close": 49.73,
+    "adjusted_close": 44.6923,
+    "volume": 52128586
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-02-12",
+    "open": 50.1,
+    "high": 51.735,
+    "low": 49.6,
+    "close": 51.69,
+    "adjusted_close": 46.4537,
+    "volume": 51329695
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-02-19",
+    "open": 51.02,
+    "high": 51.98,
+    "low": 50.545,
+    "close": 50.59,
+    "adjusted_close": 45.4651,
+    "volume": 34989194
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-02-26",
+    "open": 50.67,
+    "high": 50.81,
+    "low": 47.98,
+    "close": 48.38,
+    "adjusted_close": 44.3058,
+    "volume": 58825037
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-03-05",
+    "open": 48.46,
+    "high": 48.68,
+    "low": 46.48,
+    "close": 48.06,
+    "adjusted_close": 44.0127,
+    "volume": 66847189
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-03-12",
+    "open": 47.75,
+    "high": 50.29,
+    "low": 47.66,
+    "close": 48.42,
+    "adjusted_close": 44.3424,
+    "volume": 61594506
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-03-19",
+    "open": 48.58,
+    "high": 50.465,
+    "low": 48.13,
+    "close": 49.21,
+    "adjusted_close": 45.0659,
+    "volume": 57007752
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-03-26",
+    "open": 49.98,
+    "high": 51.21,
+    "low": 48.76,
+    "close": 50.64,
+    "adjusted_close": 46.3754,
+    "volume": 43974071
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-04-01",
+    "open": 50.55,
+    "high": 51.06,
+    "low": 49.325,
+    "close": 49.53,
+    "adjusted_close": 45.3589,
+    "volume": 28384285
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-04-09",
+    "open": 49.41,
+    "high": 50.16,
+    "low": 48.26,
+    "close": 49.94,
+    "adjusted_close": 45.7344,
+    "volume": 39684325
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-04-16",
+    "open": 49.83,
+    "high": 51.29,
+    "low": 48.96,
+    "close": 50.74,
+    "adjusted_close": 46.467,
+    "volume": 63557211
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-04-23",
+    "open": 51.64,
+    "high": 53.175,
+    "low": 51.25,
+    "close": 52.26,
+    "adjusted_close": 47.859,
+    "volume": 57491403
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-04-30",
+    "open": 52.45,
+    "high": 54.5601,
+    "low": 50.66,
+    "close": 53.07,
+    "adjusted_close": 48.6008,
+    "volume": 49387723
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-05-07",
+    "open": 53.37,
+    "high": 54.05,
+    "low": 52.74,
+    "close": 53.81,
+    "adjusted_close": 49.2785,
+    "volume": 32425318
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-05-14",
+    "open": 54.55,
+    "high": 55.38,
+    "low": 53.33,
+    "close": 55.21,
+    "adjusted_close": 50.5606,
+    "volume": 36697848
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-05-21",
+    "open": 55.49,
+    "high": 57.73,
+    "low": 55.43,
+    "close": 57.4,
+    "adjusted_close": 52.5661,
+    "volume": 40283723
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-05-28",
+    "open": 57.51,
+    "high": 57.7157,
+    "low": 56.2,
+    "close": 56.77,
+    "adjusted_close": 51.9892,
+    "volume": 33723166
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-06-04",
+    "open": 57.14,
+    "high": 57.16,
+    "low": 55.73,
+    "close": 56.8,
+    "adjusted_close": 52.0167,
+    "volume": 23201443
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-06-11",
+    "open": 56.62,
+    "high": 59.15,
+    "low": 55.915,
+    "close": 58.77,
+    "adjusted_close": 53.8208,
+    "volume": 34176993
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-06-18",
+    "open": 58.96,
+    "high": 59.34,
+    "low": 57.57,
+    "close": 58.37,
+    "adjusted_close": 53.4545,
+    "volume": 38484284
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-06-25",
+    "open": 58.2,
+    "high": 59.42,
+    "low": 57.69,
+    "close": 59.35,
+    "adjusted_close": 54.3519,
+    "volume": 30790623
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-07-02",
+    "open": 59.78,
+    "high": 60.875,
+    "low": 59.71,
+    "close": 60.79,
+    "adjusted_close": 55.6707,
+    "volume": 25018534
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-07-09",
+    "open": 60.41,
+    "high": 60.555,
+    "low": 58.83,
+    "close": 59.63,
+    "adjusted_close": 54.6083,
+    "volume": 26397044
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-07-16",
+    "open": 60.29,
+    "high": 60.93,
+    "low": 56.395,
+    "close": 56.79,
+    "adjusted_close": 52.0075,
+    "volume": 97825950
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-07-23",
+    "open": 56.44,
+    "high": 58.72,
+    "low": 56.0,
+    "close": 58.23,
+    "adjusted_close": 53.3262,
+    "volume": 188896212
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-07-30",
+    "open": 57.52,
+    "high": 58.6,
+    "low": 56.58,
+    "close": 57.24,
+    "adjusted_close": 52.4196,
+    "volume": 64016315
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-08-06",
+    "open": 57.05,
+    "high": 58.43,
+    "low": 56.24,
+    "close": 56.44,
+    "adjusted_close": 51.687,
+    "volume": 34542869
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-08-13",
+    "open": 56.66,
+    "high": 58.64,
+    "low": 56.0,
+    "close": 58.48,
+    "adjusted_close": 53.9653,
+    "volume": 38863211
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-08-20",
+    "open": 58.07,
+    "high": 60.19,
+    "low": 58.0493,
+    "close": 59.39,
+    "adjusted_close": 54.805,
+    "volume": 30585412
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-08-27",
+    "open": 59.09,
+    "high": 59.35,
+    "low": 57.86,
+    "close": 58.63,
+    "adjusted_close": 54.1037,
+    "volume": 24915555
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-09-03",
+    "open": 58.67,
+    "high": 59.62,
+    "low": 58.17,
+    "close": 58.83,
+    "adjusted_close": 54.2883,
+    "volume": 19643515
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-09-10",
+    "open": 59.01,
+    "high": 59.02,
+    "low": 56.14,
+    "close": 56.26,
+    "adjusted_close": 51.9167,
+    "volume": 18467357
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-09-17",
+    "open": 56.63,
+    "high": 56.73,
+    "low": 55.125,
+    "close": 55.56,
+    "adjusted_close": 51.2707,
+    "volume": 30068681
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-09-24",
+    "open": 56.17,
+    "high": 61.295,
+    "low": 56.08,
+    "close": 60.35,
+    "adjusted_close": 55.6909,
+    "volume": 48003633
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-10-01",
+    "open": 59.45,
+    "high": 60.55,
+    "low": 57.105,
+    "close": 59.68,
+    "adjusted_close": 55.0727,
+    "volume": 34503004
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-10-08",
+    "open": 60.05,
+    "high": 61.105,
+    "low": 59.225,
+    "close": 60.61,
+    "adjusted_close": 55.9309,
+    "volume": 24687882
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-10-15",
+    "open": 61.04,
+    "high": 61.34,
+    "low": 59.63,
+    "close": 60.22,
+    "adjusted_close": 55.571,
+    "volume": 20054893
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-10-22",
+    "open": 59.78,
+    "high": 62.06,
+    "low": 59.125,
+    "close": 61.79,
+    "adjusted_close": 57.0198,
+    "volume": 17209637
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-10-29",
+    "open": 61.94,
+    "high": 62.86,
+    "low": 61.33,
+    "close": 62.38,
+    "adjusted_close": 57.5642,
+    "volume": 14609590
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-11-05",
+    "open": 62.19,
+    "high": 64.21,
+    "low": 62.045,
+    "close": 63.09,
+    "adjusted_close": 58.2194,
+    "volume": 19107010
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-11-12",
+    "open": 63.66,
+    "high": 63.87,
+    "low": 58.465,
+    "close": 58.8,
+    "adjusted_close": 54.2606,
+    "volume": 27265259
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-11-19",
+    "open": 59.92,
+    "high": 60.365,
+    "low": 56.08,
+    "close": 56.66,
+    "adjusted_close": 52.2858,
+    "volume": 33904836
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-11-26",
+    "open": 56.62,
+    "high": 57.08,
+    "low": 56.07,
+    "close": 56.58,
+    "adjusted_close": 52.212,
+    "volume": 19881062
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-12-03",
+    "open": 55.74,
+    "high": 56.22,
+    "low": 53.64,
+    "close": 54.23,
+    "adjusted_close": 50.0434,
+    "volume": 29215158
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-12-10",
+    "open": 55.3,
+    "high": 55.9,
+    "low": 53.63,
+    "close": 54.02,
+    "adjusted_close": 49.8496,
+    "volume": 24715241
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-12-17",
+    "open": 54.29,
+    "high": 57.185,
+    "low": 54.28,
+    "close": 56.02,
+    "adjusted_close": 51.6952,
+    "volume": 25000113
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-12-23",
+    "open": 56.56,
+    "high": 58.15,
+    "low": 56.0,
+    "close": 57.64,
+    "adjusted_close": 53.1901,
+    "volume": 19173002
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2021-12-31",
+    "open": 57.62,
+    "high": 58.88,
+    "low": 57.53,
+    "close": 58.25,
+    "adjusted_close": 53.753,
+    "volume": 10593313
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-01-07",
+    "open": 58.27,
+    "high": 58.37,
+    "low": 56.105,
+    "close": 57.48,
+    "adjusted_close": 53.0425,
+    "volume": 23563773
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-01-14",
+    "open": 56.76,
+    "high": 58.985,
+    "low": 56.47,
+    "close": 58.85,
+    "adjusted_close": 54.3067,
+    "volume": 22121239
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-01-21",
+    "open": 59.34,
+    "high": 60.62,
+    "low": 58.994,
+    "close": 59.1,
+    "adjusted_close": 54.5374,
+    "volume": 21129221
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-01-28",
+    "open": 57.73,
+    "high": 60.17,
+    "low": 55.5,
+    "close": 59.3,
+    "adjusted_close": 54.722,
+    "volume": 36206353
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-02-04",
+    "open": 58.02,
+    "high": 59.15,
+    "low": 55.65,
+    "close": 55.72,
+    "adjusted_close": 51.4184,
+    "volume": 47516363
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-02-11",
+    "open": 56.19,
+    "high": 60.1702,
+    "low": 56.02,
+    "close": 58.04,
+    "adjusted_close": 53.5593,
+    "volume": 44598806
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-02-18",
+    "open": 57.3,
+    "high": 61.27,
+    "low": 56.665,
+    "close": 59.86,
+    "adjusted_close": 55.2388,
+    "volume": 65416492
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-02-25",
+    "open": 61.8,
+    "high": 61.91,
+    "low": 57.05,
+    "close": 60.58,
+    "adjusted_close": 56.8504,
+    "volume": 34263208
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-03-04",
+    "open": 60.82,
+    "high": 62.64,
+    "low": 57.12,
+    "close": 57.47,
+    "adjusted_close": 53.9319,
+    "volume": 38522892
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-03-11",
+    "open": 57.205,
+    "high": 61.005,
+    "low": 56.36,
+    "close": 60.3,
+    "adjusted_close": 56.5877,
+    "volume": 42181143
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-03-18",
+    "open": 61.56,
+    "high": 63.905,
+    "low": 60.27,
+    "close": 63.23,
+    "adjusted_close": 59.3373,
+    "volume": 37833554
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-03-25",
+    "open": 63.21,
+    "high": 66.06,
+    "low": 63.165,
+    "close": 65.13,
+    "adjusted_close": 61.1203,
+    "volume": 40788159
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-04-01",
+    "open": 65.13,
+    "high": 67.55,
+    "low": 64.715,
+    "close": 66.81,
+    "adjusted_close": 62.6969,
+    "volume": 27906585
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-04-08",
+    "open": 66.45,
+    "high": 71.7,
+    "low": 66.37,
+    "close": 71.14,
+    "adjusted_close": 66.7603,
+    "volume": 33765682
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-04-14",
+    "open": 70.99,
+    "high": 71.28,
+    "low": 68.02,
+    "close": 69.05,
+    "adjusted_close": 64.799,
+    "volume": 25256421
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-04-22",
+    "open": 69.0,
+    "high": 69.19,
+    "low": 65.8029,
+    "close": 65.86,
+    "adjusted_close": 61.8054,
+    "volume": 32987161
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-04-29",
+    "open": 64.97,
+    "high": 67.8,
+    "low": 64.81,
+    "close": 66.4,
+    "adjusted_close": 62.3121,
+    "volume": 44438501
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-05-06",
+    "open": 65.96,
+    "high": 67.272,
+    "low": 63.2,
+    "close": 64.36,
+    "adjusted_close": 60.3977,
+    "volume": 37594262
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-05-13",
+    "open": 63.26,
+    "high": 64.14,
+    "low": 60.34,
+    "close": 63.14,
+    "adjusted_close": 59.2528,
+    "volume": 39363946
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-05-20",
+    "open": 63.35,
+    "high": 66.36,
+    "low": 63.15,
+    "close": 66.21,
+    "adjusted_close": 62.1338,
+    "volume": 34435030
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-05-27",
+    "open": 66.46,
+    "high": 67.4,
+    "low": 66.285,
+    "close": 67.4,
+    "adjusted_close": 63.2506,
+    "volume": 28123874
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-06-03",
+    "open": 65.89,
+    "high": 66.98,
+    "low": 65.495,
+    "close": 65.7,
+    "adjusted_close": 61.6552,
+    "volume": 20492453
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-06-10",
+    "open": 64.22,
+    "high": 65.635,
+    "low": 61.14,
+    "close": 61.79,
+    "adjusted_close": 57.9859,
+    "volume": 33715507
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-06-17",
+    "open": 60.43,
+    "high": 61.6,
+    "low": 58.41,
+    "close": 61.09,
+    "adjusted_close": 57.329,
+    "volume": 48907198
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-06-24",
+    "open": 62.41,
+    "high": 66.93,
+    "low": 62.07,
+    "close": 66.9,
+    "adjusted_close": 62.7814,
+    "volume": 20908200
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-07-01",
+    "open": 66.26,
+    "high": 67.545,
+    "low": 64.065,
+    "close": 65.95,
+    "adjusted_close": 61.8898,
+    "volume": 31443733
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-07-08",
+    "open": 64.73,
+    "high": 67.24,
+    "low": 64.57,
+    "close": 66.98,
+    "adjusted_close": 62.8564,
+    "volume": 28873222
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-07-15",
+    "open": 66.13,
+    "high": 67.545,
+    "low": 64.11,
+    "close": 67.36,
+    "adjusted_close": 63.213,
+    "volume": 33947579
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-07-22",
+    "open": 67.94,
+    "high": 68.39,
+    "low": 63.9,
+    "close": 65.25,
+    "adjusted_close": 61.2329,
+    "volume": 24616526
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-07-29",
+    "open": 66.185,
+    "high": 67.675,
+    "low": 65.78,
+    "close": 66.23,
+    "adjusted_close": 62.1526,
+    "volume": 25435791
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-08-05",
+    "open": 66.52,
+    "high": 66.94,
+    "low": 64.7,
+    "close": 66.03,
+    "adjusted_close": 61.9649,
+    "volume": 31292878
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-08-12",
+    "open": 65.68,
+    "high": 67.19,
+    "low": 64.26,
+    "close": 66.64,
+    "adjusted_close": 62.9775,
+    "volume": 32217362
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-08-19",
+    "open": 67.25,
+    "high": 67.4,
+    "low": 66.13,
+    "close": 67.17,
+    "adjusted_close": 63.4784,
+    "volume": 24444738
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-08-26",
+    "open": 67.5,
+    "high": 68.26,
+    "low": 66.09,
+    "close": 66.32,
+    "adjusted_close": 62.6751,
+    "volume": 23211561
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-09-02",
+    "open": 66.32,
+    "high": 66.33,
+    "low": 60.42,
+    "close": 60.69,
+    "adjusted_close": 57.3545,
+    "volume": 51530544
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-09-09",
+    "open": 60.79,
+    "high": 61.26,
+    "low": 58.37,
+    "close": 60.85,
+    "adjusted_close": 57.5057,
+    "volume": 33898698
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-09-16",
+    "open": 61.65,
+    "high": 62.18,
+    "low": 57.58,
+    "close": 58.05,
+    "adjusted_close": 54.8596,
+    "volume": 29069929
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-09-23",
+    "open": 57.97,
+    "high": 58.025,
+    "low": 54.325,
+    "close": 54.58,
+    "adjusted_close": 51.5803,
+    "volume": 30989105
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-09-30",
+    "open": 53.75,
+    "high": 55.72,
+    "low": 52.65,
+    "close": 54.84,
+    "adjusted_close": 51.826,
+    "volume": 39608433
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-10-07",
+    "open": 55.07,
+    "high": 57.115,
+    "low": 54.695,
+    "close": 55.4,
+    "adjusted_close": 52.3552,
+    "volume": 39873458
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-10-14",
+    "open": 54.88,
+    "high": 56.4998,
+    "low": 53.985,
+    "close": 54.97,
+    "adjusted_close": 51.9489,
+    "volume": 36570687
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-10-21",
+    "open": 56.51,
+    "high": 56.74,
+    "low": 53.52,
+    "close": 54.97,
+    "adjusted_close": 51.9489,
+    "volume": 25222372
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-10-28",
+    "open": 55.06,
+    "high": 58.85,
+    "low": 55.0,
+    "close": 58.71,
+    "adjusted_close": 55.4833,
+    "volume": 26630536
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-11-04",
+    "open": 58.37,
+    "high": 61.3,
+    "low": 58.36,
+    "close": 60.99,
+    "adjusted_close": 57.638,
+    "volume": 27503986
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-11-11",
+    "open": 61.06,
+    "high": 65.92,
+    "low": 60.8,
+    "close": 62.77,
+    "adjusted_close": 59.3202,
+    "volume": 35960309
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-11-18",
+    "open": 63.96,
+    "high": 65.285,
+    "low": 63.05,
+    "close": 65.07,
+    "adjusted_close": 61.4938,
+    "volume": 28714767
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-11-25",
+    "open": 65.51,
+    "high": 66.43,
+    "low": 65.13,
+    "close": 66.17,
+    "adjusted_close": 62.5333,
+    "volume": 13560119
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-12-02",
+    "open": 66.25,
+    "high": 68.8,
+    "low": 65.88,
+    "close": 68.47,
+    "adjusted_close": 64.7069,
+    "volume": 19413493
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-12-09",
+    "open": 68.6,
+    "high": 70.0,
+    "low": 67.81,
+    "close": 69.55,
+    "adjusted_close": 65.7276,
+    "volume": 23066076
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-12-16",
+    "open": 69.52,
+    "high": 70.84,
+    "low": 67.655,
+    "close": 67.94,
+    "adjusted_close": 64.206,
+    "volume": 24751801
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-12-23",
+    "open": 67.89,
+    "high": 68.17,
+    "low": 67.14,
+    "close": 67.98,
+    "adjusted_close": 64.2438,
+    "volume": 13932299
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2022-12-30",
+    "open": 68.5,
+    "high": 68.55,
+    "low": 67.125,
+    "close": 67.8,
+    "adjusted_close": 64.0737,
+    "volume": 10572871
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-01-06",
+    "open": 68.65,
+    "high": 71.19,
+    "low": 68.6,
+    "close": 70.8,
+    "adjusted_close": 66.9089,
+    "volume": 20772116
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-01-13",
+    "open": 71.05,
+    "high": 72.12,
+    "low": 68.43,
+    "close": 71.08,
+    "adjusted_close": 67.1735,
+    "volume": 28035003
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-01-20",
+    "open": 71.62,
+    "high": 71.94,
+    "low": 68.585,
+    "close": 69.15,
+    "adjusted_close": 65.3495,
+    "volume": 27579356
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-01-27",
+    "open": 68.71,
+    "high": 69.1,
+    "low": 65.19,
+    "close": 65.53,
+    "adjusted_close": 61.9285,
+    "volume": 32674548
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-02-03",
+    "open": 66.38,
+    "high": 66.42,
+    "low": 62.515,
+    "close": 63.44,
+    "adjusted_close": 59.9534,
+    "volume": 34106825
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-02-10",
+    "open": 63.58,
+    "high": 68.995,
+    "low": 63.19,
+    "close": 68.88,
+    "adjusted_close": 65.0944,
+    "volume": 28670833
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-02-17",
+    "open": 68.53,
+    "high": 70.58,
+    "low": 67.68,
+    "close": 68.97,
+    "adjusted_close": 65.1794,
+    "volume": 22639636
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-02-24",
+    "open": 70.27,
+    "high": 70.27,
+    "low": 66.085,
+    "close": 66.37,
+    "adjusted_close": 63.639,
+    "volume": 17155978
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-03-03",
+    "open": 66.9,
+    "high": 67.065,
+    "low": 64.25,
+    "close": 65.2,
+    "adjusted_close": 62.5171,
+    "volume": 18515904
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-03-10",
+    "open": 64.54,
+    "high": 65.32,
+    "low": 63.77,
+    "close": 64.19,
+    "adjusted_close": 61.5487,
+    "volume": 18653060
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-03-17",
+    "open": 64.98,
+    "high": 66.02,
+    "low": 63.89,
+    "close": 65.61,
+    "adjusted_close": 62.9102,
+    "volume": 28322279
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-03-24",
+    "open": 65.92,
+    "high": 68.0,
+    "low": 65.789,
+    "close": 67.91,
+    "adjusted_close": 65.1156,
+    "volume": 19975813
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-03-31",
+    "open": 68.9,
+    "high": 69.93,
+    "low": 68.305,
+    "close": 69.41,
+    "adjusted_close": 66.5539,
+    "volume": 22364549
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-04-06",
+    "open": 69.53,
+    "high": 72.79,
+    "low": 69.36,
+    "close": 72.34,
+    "adjusted_close": 69.3633,
+    "volume": 19346069
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-04-14",
+    "open": 72.2,
+    "high": 74.83,
+    "low": 71.17,
+    "close": 73.86,
+    "adjusted_close": 70.8208,
+    "volume": 17805292
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-04-21",
+    "open": 73.76,
+    "high": 75.91,
+    "low": 73.005,
+    "close": 75.6,
+    "adjusted_close": 72.4892,
+    "volume": 25476709
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-04-28",
+    "open": 75.69,
+    "high": 76.56,
+    "low": 72.83,
+    "close": 73.22,
+    "adjusted_close": 70.2071,
+    "volume": 21641324
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-05-05",
+    "open": 73.35,
+    "high": 75.49,
+    "low": 72.87,
+    "close": 75.27,
+    "adjusted_close": 72.1727,
+    "volume": 16280406
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-05-12",
+    "open": 75.29,
+    "high": 75.62,
+    "low": 74.235,
+    "close": 74.73,
+    "adjusted_close": 71.655,
+    "volume": 12901757
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-05-19",
+    "open": 75.19,
+    "high": 75.655,
+    "low": 73.885,
+    "close": 74.79,
+    "adjusted_close": 71.7125,
+    "volume": 16091441
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-05-26",
+    "open": 74.79,
+    "high": 75.32,
+    "low": 71.435,
+    "close": 72.52,
+    "adjusted_close": 69.5359,
+    "volume": 21246447
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-06-02",
+    "open": 72.84,
+    "high": 73.42,
+    "low": 71.23,
+    "close": 72.59,
+    "adjusted_close": 69.603,
+    "volume": 20210738
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-06-09",
+    "open": 72.87,
+    "high": 74.475,
+    "low": 72.56,
+    "close": 74.06,
+    "adjusted_close": 71.0125,
+    "volume": 22021609
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-06-16",
+    "open": 73.64,
+    "high": 75.75,
+    "low": 72.52,
+    "close": 75.22,
+    "adjusted_close": 72.1248,
+    "volume": 25230744
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-06-23",
+    "open": 74.5,
+    "high": 74.625,
+    "low": 71.995,
+    "close": 72.12,
+    "adjusted_close": 69.1524,
+    "volume": 19246271
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-06-30",
+    "open": 72.31,
+    "high": 72.33,
+    "low": 70.125,
+    "close": 71.57,
+    "adjusted_close": 68.625,
+    "volume": 19219911
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-07-07",
+    "open": 67.09,
+    "high": 67.645,
+    "low": 64.55,
+    "close": 64.85,
+    "adjusted_close": 62.1815,
+    "volume": 41129981
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-07-14",
+    "open": 64.97,
+    "high": 68.92,
+    "low": 64.7301,
+    "close": 67.38,
+    "adjusted_close": 64.6074,
+    "volume": 34255061
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-07-21",
+    "open": 66.83,
+    "high": 69.65,
+    "low": 66.5777,
+    "close": 69.34,
+    "adjusted_close": 66.4868,
+    "volume": 36735330
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-07-28",
+    "open": 68.96,
+    "high": 71.87,
+    "low": 68.115,
+    "close": 71.33,
+    "adjusted_close": 68.3949,
+    "volume": 25379864
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-08-04",
+    "open": 71.71,
+    "high": 72.07,
+    "low": 68.6,
+    "close": 69.4,
+    "adjusted_close": 66.5443,
+    "volume": 23346058
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-08-11",
+    "open": 69.5,
+    "high": 71.56,
+    "low": 69.29,
+    "close": 70.37,
+    "adjusted_close": 67.9204,
+    "volume": 22062883
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-08-18",
+    "open": 70.03,
+    "high": 70.905,
+    "low": 68.1,
+    "close": 68.46,
+    "adjusted_close": 66.0769,
+    "volume": 27715349
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-08-25",
+    "open": 68.98,
+    "high": 69.205,
+    "low": 67.26,
+    "close": 68.25,
+    "adjusted_close": 65.8742,
+    "volume": 20095943
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-09-01",
+    "open": 68.61,
+    "high": 69.58,
+    "low": 67.76,
+    "close": 68.14,
+    "adjusted_close": 65.7681,
+    "volume": 14645054
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-09-08",
+    "open": 68.35,
+    "high": 68.495,
+    "low": 66.605,
+    "close": 68.22,
+    "adjusted_close": 65.8453,
+    "volume": 14863459
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-09-15",
+    "open": 65.96,
+    "high": 68.9,
+    "low": 65.715,
+    "close": 68.27,
+    "adjusted_close": 65.8935,
+    "volume": 25575070
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-09-22",
+    "open": 67.75,
+    "high": 68.505,
+    "low": 65.82,
+    "close": 67.83,
+    "adjusted_close": 65.4688,
+    "volume": 23786350
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-09-29",
+    "open": 68.28,
+    "high": 69.245,
+    "low": 66.71,
+    "close": 67.72,
+    "adjusted_close": 65.3627,
+    "volume": 20435630
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-10-06",
+    "open": 66.92,
+    "high": 67.56,
+    "low": 65.98,
+    "close": 67.42,
+    "adjusted_close": 65.0731,
+    "volume": 17405975
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-10-13",
+    "open": 66.75,
+    "high": 68.655,
+    "low": 66.4,
+    "close": 67.33,
+    "adjusted_close": 64.9863,
+    "volume": 18952284
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-10-20",
+    "open": 66.61,
+    "high": 70.94,
+    "low": 63.56,
+    "close": 63.83,
+    "adjusted_close": 61.6081,
+    "volume": 59861822
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-10-27",
+    "open": 62.825,
+    "high": 64.97,
+    "low": 61.73,
+    "close": 61.89,
+    "adjusted_close": 59.7356,
+    "volume": 31656949
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-11-03",
+    "open": 62.8,
+    "high": 64.445,
+    "low": 62.425,
+    "close": 63.96,
+    "adjusted_close": 61.7336,
+    "volume": 24172329
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-11-10",
+    "open": 64.41,
+    "high": 65.58,
+    "low": 61.87,
+    "close": 63.17,
+    "adjusted_close": 60.9711,
+    "volume": 33443654
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-11-17",
+    "open": 63.21,
+    "high": 64.75,
+    "low": 62.65,
+    "close": 64.13,
+    "adjusted_close": 61.8976,
+    "volume": 27577619
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-11-24",
+    "open": 63.24,
+    "high": 64.735,
+    "low": 63.16,
+    "close": 64.5,
+    "adjusted_close": 62.2548,
+    "volume": 16120839
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-12-01",
+    "open": 63.9,
+    "high": 65.06,
+    "low": 63.09,
+    "close": 64.79,
+    "adjusted_close": 62.5347,
+    "volume": 31997821
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-12-08",
+    "open": 64.87,
+    "high": 65.11,
+    "low": 63.03,
+    "close": 63.25,
+    "adjusted_close": 61.0483,
+    "volume": 22392256
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-12-15",
+    "open": 63.54,
+    "high": 66.8812,
+    "low": 63.14,
+    "close": 64.8,
+    "adjusted_close": 62.5443,
+    "volume": 31807242
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-12-22",
+    "open": 65.47,
+    "high": 67.12,
+    "low": 65.315,
+    "close": 66.29,
+    "adjusted_close": 63.9825,
+    "volume": 26046172
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2023-12-29",
+    "open": 66.5,
+    "high": 67.74,
+    "low": 66.22,
+    "close": 67.35,
+    "adjusted_close": 65.0056,
+    "volume": 12636909
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-01-05",
+    "open": 66.84,
+    "high": 69.35,
+    "low": 66.82,
+    "close": 68.38,
+    "adjusted_close": 65.9997,
+    "volume": 22735068
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-01-12",
+    "open": 68.57,
+    "high": 69.91,
+    "low": 68.325,
+    "close": 69.42,
+    "adjusted_close": 67.0035,
+    "volume": 23667271
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-01-19",
+    "open": 67.06,
+    "high": 67.68,
+    "low": 65.71,
+    "close": 66.54,
+    "adjusted_close": 64.2238,
+    "volume": 28236902
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-01-26",
+    "open": 67.74,
+    "high": 67.835,
+    "low": 65.92,
+    "close": 67.1,
+    "adjusted_close": 64.7643,
+    "volume": 30342308
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-02-02",
+    "open": 67.26,
+    "high": 67.83,
+    "low": 65.585,
+    "close": 65.64,
+    "adjusted_close": 63.3551,
+    "volume": 25384484
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-02-09",
+    "open": 65.14,
+    "high": 67.085,
+    "low": 61.7008,
+    "close": 62.26,
+    "adjusted_close": 60.0927,
+    "volume": 65668633
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-02-16",
+    "open": 61.16,
+    "high": 64.525,
+    "low": 60.47,
+    "close": 64.27,
+    "adjusted_close": 62.0328,
+    "volume": 47832207
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-02-23",
+    "open": 66.05,
+    "high": 66.07,
+    "low": 63.26,
+    "close": 65.83,
+    "adjusted_close": 64.5144,
+    "volume": 28952429
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-03-01",
+    "open": 66.08,
+    "high": 66.455,
+    "low": 63.74,
+    "close": 64.6,
+    "adjusted_close": 63.309,
+    "volume": 25113519
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-03-08",
+    "open": 64.29,
+    "high": 66.58,
+    "low": 64.15,
+    "close": 66.5,
+    "adjusted_close": 65.171,
+    "volume": 23170654
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-03-15",
+    "open": 67.22,
+    "high": 68.03,
+    "low": 66.075,
+    "close": 66.31,
+    "adjusted_close": 64.9848,
+    "volume": 24653726
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-03-22",
+    "open": 66.01,
+    "high": 66.84,
+    "low": 65.2,
+    "close": 66.26,
+    "adjusted_close": 64.9358,
+    "volume": 20293187
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-03-28",
+    "open": 66.21,
+    "high": 68.375,
+    "low": 65.765,
+    "close": 67.75,
+    "adjusted_close": 66.396,
+    "volume": 19619397
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-04-05",
+    "open": 68.2,
+    "high": 68.99,
+    "low": 66.385,
+    "close": 67.45,
+    "adjusted_close": 66.102,
+    "volume": 23474220
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-04-12",
+    "open": 67.57,
+    "high": 70.07,
+    "low": 67.22,
+    "close": 68.93,
+    "adjusted_close": 67.5524,
+    "volume": 30330777
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-04-19",
+    "open": 69.07,
+    "high": 69.56,
+    "low": 68.015,
+    "close": 68.55,
+    "adjusted_close": 67.18,
+    "volume": 27027184
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-04-26",
+    "open": 69.67,
+    "high": 75.81,
+    "low": 69.38,
+    "close": 75.17,
+    "adjusted_close": 73.6677,
+    "volume": 39421992
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-05-03",
+    "open": 76.18,
+    "high": 76.8,
+    "low": 75.315,
+    "close": 76.35,
+    "adjusted_close": 74.8241,
+    "volume": 40062571
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-05-10",
+    "open": 75.84,
+    "high": 77.935,
+    "low": 75.545,
+    "close": 77.18,
+    "adjusted_close": 75.6376,
+    "volume": 24759125
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-05-17",
+    "open": 77.23,
+    "high": 77.93,
+    "low": 76.58,
+    "close": 76.9,
+    "adjusted_close": 75.3631,
+    "volume": 16285991
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-05-24",
+    "open": 76.63,
+    "high": 79.36,
+    "low": 76.54,
+    "close": 78.54,
+    "adjusted_close": 76.9704,
+    "volume": 21767285
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-05-31",
+    "open": 77.78,
+    "high": 78.12,
+    "low": 75.795,
+    "close": 78.02,
+    "adjusted_close": 76.4608,
+    "volume": 16910780
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-06-07",
+    "open": 78.5,
+    "high": 80.86,
+    "low": 78.38,
+    "close": 80.02,
+    "adjusted_close": 78.4208,
+    "volume": 18992348
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-06-14",
+    "open": 80.22,
+    "high": 80.59,
+    "low": 78.91,
+    "close": 79.59,
+    "adjusted_close": 77.9994,
+    "volume": 16828847
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-06-21",
+    "open": 79.08,
+    "high": 79.35,
+    "low": 78.185,
+    "close": 78.88,
+    "adjusted_close": 77.3036,
+    "volume": 14780739
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-06-28",
+    "open": 79.25,
+    "high": 79.87,
+    "low": 77.83,
+    "close": 77.99,
+    "adjusted_close": 76.4314,
+    "volume": 15578227
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-07-05",
+    "open": 77.71,
+    "high": 78.72,
+    "low": 76.46,
+    "close": 77.34,
+    "adjusted_close": 75.7944,
+    "volume": 10534317
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-07-12",
+    "open": 77.61,
+    "high": 79.79,
+    "low": 76.3001,
+    "close": 79.24,
+    "adjusted_close": 77.6564,
+    "volume": 15266189
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-07-19",
+    "open": 79.15,
+    "high": 80.01,
+    "low": 77.92,
+    "close": 78.71,
+    "adjusted_close": 77.137,
+    "volume": 15157613
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-07-26",
+    "open": 79.62,
+    "high": 79.81,
+    "low": 76.46,
+    "close": 78.13,
+    "adjusted_close": 76.5686,
+    "volume": 27581732
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-08-02",
+    "open": 80.06,
+    "high": 82.01,
+    "low": 77.475,
+    "close": 81.81,
+    "adjusted_close": 80.175,
+    "volume": 32221434
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-08-09",
+    "open": 78.88,
+    "high": 81.895,
+    "low": 78.22,
+    "close": 81.19,
+    "adjusted_close": 80.0574,
+    "volume": 23560340
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-08-16",
+    "open": 81.6,
+    "high": 85.2989,
+    "low": 81.39,
+    "close": 84.41,
+    "adjusted_close": 83.2325,
+    "volume": 29486336
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-08-23",
+    "open": 84.638,
+    "high": 86.875,
+    "low": 84.35,
+    "close": 86.66,
+    "adjusted_close": 85.4511,
+    "volume": 18758455
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-08-30",
+    "open": 86.43,
+    "high": 87.675,
+    "low": 86.36,
+    "close": 87.62,
+    "adjusted_close": 86.3977,
+    "volume": 16290129
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-09-06",
+    "open": 87.18,
+    "high": 87.25,
+    "low": 82.46,
+    "close": 83.05,
+    "adjusted_close": 81.8915,
+    "volume": 22295349
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-09-13",
+    "open": 82.21,
+    "high": 83.43,
+    "low": 77.69,
+    "close": 78.27,
+    "adjusted_close": 77.1782,
+    "volume": 33021101
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-09-20",
+    "open": 79.29,
+    "high": 79.5,
+    "low": 78.14,
+    "close": 78.38,
+    "adjusted_close": 77.2866,
+    "volume": 16404766
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-09-27",
+    "open": 77.26,
+    "high": 78.78,
+    "low": 76.83,
+    "close": 77.62,
+    "adjusted_close": 76.5372,
+    "volume": 20690942
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-10-04",
+    "open": 78.09,
+    "high": 79.76,
+    "low": 76.9,
+    "close": 77.47,
+    "adjusted_close": 76.3893,
+    "volume": 21883826
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-10-11",
+    "open": 77.19,
+    "high": 77.55,
+    "low": 76.41,
+    "close": 77.35,
+    "adjusted_close": 76.271,
+    "volume": 14056688
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-10-18",
+    "open": 77.72,
+    "high": 78.655,
+    "low": 77.42,
+    "close": 78.26,
+    "adjusted_close": 77.1683,
+    "volume": 13225992
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-10-25",
+    "open": 78.17,
+    "high": 78.21,
+    "low": 74.95,
+    "close": 75.05,
+    "adjusted_close": 74.0031,
+    "volume": 12600238
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-11-01",
+    "open": 75.04,
+    "high": 76.63,
+    "low": 70.94,
+    "close": 71.42,
+    "adjusted_close": 70.4237,
+    "volume": 27004951
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-11-08",
+    "open": 71.85,
+    "high": 73.68,
+    "low": 63.37,
+    "close": 64.49,
+    "adjusted_close": 63.5904,
+    "volume": 64007370
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-11-15",
+    "open": 65.19,
+    "high": 66.24,
+    "low": 62.9376,
+    "close": 63.23,
+    "adjusted_close": 62.348,
+    "volume": 43062761
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-11-22",
+    "open": 63.0,
+    "high": 66.455,
+    "low": 62.75,
+    "close": 65.63,
+    "adjusted_close": 64.7145,
+    "volume": 38182773
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-11-29",
+    "open": 65.92,
+    "high": 67.72,
+    "low": 65.86,
+    "close": 67.62,
+    "adjusted_close": 66.6767,
+    "volume": 18514184
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-12-06",
+    "open": 67.53,
+    "high": 68.65,
+    "low": 66.3099,
+    "close": 68.2,
+    "adjusted_close": 67.2486,
+    "volume": 26038708
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-12-13",
+    "open": 68.02,
+    "high": 68.995,
+    "low": 66.14,
+    "close": 66.58,
+    "adjusted_close": 65.6512,
+    "volume": 28430949
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-12-20",
+    "open": 66.75,
+    "high": 67.47,
+    "low": 63.752,
+    "close": 65.35,
+    "adjusted_close": 64.4384,
+    "volume": 32288663
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2024-12-27",
+    "open": 65.85,
+    "high": 66.73,
+    "low": 65.565,
+    "close": 66.26,
+    "adjusted_close": 65.3357,
+    "volume": 18378444
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-01-03",
+    "open": 66.11,
+    "high": 66.47,
+    "low": 65.325,
+    "close": 66.25,
+    "adjusted_close": 65.3258,
+    "volume": 12123657
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-01-10",
+    "open": 66.81,
+    "high": 67.565,
+    "low": 65.68,
+    "close": 67.01,
+    "adjusted_close": 66.0752,
+    "volume": 19161093
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-01-17",
+    "open": 65.88,
+    "high": 67.78,
+    "low": 64.22,
+    "close": 66.6,
+    "adjusted_close": 65.6709,
+    "volume": 28531720
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-01-24",
+    "open": 67.75,
+    "high": 69.47,
+    "low": 67.59,
+    "close": 69.06,
+    "adjusted_close": 68.0966,
+    "volume": 21336202
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-01-31",
+    "open": 69.51,
+    "high": 71.55,
+    "low": 69.4839,
+    "close": 70.76,
+    "adjusted_close": 69.7729,
+    "volume": 20571879
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-02-07",
+    "open": 70.25,
+    "high": 74.61,
+    "low": 68.755,
+    "close": 71.99,
+    "adjusted_close": 70.9858,
+    "volume": 33246768
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-02-14",
+    "open": 72.74,
+    "high": 75.48,
+    "low": 72.0,
+    "close": 73.58,
+    "adjusted_close": 72.5536,
+    "volume": 30177060
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-02-21",
+    "open": 74.24,
+    "high": 74.97,
+    "low": 73.54,
+    "close": 74.22,
+    "adjusted_close": 74.22,
+    "volume": 18190623
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-02-28",
+    "open": 74.535,
+    "high": 76.26,
+    "low": 74.19,
+    "close": 76.21,
+    "adjusted_close": 76.21,
+    "volume": 42755501
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-03-07",
+    "open": 76.245,
+    "high": 78.355,
+    "low": 75.84,
+    "close": 77.5,
+    "adjusted_close": 77.5,
+    "volume": 29257082
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-03-14",
+    "open": 76.11,
+    "high": 77.685,
+    "low": 74.18,
+    "close": 77.6,
+    "adjusted_close": 77.6,
+    "volume": 32419265
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-03-21",
+    "open": 77.16,
+    "high": 77.76,
+    "low": 74.675,
+    "close": 74.93,
+    "adjusted_close": 74.93,
+    "volume": 19883808
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-03-28",
+    "open": 73.84,
+    "high": 75.12,
+    "low": 71.82,
+    "close": 73.79,
+    "adjusted_close": 73.79,
+    "volume": 24324616
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-04-04",
+    "open": 72.6,
+    "high": 75.7,
+    "low": 68.425,
+    "close": 68.46,
+    "adjusted_close": 68.46,
+    "volume": 31155004
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-04-11",
+    "open": 64.78,
+    "high": 67.34,
+    "low": 61.24,
+    "close": 66.29,
+    "adjusted_close": 66.29,
+    "volume": 56927708
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-04-17",
+    "open": 66.79,
+    "high": 68.4,
+    "low": 66.69,
+    "close": 67.59,
+    "adjusted_close": 67.59,
+    "volume": 19181419
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-04-25",
+    "open": 67.8,
+    "high": 69.79,
+    "low": 66.59,
+    "close": 69.57,
+    "adjusted_close": 69.57,
+    "volume": 24148866
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-05-02",
+    "open": 70.25,
+    "high": 72.67,
+    "low": 69.53,
+    "close": 72.44,
+    "adjusted_close": 72.44,
+    "volume": 31194388
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-05-09",
+    "open": 72.5,
+    "high": 72.69,
+    "low": 67.26,
+    "close": 67.57,
+    "adjusted_close": 67.57,
+    "volume": 25259850
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-05-16",
+    "open": 66.44,
+    "high": 68.95,
+    "low": 66.16,
+    "close": 68.81,
+    "adjusted_close": 68.81,
+    "volume": 27274569
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-05-23",
+    "open": 68.69,
+    "high": 70.98,
+    "low": 68.675,
+    "close": 70.41,
+    "adjusted_close": 70.41,
+    "volume": 21373178
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-05-30",
+    "open": 71.28,
+    "high": 73.2,
+    "low": 69.97,
+    "close": 72.83,
+    "adjusted_close": 72.83,
+    "volume": 19775278
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-06-06",
+    "open": 71.565,
+    "high": 73.39,
+    "low": 71.28,
+    "close": 72.88,
+    "adjusted_close": 72.88,
+    "volume": 20954714
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-06-13",
+    "open": 72.54,
+    "high": 75.38,
+    "low": 72.54,
+    "close": 74.42,
+    "adjusted_close": 74.42,
+    "volume": 16635998
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-06-20",
+    "open": 74.35,
+    "high": 74.755,
+    "low": 69.66,
+    "close": 69.95,
+    "adjusted_close": 69.95,
+    "volume": 17351329
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-06-27",
+    "open": 70.0,
+    "high": 70.905,
+    "low": 69.65,
+    "close": 69.85,
+    "adjusted_close": 69.85,
+    "volume": 18004622
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-07-03",
+    "open": 69.885,
+    "high": 72.01,
+    "low": 69.18,
+    "close": 69.45,
+    "adjusted_close": 69.45,
+    "volume": 20876949
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-07-11",
+    "open": 69.965,
+    "high": 72.46,
+    "low": 69.15,
+    "close": 71.13,
+    "adjusted_close": 71.13,
+    "volume": 18963503
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-07-18",
+    "open": 71.35,
+    "high": 72.21,
+    "low": 68.615,
+    "close": 68.79,
+    "adjusted_close": 68.79,
+    "volume": 16827728
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-07-25",
+    "open": 68.875,
+    "high": 74.38,
+    "low": 68.615,
+    "close": 72.66,
+    "adjusted_close": 72.66,
+    "volume": 23322378
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-08-01",
+    "open": 72.725,
+    "high": 76.73,
+    "low": 71.49,
+    "close": 73.95,
+    "adjusted_close": 73.95,
+    "volume": 50753859
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-08-08",
+    "open": 73.33,
+    "high": 75.1,
+    "low": 73.11,
+    "close": 73.55,
+    "adjusted_close": 73.55,
+    "volume": 18175754
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-08-15",
+    "open": 73.86,
+    "high": 79.3065,
+    "low": 73.66,
+    "close": 79.17,
+    "adjusted_close": 79.17,
+    "volume": 20916061
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-08-22",
+    "open": 79.485,
+    "high": 81.555,
+    "low": 79.1,
+    "close": 80.97,
+    "adjusted_close": 80.97,
+    "volume": 16420666
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-08-29",
+    "open": 81.52,
+    "high": 81.52,
+    "low": 79.35,
+    "close": 79.9,
+    "adjusted_close": 79.9,
+    "volume": 19420470
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-09-03",
+    "open": 79.86,
+    "high": 82.19,
+    "low": 79.43,
+    "close": 82.11,
+    "adjusted_close": 82.11,
+    "volume": 7191798
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-09-05",
+    "open": 79.86,
+    "high": 82.41,
+    "low": 79.43,
+    "close": 81.7,
+    "adjusted_close": 81.7,
+    "volume": 12778018
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-09-08",
+    "open": 80.73,
+    "high": 81.605,
+    "low": 80.19,
+    "close": 81.56,
+    "adjusted_close": 81.56,
+    "volume": 2623955
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-09-12",
+    "open": 80.73,
+    "high": 81.605,
+    "low": 79.08,
+    "close": 79.56,
+    "adjusted_close": 79.56,
+    "volume": 14437191
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-09-19",
+    "open": 78.22,
+    "high": 78.52,
+    "low": 76.085,
+    "close": 76.28,
+    "adjusted_close": 76.28,
+    "volume": 23735696
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-09-26",
+    "open": 76.67,
+    "high": 77.885,
+    "low": 72.895,
+    "close": 73.76,
+    "adjusted_close": 73.76,
+    "volume": 21108097
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-10-03",
+    "open": 74.19,
+    "high": 85.5,
+    "low": 73.685,
+    "close": 85.31,
+    "adjusted_close": 85.31,
+    "volume": 39573282
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-10-10",
+    "open": 85.54,
+    "high": 86.57,
+    "low": 83.845,
+    "close": 84.53,
+    "adjusted_close": 84.53,
+    "volume": 40068746
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-10-17",
+    "open": 84.35,
+    "high": 85.17,
+    "low": 83.095,
+    "close": 84.69,
+    "adjusted_close": 84.69,
+    "volume": 22404152
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-10-23",
+    "open": 84.86,
+    "high": 85.18,
+    "low": 83.12,
+    "close": 83.4,
+    "adjusted_close": 83.4,
+    "volume": 16084692
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-10-24",
+    "open": 84.86,
+    "high": 85.18,
+    "low": 82.92,
+    "close": 83.29,
+    "adjusted_close": 163.1654,
+    "volume": 18476700
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-10-31",
+    "open": 83.46,
+    "high": 84.22,
+    "low": 81.2906,
+    "close": 82.4,
+    "adjusted_close": 161.4218,
+    "volume": 22248738
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-11-07",
+    "open": 81.98,
+    "high": 85.15,
+    "low": 80.48,
+    "close": 84.58,
+    "adjusted_close": 165.6925,
+    "volume": 24047378
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-11-14",
+    "open": 86.24,
+    "high": 89.43,
+    "low": 85.845,
+    "close": 89.1,
+    "adjusted_close": 174.5472,
+    "volume": 25072107
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-11-21",
+    "open": 89.33,
+    "high": 91.905,
+    "low": 88.41,
+    "close": 91.0,
+    "adjusted_close": 178.2693,
+    "volume": 29876797
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-11-28",
+    "open": 90.605,
+    "high": 94.015,
+    "low": 90.605,
+    "close": 92.72,
+    "adjusted_close": 181.6388,
+    "volume": 19556479
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-12-05",
+    "open": 92.935,
+    "high": 92.98,
+    "low": 89.77,
+    "close": 90.18,
+    "adjusted_close": 176.6629,
+    "volume": 30392306
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-12-12",
+    "open": 90.365,
+    "high": 91.66,
+    "low": 89.28,
+    "close": 89.83,
+    "adjusted_close": 175.9772,
+    "volume": 29905253
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-12-19",
+    "open": 90.37,
+    "high": 91.8699,
+    "low": 89.85,
+    "close": 91.36,
+    "adjusted_close": 178.9745,
+    "volume": 32713939
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2025-12-26",
+    "open": 90.81,
+    "high": 93.1,
+    "low": 90.63,
+    "close": 92.9,
+    "adjusted_close": 181.9914,
+    "volume": 11047406
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2026-01-02",
+    "open": 92.33,
+    "high": 92.89,
+    "low": 91.17,
+    "close": 91.57,
+    "adjusted_close": 179.3859,
+    "volume": 9762962
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2026-01-09",
+    "open": 91.165,
+    "high": 96.51,
+    "low": 89.53,
+    "close": 94.65,
+    "adjusted_close": 185.4196,
+    "volume": 30542846
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2026-01-16",
+    "open": 95.14,
+    "high": 96.43,
+    "low": 92.78,
+    "close": 94.39,
+    "adjusted_close": 184.9103,
+    "volume": 90699390
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2026-01-23",
+    "open": 90.14,
+    "high": 92.985,
+    "low": 89.04,
+    "close": 92.95,
+    "adjusted_close": 182.0893,
+    "volume": 30575897
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2026-01-30",
+    "open": 93.14,
+    "high": 96.18,
+    "low": 92.46,
+    "close": 92.77,
+    "adjusted_close": 181.7367,
+    "volume": 33425230
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2026-02-06",
+    "open": 187.5,
+    "high": 193.97,
+    "low": 183.63,
+    "close": 193.03,
+    "adjusted_close": 189.0732,
+    "volume": 16199858
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2026-02-13",
+    "open": 194.02,
+    "high": 206.71,
+    "low": 190.6,
+    "close": 205.55,
+    "adjusted_close": 201.3365,
+    "volume": 11439573
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2026-02-20",
+    "open": 208.1,
+    "high": 212.71,
+    "low": 204.05,
+    "close": 204.2,
+    "adjusted_close": 204.2,
+    "volume": 8521875
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2026-02-27",
+    "open": 204.6,
+    "high": 209.93,
+    "low": 202.64,
+    "close": 208.45,
+    "adjusted_close": 208.45,
+    "volume": 9208785
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2026-03-06",
+    "open": 205.64,
+    "high": 206.3,
+    "low": 192.76,
+    "close": 194.22,
+    "adjusted_close": 194.22,
+    "volume": 11485581
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2026-03-13",
+    "open": 190.33,
+    "high": 198.09,
+    "low": 189.35,
+    "close": 189.9,
+    "adjusted_close": 189.9,
+    "volume": 8534013
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2026-03-20",
+    "open": 190.81,
+    "high": 193.96,
+    "low": 182.62,
+    "close": 183.6,
+    "adjusted_close": 183.6,
+    "volume": 7996857
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2026-03-23",
+    "open": 183.86,
+    "high": 186.78,
+    "low": 183.76,
+    "close": 184.07,
+    "adjusted_close": 184.07,
+    "volume": 2009404
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2026-03-27",
+    "open": 183.86,
+    "high": 192.97,
+    "low": 182.39,
+    "close": 188.42,
+    "adjusted_close": 188.42,
+    "volume": 9702918
+  },
+  {
+    "symbol": "AZN",
+    "week_date": "2026-04-02",
+    "open": 193.83,
+    "high": 204.34,
+    "low": 192.61,
+    "close": 203.49,
+    "adjusted_close": 203.49,
+    "volume": 9081918
+  }
+]

@@ -1,0 +1,6442 @@
+[
+  {
+    "symbol": "AMD",
+    "week_date": "2014-01-03",
+    "open": 3.79,
+    "high": 4.0,
+    "low": 3.78,
+    "close": 4.0,
+    "adjusted_close": 4.0,
+    "volume": 73302700
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-01-10",
+    "open": 4.01,
+    "high": 4.26,
+    "low": 3.99,
+    "close": 4.17,
+    "adjusted_close": 4.17,
+    "volume": 167517500
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-01-17",
+    "open": 4.19,
+    "high": 4.6,
+    "low": 4.09,
+    "close": 4.18,
+    "adjusted_close": 4.18,
+    "volume": 224722300
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-01-24",
+    "open": 4.31,
+    "high": 4.34,
+    "low": 3.41,
+    "close": 3.47,
+    "adjusted_close": 3.47,
+    "volume": 222972900
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-01-31",
+    "open": 3.48,
+    "high": 3.57,
+    "low": 3.35,
+    "close": 3.43,
+    "adjusted_close": 3.43,
+    "volume": 111773700
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-02-07",
+    "open": 3.43,
+    "high": 3.5,
+    "low": 3.2915,
+    "close": 3.47,
+    "adjusted_close": 3.47,
+    "volume": 99012700
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-02-14",
+    "open": 3.5,
+    "high": 3.75,
+    "low": 3.45,
+    "close": 3.69,
+    "adjusted_close": 3.69,
+    "volume": 99517000
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-02-21",
+    "open": 3.69,
+    "high": 3.75,
+    "low": 3.65,
+    "close": 3.69,
+    "adjusted_close": 3.69,
+    "volume": 53015100
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-02-28",
+    "open": 3.71,
+    "high": 3.77,
+    "low": 3.63,
+    "close": 3.71,
+    "adjusted_close": 3.71,
+    "volume": 65964300
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-03-07",
+    "open": 3.66,
+    "high": 4.02,
+    "low": 3.6,
+    "close": 3.95,
+    "adjusted_close": 3.95,
+    "volume": 106960900
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-03-14",
+    "open": 4.04,
+    "high": 4.06,
+    "low": 3.8,
+    "close": 3.85,
+    "adjusted_close": 3.85,
+    "volume": 129752200
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-03-21",
+    "open": 3.88,
+    "high": 4.14,
+    "low": 3.78,
+    "close": 4.04,
+    "adjusted_close": 4.04,
+    "volume": 111266500
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-03-28",
+    "open": 4.05,
+    "high": 4.14,
+    "low": 3.87,
+    "close": 3.88,
+    "adjusted_close": 3.88,
+    "volume": 87707400
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-04-04",
+    "open": 3.93,
+    "high": 4.12,
+    "low": 3.9,
+    "close": 4.01,
+    "adjusted_close": 4.01,
+    "volume": 89233600
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-04-11",
+    "open": 3.98,
+    "high": 4.02,
+    "low": 3.65,
+    "close": 3.65,
+    "adjusted_close": 3.65,
+    "volume": 109277100
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-04-17",
+    "open": 3.72,
+    "high": 3.83,
+    "low": 3.65,
+    "close": 3.69,
+    "adjusted_close": 3.69,
+    "volume": 94710800
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-04-25",
+    "open": 4.01,
+    "high": 4.35,
+    "low": 3.955,
+    "close": 4.05,
+    "adjusted_close": 4.05,
+    "volume": 249937600
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-05-02",
+    "open": 4.09,
+    "high": 4.24,
+    "low": 3.873,
+    "close": 4.12,
+    "adjusted_close": 4.12,
+    "volume": 78439438
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-05-09",
+    "open": 4.1,
+    "high": 4.14,
+    "low": 3.85,
+    "close": 3.87,
+    "adjusted_close": 3.87,
+    "volume": 79852500
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-05-16",
+    "open": 3.87,
+    "high": 4.09,
+    "low": 3.86,
+    "close": 4.02,
+    "adjusted_close": 4.02,
+    "volume": 71526600
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-05-23",
+    "open": 4.0,
+    "high": 4.11,
+    "low": 3.96,
+    "close": 4.02,
+    "adjusted_close": 4.02,
+    "volume": 68922200
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-05-30",
+    "open": 4.05,
+    "high": 4.06,
+    "low": 3.98,
+    "close": 4.0,
+    "adjusted_close": 4.0,
+    "volume": 38123900
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-06-06",
+    "open": 4.03,
+    "high": 4.11,
+    "low": 3.92,
+    "close": 4.06,
+    "adjusted_close": 4.06,
+    "volume": 57194100
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-06-13",
+    "open": 4.05,
+    "high": 4.44,
+    "low": 4.04,
+    "close": 4.28,
+    "adjusted_close": 4.28,
+    "volume": 100854200
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-06-20",
+    "open": 4.26,
+    "high": 4.5,
+    "low": 4.07,
+    "close": 4.1,
+    "adjusted_close": 4.1,
+    "volume": 125745800
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-06-27",
+    "open": 4.06,
+    "high": 4.11,
+    "low": 3.9,
+    "close": 4.11,
+    "adjusted_close": 4.11,
+    "volume": 121481300
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-07-03",
+    "open": 4.12,
+    "high": 4.4,
+    "low": 4.08,
+    "close": 4.24,
+    "adjusted_close": 4.24,
+    "volume": 97977300
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-07-11",
+    "open": 4.23,
+    "high": 4.4,
+    "low": 4.1,
+    "close": 4.37,
+    "adjusted_close": 4.37,
+    "volume": 142778700
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-07-18",
+    "open": 4.44,
+    "high": 4.8,
+    "low": 3.67,
+    "close": 3.83,
+    "adjusted_close": 3.83,
+    "volume": 477749900
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-07-25",
+    "open": 3.86,
+    "high": 3.87,
+    "low": 3.69,
+    "close": 3.76,
+    "adjusted_close": 3.76,
+    "volume": 159173600
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-08-01",
+    "open": 3.77,
+    "high": 4.015,
+    "low": 3.68,
+    "close": 3.97,
+    "adjusted_close": 3.97,
+    "volume": 256125800
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-08-08",
+    "open": 3.97,
+    "high": 4.1997,
+    "low": 3.93,
+    "close": 4.12,
+    "adjusted_close": 4.12,
+    "volume": 137842900
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-08-15",
+    "open": 4.03,
+    "high": 4.19,
+    "low": 3.99,
+    "close": 4.13,
+    "adjusted_close": 4.13,
+    "volume": 146804000
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-08-22",
+    "open": 4.14,
+    "high": 4.32,
+    "low": 4.14,
+    "close": 4.25,
+    "adjusted_close": 4.25,
+    "volume": 100882000
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-08-29",
+    "open": 4.27,
+    "high": 4.27,
+    "low": 4.07,
+    "close": 4.17,
+    "adjusted_close": 4.17,
+    "volume": 43140500
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-09-05",
+    "open": 4.16,
+    "high": 4.25,
+    "low": 4.15,
+    "close": 4.15,
+    "adjusted_close": 4.15,
+    "volume": 41625500
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-09-12",
+    "open": 4.13,
+    "high": 4.18,
+    "low": 3.96,
+    "close": 3.96,
+    "adjusted_close": 3.96,
+    "volume": 52834100
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-09-19",
+    "open": 3.98,
+    "high": 4.02,
+    "low": 3.695,
+    "close": 3.81,
+    "adjusted_close": 3.81,
+    "volume": 121951700
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-09-26",
+    "open": 3.81,
+    "high": 3.83,
+    "low": 3.6,
+    "close": 3.6,
+    "adjusted_close": 3.6,
+    "volume": 72213744
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-10-03",
+    "open": 3.56,
+    "high": 3.66,
+    "low": 3.28,
+    "close": 3.4,
+    "adjusted_close": 3.4,
+    "volume": 161092878
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-10-10",
+    "open": 3.415,
+    "high": 3.44,
+    "low": 2.71,
+    "close": 2.72,
+    "adjusted_close": 2.72,
+    "volume": 173954990
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-10-17",
+    "open": 2.78,
+    "high": 2.86,
+    "low": 2.54,
+    "close": 2.72,
+    "adjusted_close": 2.72,
+    "volume": 229833023
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-10-24",
+    "open": 2.7905,
+    "high": 2.795,
+    "low": 2.6,
+    "close": 2.68,
+    "adjusted_close": 2.68,
+    "volume": 111423588
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-10-31",
+    "open": 2.68,
+    "high": 2.83,
+    "low": 2.65,
+    "close": 2.8,
+    "adjusted_close": 2.8,
+    "volume": 79504799
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-11-07",
+    "open": 2.81,
+    "high": 2.905,
+    "low": 2.75,
+    "close": 2.78,
+    "adjusted_close": 2.78,
+    "volume": 50123048
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-11-14",
+    "open": 2.78,
+    "high": 2.81,
+    "low": 2.61,
+    "close": 2.61,
+    "adjusted_close": 2.61,
+    "volume": 59861895
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-11-21",
+    "open": 2.62,
+    "high": 2.77,
+    "low": 2.59,
+    "close": 2.77,
+    "adjusted_close": 2.77,
+    "volume": 64244713
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-11-28",
+    "open": 2.8,
+    "high": 2.85,
+    "low": 2.76,
+    "close": 2.79,
+    "adjusted_close": 2.79,
+    "volume": 23132860
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-12-05",
+    "open": 2.77,
+    "high": 2.82,
+    "low": 2.61,
+    "close": 2.66,
+    "adjusted_close": 2.66,
+    "volume": 71742210
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-12-12",
+    "open": 2.65,
+    "high": 2.68,
+    "low": 2.35,
+    "close": 2.52,
+    "adjusted_close": 2.52,
+    "volume": 97366147
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-12-19",
+    "open": 2.52,
+    "high": 2.6,
+    "low": 2.42,
+    "close": 2.57,
+    "adjusted_close": 2.57,
+    "volume": 76329108
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2014-12-26",
+    "open": 2.55,
+    "high": 2.72,
+    "low": 2.52,
+    "close": 2.65,
+    "adjusted_close": 2.65,
+    "volume": 31964364
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-01-02",
+    "open": 2.64,
+    "high": 2.73,
+    "low": 2.63,
+    "close": 2.69,
+    "adjusted_close": 2.69,
+    "volume": 35818874
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-01-09",
+    "open": 2.67,
+    "high": 2.7,
+    "low": 2.54,
+    "close": 2.63,
+    "adjusted_close": 2.63,
+    "volume": 55167276
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-01-16",
+    "open": 2.62,
+    "high": 2.68,
+    "low": 2.39,
+    "close": 2.39,
+    "adjusted_close": 2.39,
+    "volume": 85813338
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-01-23",
+    "open": 2.39,
+    "high": 2.5,
+    "low": 2.14,
+    "close": 2.45,
+    "adjusted_close": 2.45,
+    "volume": 150520863
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-01-30",
+    "open": 2.44,
+    "high": 2.84,
+    "low": 2.44,
+    "close": 2.57,
+    "adjusted_close": 2.57,
+    "volume": 143861690
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-02-06",
+    "open": 2.69,
+    "high": 3.37,
+    "low": 2.65,
+    "close": 3.03,
+    "adjusted_close": 3.03,
+    "volume": 194765849
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-02-13",
+    "open": 3.03,
+    "high": 3.18,
+    "low": 2.93,
+    "close": 3.15,
+    "adjusted_close": 3.15,
+    "volume": 72472472
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-02-20",
+    "open": 3.16,
+    "high": 3.17,
+    "low": 3.01,
+    "close": 3.06,
+    "adjusted_close": 3.06,
+    "volume": 33205330
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-02-27",
+    "open": 3.05,
+    "high": 3.14,
+    "low": 3.02,
+    "close": 3.11,
+    "adjusted_close": 3.11,
+    "volume": 39222318
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-03-06",
+    "open": 3.13,
+    "high": 3.23,
+    "low": 2.83,
+    "close": 2.92,
+    "adjusted_close": 2.92,
+    "volume": 64662720
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-03-13",
+    "open": 2.92,
+    "high": 2.98,
+    "low": 2.71,
+    "close": 2.75,
+    "adjusted_close": 2.75,
+    "volume": 56437367
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-03-20",
+    "open": 2.75,
+    "high": 2.82,
+    "low": 2.72,
+    "close": 2.8,
+    "adjusted_close": 2.8,
+    "volume": 44844493
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-03-27",
+    "open": 2.81,
+    "high": 2.85,
+    "low": 2.53,
+    "close": 2.72,
+    "adjusted_close": 2.72,
+    "volume": 88290421
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-04-02",
+    "open": 2.73,
+    "high": 2.76,
+    "low": 2.65,
+    "close": 2.69,
+    "adjusted_close": 2.69,
+    "volume": 33871294
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-04-10",
+    "open": 2.68,
+    "high": 2.78,
+    "low": 2.68,
+    "close": 2.76,
+    "adjusted_close": 2.76,
+    "volume": 31577969
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-04-17",
+    "open": 2.76,
+    "high": 2.94,
+    "low": 2.45,
+    "close": 2.575,
+    "adjusted_close": 2.575,
+    "volume": 118839648
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-04-24",
+    "open": 2.56,
+    "high": 2.57,
+    "low": 2.25,
+    "close": 2.3,
+    "adjusted_close": 2.3,
+    "volume": 118210288
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-05-01",
+    "open": 2.3,
+    "high": 2.37,
+    "low": 2.25,
+    "close": 2.31,
+    "adjusted_close": 2.31,
+    "volume": 59933929
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-05-08",
+    "open": 2.31,
+    "high": 2.36,
+    "low": 2.24,
+    "close": 2.31,
+    "adjusted_close": 2.31,
+    "volume": 65308105
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-05-15",
+    "open": 2.31,
+    "high": 2.39,
+    "low": 2.3,
+    "close": 2.32,
+    "adjusted_close": 2.32,
+    "volume": 44560291
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-05-22",
+    "open": 2.35,
+    "high": 2.37,
+    "low": 2.27,
+    "close": 2.28,
+    "adjusted_close": 2.28,
+    "volume": 41242038
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-05-29",
+    "open": 2.27,
+    "high": 2.33,
+    "low": 2.2,
+    "close": 2.28,
+    "adjusted_close": 2.28,
+    "volume": 47623951
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-06-05",
+    "open": 2.29,
+    "high": 2.34,
+    "low": 2.25,
+    "close": 2.33,
+    "adjusted_close": 2.33,
+    "volume": 40897451
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-06-12",
+    "open": 2.31,
+    "high": 2.36,
+    "low": 2.28,
+    "close": 2.31,
+    "adjusted_close": 2.31,
+    "volume": 38885384
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-06-19",
+    "open": 2.32,
+    "high": 2.59,
+    "low": 2.29,
+    "close": 2.58,
+    "adjusted_close": 2.58,
+    "volume": 96872556
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-06-26",
+    "open": 2.61,
+    "high": 2.67,
+    "low": 2.37,
+    "close": 2.47,
+    "adjusted_close": 2.47,
+    "volume": 170260842
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-07-02",
+    "open": 2.41,
+    "high": 2.63,
+    "low": 2.31,
+    "close": 2.53,
+    "adjusted_close": 2.53,
+    "volume": 92913689
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-07-10",
+    "open": 2.46,
+    "high": 2.54,
+    "low": 1.93,
+    "close": 1.96,
+    "adjusted_close": 1.96,
+    "volume": 122969935
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-07-17",
+    "open": 1.97,
+    "high": 2.09,
+    "low": 1.74,
+    "close": 1.79,
+    "adjusted_close": 1.79,
+    "volume": 87191396
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-07-24",
+    "open": 1.82,
+    "high": 1.84,
+    "low": 1.65,
+    "close": 1.67,
+    "adjusted_close": 1.67,
+    "volume": 70340442
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-07-31",
+    "open": 1.67,
+    "high": 1.99,
+    "low": 1.61,
+    "close": 1.93,
+    "adjusted_close": 1.93,
+    "volume": 75684909
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-08-07",
+    "open": 1.93,
+    "high": 2.21,
+    "low": 1.9,
+    "close": 2.09,
+    "adjusted_close": 2.09,
+    "volume": 70724774
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-08-14",
+    "open": 1.92,
+    "high": 1.98,
+    "low": 1.79,
+    "close": 1.84,
+    "adjusted_close": 1.84,
+    "volume": 59956228
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-08-21",
+    "open": 1.82,
+    "high": 1.88,
+    "low": 1.68,
+    "close": 1.78,
+    "adjusted_close": 1.78,
+    "volume": 52530690
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-08-28",
+    "open": 1.69,
+    "high": 1.87,
+    "low": 1.65,
+    "close": 1.85,
+    "adjusted_close": 1.85,
+    "volume": 62794190
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-09-04",
+    "open": 1.82,
+    "high": 1.87,
+    "low": 1.71,
+    "close": 1.82,
+    "adjusted_close": 1.82,
+    "volume": 35172500
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-09-11",
+    "open": 1.85,
+    "high": 2.14,
+    "low": 1.81,
+    "close": 2.01,
+    "adjusted_close": 2.01,
+    "volume": 53922464
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-09-18",
+    "open": 2.0,
+    "high": 2.0,
+    "low": 1.81,
+    "close": 1.87,
+    "adjusted_close": 1.87,
+    "volume": 45556801
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-09-25",
+    "open": 1.87,
+    "high": 1.8969,
+    "low": 1.66,
+    "close": 1.71,
+    "adjusted_close": 1.71,
+    "volume": 41894467
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-10-02",
+    "open": 1.69,
+    "high": 1.83,
+    "low": 1.65,
+    "close": 1.83,
+    "adjusted_close": 1.83,
+    "volume": 30718782
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-10-09",
+    "open": 1.82,
+    "high": 1.96,
+    "low": 1.77,
+    "close": 1.96,
+    "adjusted_close": 1.96,
+    "volume": 41947989
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-10-16",
+    "open": 1.96,
+    "high": 2.06,
+    "low": 1.85,
+    "close": 1.94,
+    "adjusted_close": 1.94,
+    "volume": 73442441
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-10-23",
+    "open": 1.91,
+    "high": 2.21,
+    "low": 1.91,
+    "close": 2.21,
+    "adjusted_close": 2.21,
+    "volume": 48994045
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-10-30",
+    "open": 2.21,
+    "high": 2.21,
+    "low": 2.1,
+    "close": 2.12,
+    "adjusted_close": 2.12,
+    "volume": 28417235
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-11-06",
+    "open": 2.13,
+    "high": 2.3,
+    "low": 2.11,
+    "close": 2.15,
+    "adjusted_close": 2.15,
+    "volume": 36069180
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-11-13",
+    "open": 2.15,
+    "high": 2.18,
+    "low": 1.94,
+    "close": 1.99,
+    "adjusted_close": 1.99,
+    "volume": 25422933
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-11-20",
+    "open": 1.99,
+    "high": 2.25,
+    "low": 1.95,
+    "close": 2.22,
+    "adjusted_close": 2.22,
+    "volume": 34790566
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-11-27",
+    "open": 2.22,
+    "high": 2.4,
+    "low": 2.17,
+    "close": 2.33,
+    "adjusted_close": 2.33,
+    "volume": 30244740
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-12-04",
+    "open": 2.34,
+    "high": 2.37,
+    "low": 2.2,
+    "close": 2.28,
+    "adjusted_close": 2.28,
+    "volume": 34705922
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-12-11",
+    "open": 2.26,
+    "high": 2.5,
+    "low": 2.21,
+    "close": 2.36,
+    "adjusted_close": 2.36,
+    "volume": 51205149
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-12-18",
+    "open": 2.36,
+    "high": 2.6,
+    "low": 2.3,
+    "close": 2.45,
+    "adjusted_close": 2.45,
+    "volume": 64030286
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-12-24",
+    "open": 2.47,
+    "high": 3.0,
+    "low": 2.43,
+    "close": 2.92,
+    "adjusted_close": 2.92,
+    "volume": 74035957
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2015-12-31",
+    "open": 2.91,
+    "high": 3.06,
+    "low": 2.86,
+    "close": 2.87,
+    "adjusted_close": 2.87,
+    "volume": 52484119
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-01-08",
+    "open": 2.77,
+    "high": 2.82,
+    "low": 2.1,
+    "close": 2.14,
+    "adjusted_close": 2.14,
+    "volume": 123274343
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-01-15",
+    "open": 2.16,
+    "high": 2.46,
+    "low": 1.99,
+    "close": 2.03,
+    "adjusted_close": 2.03,
+    "volume": 87230979
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-01-22",
+    "open": 2.08,
+    "high": 2.18,
+    "low": 1.75,
+    "close": 2.02,
+    "adjusted_close": 2.02,
+    "volume": 90855923
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-01-29",
+    "open": 2.01,
+    "high": 2.2,
+    "low": 2.01,
+    "close": 2.2,
+    "adjusted_close": 2.2,
+    "volume": 54128026
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-02-05",
+    "open": 2.17,
+    "high": 2.19,
+    "low": 1.95,
+    "close": 1.98,
+    "adjusted_close": 1.98,
+    "volume": 46218076
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-02-12",
+    "open": 1.97,
+    "high": 1.995,
+    "low": 1.81,
+    "close": 1.83,
+    "adjusted_close": 1.83,
+    "volume": 53862156
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-02-19",
+    "open": 1.86,
+    "high": 1.98,
+    "low": 1.82,
+    "close": 1.91,
+    "adjusted_close": 1.91,
+    "volume": 44231065
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-02-26",
+    "open": 1.94,
+    "high": 2.1,
+    "low": 1.925,
+    "close": 2.07,
+    "adjusted_close": 2.07,
+    "volume": 37038156
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-03-04",
+    "open": 2.06,
+    "high": 2.55,
+    "low": 2.05,
+    "close": 2.37,
+    "adjusted_close": 2.37,
+    "volume": 68798584
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-03-11",
+    "open": 2.36,
+    "high": 2.54,
+    "low": 2.15,
+    "close": 2.52,
+    "adjusted_close": 2.52,
+    "volume": 62292413
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-03-18",
+    "open": 2.53,
+    "high": 2.93,
+    "low": 2.45,
+    "close": 2.93,
+    "adjusted_close": 2.93,
+    "volume": 123768566
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-03-24",
+    "open": 2.9,
+    "high": 2.9,
+    "low": 2.62,
+    "close": 2.79,
+    "adjusted_close": 2.79,
+    "volume": 43988032
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-04-01",
+    "open": 2.81,
+    "high": 2.98,
+    "low": 2.7,
+    "close": 2.83,
+    "adjusted_close": 2.83,
+    "volume": 53575013
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-04-08",
+    "open": 2.83,
+    "high": 2.87,
+    "low": 2.61,
+    "close": 2.74,
+    "adjusted_close": 2.74,
+    "volume": 49734135
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-04-15",
+    "open": 2.76,
+    "high": 2.85,
+    "low": 2.68,
+    "close": 2.7,
+    "adjusted_close": 2.7,
+    "volume": 49697810
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-04-22",
+    "open": 2.67,
+    "high": 3.99,
+    "low": 2.6,
+    "close": 3.99,
+    "adjusted_close": 3.99,
+    "volume": 185807370
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-04-29",
+    "open": 3.81,
+    "high": 3.82,
+    "low": 3.31,
+    "close": 3.55,
+    "adjusted_close": 3.55,
+    "volume": 179079425
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-05-06",
+    "open": 3.58,
+    "high": 3.8,
+    "low": 3.54,
+    "close": 3.68,
+    "adjusted_close": 3.68,
+    "volume": 72814999
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-05-13",
+    "open": 3.66,
+    "high": 3.73,
+    "low": 3.45,
+    "close": 3.67,
+    "adjusted_close": 3.67,
+    "volume": 58980576
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-05-20",
+    "open": 3.67,
+    "high": 3.98,
+    "low": 3.65,
+    "close": 3.87,
+    "adjusted_close": 3.87,
+    "volume": 85773405
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-05-27",
+    "open": 3.9,
+    "high": 4.63,
+    "low": 3.88,
+    "close": 4.6,
+    "adjusted_close": 4.6,
+    "volume": 151526160
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-06-03",
+    "open": 4.67,
+    "high": 4.71,
+    "low": 4.07,
+    "close": 4.16,
+    "adjusted_close": 4.16,
+    "volume": 107972396
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-06-10",
+    "open": 4.2,
+    "high": 4.67,
+    "low": 4.17,
+    "close": 4.32,
+    "adjusted_close": 4.32,
+    "volume": 89405730
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-06-17",
+    "open": 4.32,
+    "high": 5.27,
+    "low": 4.3,
+    "close": 5.26,
+    "adjusted_close": 5.26,
+    "volume": 140950310
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-06-24",
+    "open": 5.39,
+    "high": 5.52,
+    "low": 4.76,
+    "close": 4.88,
+    "adjusted_close": 4.88,
+    "volume": 193243562
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-07-01",
+    "open": 4.88,
+    "high": 5.4,
+    "low": 4.65,
+    "close": 5.07,
+    "adjusted_close": 5.07,
+    "volume": 137907974
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-07-08",
+    "open": 5.03,
+    "high": 5.15,
+    "low": 4.82,
+    "close": 5.1,
+    "adjusted_close": 5.1,
+    "volume": 79679870
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-07-15",
+    "open": 5.13,
+    "high": 5.235,
+    "low": 5.0,
+    "close": 5.14,
+    "adjusted_close": 5.14,
+    "volume": 90162346
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-07-22",
+    "open": 5.19,
+    "high": 5.97,
+    "low": 5.1,
+    "close": 5.84,
+    "adjusted_close": 5.84,
+    "volume": 224241685
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-07-29",
+    "open": 5.93,
+    "high": 7.1599,
+    "low": 5.92,
+    "close": 6.86,
+    "adjusted_close": 6.86,
+    "volume": 288222671
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-08-05",
+    "open": 6.89,
+    "high": 6.92,
+    "low": 6.15,
+    "close": 6.61,
+    "adjusted_close": 6.61,
+    "volume": 133928263
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-08-12",
+    "open": 6.7,
+    "high": 6.85,
+    "low": 6.25,
+    "close": 6.73,
+    "adjusted_close": 6.73,
+    "volume": 106012077
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-08-19",
+    "open": 6.79,
+    "high": 8.0,
+    "low": 6.61,
+    "close": 7.62,
+    "adjusted_close": 7.62,
+    "volume": 174812070
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-08-26",
+    "open": 7.83,
+    "high": 7.95,
+    "low": 7.2,
+    "close": 7.67,
+    "adjusted_close": 7.67,
+    "volume": 139833318
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-09-02",
+    "open": 7.72,
+    "high": 7.79,
+    "low": 7.09,
+    "close": 7.51,
+    "adjusted_close": 7.51,
+    "volume": 92636157
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-09-09",
+    "open": 7.56,
+    "high": 7.6,
+    "low": 5.85,
+    "close": 5.9,
+    "adjusted_close": 5.9,
+    "volume": 344359207
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-09-16",
+    "open": 5.83,
+    "high": 6.22,
+    "low": 5.66,
+    "close": 6.05,
+    "adjusted_close": 6.05,
+    "volume": 293726564
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-09-23",
+    "open": 6.12,
+    "high": 6.65,
+    "low": 6.08,
+    "close": 6.55,
+    "adjusted_close": 6.55,
+    "volume": 197148562
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-09-30",
+    "open": 6.54,
+    "high": 7.04,
+    "low": 6.29,
+    "close": 6.91,
+    "adjusted_close": 6.91,
+    "volume": 165989148
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-10-07",
+    "open": 6.95,
+    "high": 7.15,
+    "low": 6.62,
+    "close": 6.75,
+    "adjusted_close": 6.75,
+    "volume": 147580993
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-10-14",
+    "open": 6.82,
+    "high": 7.12,
+    "low": 6.24,
+    "close": 6.75,
+    "adjusted_close": 6.75,
+    "volume": 177240095
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-10-21",
+    "open": 6.92,
+    "high": 6.98,
+    "low": 6.37,
+    "close": 6.52,
+    "adjusted_close": 6.52,
+    "volume": 207847641
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-10-28",
+    "open": 6.57,
+    "high": 7.53,
+    "low": 6.54,
+    "close": 7.2,
+    "adjusted_close": 7.2,
+    "volume": 294545298
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-11-04",
+    "open": 7.24,
+    "high": 7.46,
+    "low": 6.46,
+    "close": 6.56,
+    "adjusted_close": 6.56,
+    "volume": 181994250
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-11-11",
+    "open": 6.79,
+    "high": 7.18,
+    "low": 6.22,
+    "close": 6.685,
+    "adjusted_close": 6.685,
+    "volume": 224449002
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-11-18",
+    "open": 6.83,
+    "high": 8.83,
+    "low": 6.61,
+    "close": 8.71,
+    "adjusted_close": 8.71,
+    "volume": 323160638
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-11-25",
+    "open": 8.87,
+    "high": 9.22,
+    "low": 8.5,
+    "close": 8.77,
+    "adjusted_close": 8.77,
+    "volume": 185768776
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-12-02",
+    "open": 8.72,
+    "high": 9.23,
+    "low": 8.26,
+    "close": 8.53,
+    "adjusted_close": 8.53,
+    "volume": 216332411
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-12-09",
+    "open": 8.69,
+    "high": 10.66,
+    "low": 8.45,
+    "close": 10.34,
+    "adjusted_close": 10.34,
+    "volume": 343764012
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-12-16",
+    "open": 10.4,
+    "high": 11.23,
+    "low": 10.27,
+    "close": 10.66,
+    "adjusted_close": 10.66,
+    "volume": 283928325
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-12-23",
+    "open": 10.81,
+    "high": 11.75,
+    "low": 10.52,
+    "close": 11.58,
+    "adjusted_close": 11.58,
+    "volume": 218953121
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2016-12-30",
+    "open": 11.65,
+    "high": 12.42,
+    "low": 11.01,
+    "close": 11.34,
+    "adjusted_close": 11.34,
+    "volume": 209920576
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-01-06",
+    "open": 11.42,
+    "high": 11.69,
+    "low": 11.02,
+    "close": 11.32,
+    "adjusted_close": 11.32,
+    "volume": 169271826
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-01-13",
+    "open": 11.37,
+    "high": 11.64,
+    "low": 10.33,
+    "close": 10.58,
+    "adjusted_close": 10.58,
+    "volume": 219504935
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-01-20",
+    "open": 10.17,
+    "high": 10.25,
+    "low": 9.42,
+    "close": 9.75,
+    "adjusted_close": 9.75,
+    "volume": 196422823
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-01-27",
+    "open": 9.68,
+    "high": 10.975,
+    "low": 9.68,
+    "close": 10.67,
+    "adjusted_close": 10.67,
+    "volume": 202368814
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-02-03",
+    "open": 10.62,
+    "high": 12.66,
+    "low": 10.22,
+    "close": 12.24,
+    "adjusted_close": 12.24,
+    "volume": 433730507
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-02-10",
+    "open": 12.46,
+    "high": 14.27,
+    "low": 12.38,
+    "close": 13.58,
+    "adjusted_close": 13.58,
+    "volume": 503020036
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-02-17",
+    "open": 13.7,
+    "high": 13.95,
+    "low": 12.6,
+    "close": 13.13,
+    "adjusted_close": 13.13,
+    "volume": 225004927
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-02-24",
+    "open": 13.41,
+    "high": 14.5,
+    "low": 13.4,
+    "close": 14.12,
+    "adjusted_close": 14.12,
+    "volume": 264468333
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-03-03",
+    "open": 14.27,
+    "high": 15.55,
+    "low": 12.79,
+    "close": 13.03,
+    "adjusted_close": 13.03,
+    "volume": 578628868
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-03-10",
+    "open": 13.0,
+    "high": 13.93,
+    "low": 12.38,
+    "close": 13.91,
+    "adjusted_close": 13.91,
+    "volume": 375540024
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-03-17",
+    "open": 14.475,
+    "high": 14.68,
+    "low": 13.36,
+    "close": 13.49,
+    "adjusted_close": 13.49,
+    "volume": 450199332
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-03-24",
+    "open": 13.68,
+    "high": 14.5,
+    "low": 13.54,
+    "close": 13.7,
+    "adjusted_close": 13.7,
+    "volume": 320007235
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-03-31",
+    "open": 13.35,
+    "high": 14.75,
+    "low": 13.21,
+    "close": 14.55,
+    "adjusted_close": 14.55,
+    "volume": 246669532
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-04-07",
+    "open": 14.6,
+    "high": 14.74,
+    "low": 12.83,
+    "close": 13.52,
+    "adjusted_close": 13.52,
+    "volume": 375507997
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-04-13",
+    "open": 13.52,
+    "high": 13.59,
+    "low": 12.22,
+    "close": 12.31,
+    "adjusted_close": 12.31,
+    "volume": 197922618
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-04-21",
+    "open": 12.53,
+    "high": 13.205,
+    "low": 12.37,
+    "close": 13.0,
+    "adjusted_close": 13.0,
+    "volume": 179516952
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-04-28",
+    "open": 13.23,
+    "high": 13.755,
+    "low": 13.045,
+    "close": 13.3,
+    "adjusted_close": 13.3,
+    "volume": 189065189
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-05-05",
+    "open": 13.43,
+    "high": 13.63,
+    "low": 9.85,
+    "close": 10.19,
+    "adjusted_close": 10.19,
+    "volume": 586780788
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-05-12",
+    "open": 10.22,
+    "high": 11.4,
+    "low": 10.0,
+    "close": 11.26,
+    "adjusted_close": 11.26,
+    "volume": 275811368
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-05-19",
+    "open": 11.41,
+    "high": 12.77,
+    "low": 10.81,
+    "close": 11.41,
+    "adjusted_close": 11.41,
+    "volume": 502169433
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-05-26",
+    "open": 11.49,
+    "high": 11.55,
+    "low": 10.62,
+    "close": 11.0,
+    "adjusted_close": 11.0,
+    "volume": 233215728
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-06-02",
+    "open": 10.95,
+    "high": 11.49,
+    "low": 10.565,
+    "close": 10.9,
+    "adjusted_close": 10.9,
+    "volume": 166610096
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-06-09",
+    "open": 10.84,
+    "high": 13.4,
+    "low": 10.8,
+    "close": 12.28,
+    "adjusted_close": 12.28,
+    "volume": 578915192
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-06-16",
+    "open": 11.75,
+    "high": 12.48,
+    "low": 11.21,
+    "close": 11.44,
+    "adjusted_close": 11.44,
+    "volume": 380871758
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-06-23",
+    "open": 11.63,
+    "high": 14.67,
+    "low": 11.62,
+    "close": 14.17,
+    "adjusted_close": 14.17,
+    "volume": 664312945
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-06-30",
+    "open": 14.39,
+    "high": 14.49,
+    "low": 12.36,
+    "close": 12.48,
+    "adjusted_close": 12.48,
+    "volume": 419047190
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-07-07",
+    "open": 12.57,
+    "high": 13.745,
+    "low": 12.13,
+    "close": 13.36,
+    "adjusted_close": 13.36,
+    "volume": 315057686
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-07-14",
+    "open": 13.61,
+    "high": 14.49,
+    "low": 13.27,
+    "close": 13.92,
+    "adjusted_close": 13.92,
+    "volume": 419088281
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-07-21",
+    "open": 14.03,
+    "high": 14.12,
+    "low": 13.15,
+    "close": 13.88,
+    "adjusted_close": 13.88,
+    "volume": 298093110
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-07-28",
+    "open": 14.0,
+    "high": 15.65,
+    "low": 13.68,
+    "close": 13.95,
+    "adjusted_close": 13.95,
+    "volume": 576500899
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-08-04",
+    "open": 14.09,
+    "high": 14.22,
+    "low": 13.02,
+    "close": 13.12,
+    "adjusted_close": 13.12,
+    "volume": 299664806
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-08-11",
+    "open": 13.33,
+    "high": 13.57,
+    "low": 11.88,
+    "close": 12.23,
+    "adjusted_close": 12.23,
+    "volume": 305773687
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-08-18",
+    "open": 12.58,
+    "high": 13.19,
+    "low": 12.25,
+    "close": 12.37,
+    "adjusted_close": 12.37,
+    "volume": 269625882
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-08-25",
+    "open": 12.42,
+    "high": 12.71,
+    "low": 11.86,
+    "close": 12.43,
+    "adjusted_close": 12.43,
+    "volume": 207355961
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-09-01",
+    "open": 12.53,
+    "high": 13.485,
+    "low": 11.93,
+    "close": 13.19,
+    "adjusted_close": 13.19,
+    "volume": 215761224
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-09-08",
+    "open": 12.88,
+    "high": 13.18,
+    "low": 12.035,
+    "close": 12.25,
+    "adjusted_close": 12.25,
+    "volume": 181159635
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-09-15",
+    "open": 12.46,
+    "high": 12.74,
+    "low": 12.11,
+    "close": 12.52,
+    "adjusted_close": 12.52,
+    "volume": 220392381
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-09-22",
+    "open": 12.77,
+    "high": 14.24,
+    "low": 12.74,
+    "close": 13.3,
+    "adjusted_close": 13.3,
+    "volume": 444282680
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-09-29",
+    "open": 13.25,
+    "high": 13.28,
+    "low": 12.43,
+    "close": 12.75,
+    "adjusted_close": 12.75,
+    "volume": 279036159
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-10-06",
+    "open": 12.8,
+    "high": 13.5,
+    "low": 12.62,
+    "close": 13.23,
+    "adjusted_close": 13.23,
+    "volume": 223076127
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-10-13",
+    "open": 13.26,
+    "high": 14.41,
+    "low": 13.26,
+    "close": 14.22,
+    "adjusted_close": 14.22,
+    "volume": 241286784
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-10-20",
+    "open": 14.25,
+    "high": 14.35,
+    "low": 13.69,
+    "close": 13.81,
+    "adjusted_close": 13.81,
+    "volume": 166472223
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-10-27",
+    "open": 13.94,
+    "high": 14.36,
+    "low": 11.35,
+    "close": 11.84,
+    "adjusted_close": 11.84,
+    "volume": 477353880
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-11-03",
+    "open": 11.255,
+    "high": 11.42,
+    "low": 10.65,
+    "close": 11.12,
+    "adjusted_close": 11.12,
+    "volume": 372759106
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-11-10",
+    "open": 12.04,
+    "high": 12.27,
+    "low": 11.03,
+    "close": 11.26,
+    "adjusted_close": 11.26,
+    "volume": 345604139
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-11-17",
+    "open": 11.18,
+    "high": 11.75,
+    "low": 10.77,
+    "close": 11.38,
+    "adjusted_close": 11.38,
+    "volume": 210567665
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-11-24",
+    "open": 11.47,
+    "high": 11.505,
+    "low": 11.19,
+    "close": 11.38,
+    "adjusted_close": 11.38,
+    "volume": 102016361
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-12-01",
+    "open": 11.34,
+    "high": 11.74,
+    "low": 10.53,
+    "close": 10.73,
+    "adjusted_close": 10.73,
+    "volume": 254924947
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-12-08",
+    "open": 10.85,
+    "high": 10.86,
+    "low": 9.7,
+    "close": 9.94,
+    "adjusted_close": 9.94,
+    "volume": 267657491
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-12-15",
+    "open": 9.97,
+    "high": 10.32,
+    "low": 9.88,
+    "close": 10.29,
+    "adjusted_close": 10.29,
+    "volume": 175355292
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-12-22",
+    "open": 10.6,
+    "high": 11.19,
+    "low": 10.2,
+    "close": 10.54,
+    "adjusted_close": 10.54,
+    "volume": 209506360
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2017-12-29",
+    "open": 10.38,
+    "high": 10.74,
+    "low": 10.27,
+    "close": 10.28,
+    "adjusted_close": 10.28,
+    "volume": 87810388
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-01-05",
+    "open": 10.42,
+    "high": 12.43,
+    "low": 10.34,
+    "close": 11.88,
+    "adjusted_close": 11.88,
+    "volume": 365277680
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-01-12",
+    "open": 12.01,
+    "high": 12.3,
+    "low": 11.56,
+    "close": 12.02,
+    "adjusted_close": 12.02,
+    "volume": 256760890
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-01-19",
+    "open": 12.05,
+    "high": 12.88,
+    "low": 11.8,
+    "close": 12.59,
+    "adjusted_close": 12.59,
+    "volume": 187419503
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-01-26",
+    "open": 12.61,
+    "high": 13.05,
+    "low": 12.32,
+    "close": 12.95,
+    "adjusted_close": 12.95,
+    "volume": 207065179
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-02-02",
+    "open": 13.13,
+    "high": 13.85,
+    "low": 12.43,
+    "close": 12.45,
+    "adjusted_close": 12.45,
+    "volume": 414084471
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-02-09",
+    "open": 12.05,
+    "high": 12.18,
+    "low": 10.63,
+    "close": 11.31,
+    "adjusted_close": 11.31,
+    "volume": 389344161
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-02-16",
+    "open": 11.47,
+    "high": 12.63,
+    "low": 11.43,
+    "close": 11.82,
+    "adjusted_close": 11.82,
+    "volume": 249830231
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-02-23",
+    "open": 11.72,
+    "high": 12.19,
+    "low": 11.63,
+    "close": 12.07,
+    "adjusted_close": 12.07,
+    "volume": 156814677
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-03-02",
+    "open": 12.14,
+    "high": 12.88,
+    "low": 11.43,
+    "close": 11.81,
+    "adjusted_close": 11.81,
+    "volume": 261254338
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-03-09",
+    "open": 11.69,
+    "high": 12.82,
+    "low": 11.55,
+    "close": 11.7,
+    "adjusted_close": 11.7,
+    "volume": 382172467
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-03-16",
+    "open": 11.76,
+    "high": 12.04,
+    "low": 11.1,
+    "close": 11.47,
+    "adjusted_close": 11.47,
+    "volume": 435565404
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-03-23",
+    "open": 11.41,
+    "high": 11.74,
+    "low": 10.57,
+    "close": 10.63,
+    "adjusted_close": 10.63,
+    "volume": 275996355
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-03-29",
+    "open": 10.71,
+    "high": 10.8,
+    "low": 9.79,
+    "close": 10.05,
+    "adjusted_close": 10.05,
+    "volume": 256910228
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-04-06",
+    "open": 9.99,
+    "high": 10.2,
+    "low": 9.04,
+    "close": 9.61,
+    "adjusted_close": 9.61,
+    "volume": 303918997
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-04-13",
+    "open": 9.75,
+    "high": 10.22,
+    "low": 9.52,
+    "close": 9.93,
+    "adjusted_close": 9.93,
+    "volume": 197308511
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-04-20",
+    "open": 10.0,
+    "high": 10.65,
+    "low": 9.9,
+    "close": 9.99,
+    "adjusted_close": 9.99,
+    "volume": 213538515
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-04-27",
+    "open": 10.09,
+    "high": 11.36,
+    "low": 9.56,
+    "close": 11.11,
+    "adjusted_close": 11.11,
+    "volume": 398173348
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-05-04",
+    "open": 11.06,
+    "high": 11.29,
+    "low": 10.77,
+    "close": 11.28,
+    "adjusted_close": 11.28,
+    "volume": 204513204
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-05-11",
+    "open": 11.32,
+    "high": 12.18,
+    "low": 11.3,
+    "close": 11.95,
+    "adjusted_close": 11.95,
+    "volume": 232434079
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-05-18",
+    "open": 12.14,
+    "high": 13.26,
+    "low": 12.11,
+    "close": 13.0,
+    "adjusted_close": 13.0,
+    "volume": 260566888
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-05-25",
+    "open": 13.25,
+    "high": 13.72,
+    "low": 12.71,
+    "close": 13.54,
+    "adjusted_close": 13.54,
+    "volume": 229134809
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-06-01",
+    "open": 13.45,
+    "high": 14.4,
+    "low": 13.26,
+    "close": 14.4,
+    "adjusted_close": 14.4,
+    "volume": 216240479
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-06-08",
+    "open": 14.76,
+    "high": 15.97,
+    "low": 14.31,
+    "close": 15.25,
+    "adjusted_close": 15.25,
+    "volume": 409548463
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-06-15",
+    "open": 15.21,
+    "high": 16.79,
+    "low": 15.01,
+    "close": 16.34,
+    "adjusted_close": 16.34,
+    "volume": 428628279
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-06-22",
+    "open": 16.18,
+    "high": 17.34,
+    "low": 15.46,
+    "close": 15.8,
+    "adjusted_close": 15.8,
+    "volume": 428036369
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-06-29",
+    "open": 15.64,
+    "high": 15.76,
+    "low": 14.54,
+    "close": 14.99,
+    "adjusted_close": 14.99,
+    "volume": 294890806
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-07-06",
+    "open": 14.8,
+    "high": 16.39,
+    "low": 14.74,
+    "close": 16.36,
+    "adjusted_close": 16.36,
+    "volume": 181297742
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-07-13",
+    "open": 16.73,
+    "high": 16.84,
+    "low": 16.02,
+    "close": 16.27,
+    "adjusted_close": 16.27,
+    "volume": 223049232
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-07-20",
+    "open": 16.42,
+    "high": 17.0,
+    "low": 16.41,
+    "close": 16.5,
+    "adjusted_close": 16.5,
+    "volume": 232644140
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-07-27",
+    "open": 16.47,
+    "high": 19.88,
+    "low": 15.72,
+    "close": 18.94,
+    "adjusted_close": 18.94,
+    "volume": 541346874
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-08-03",
+    "open": 19.4,
+    "high": 20.18,
+    "low": 18.0,
+    "close": 18.49,
+    "adjusted_close": 18.49,
+    "volume": 460821238
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-08-10",
+    "open": 18.89,
+    "high": 19.77,
+    "low": 18.46,
+    "close": 19.06,
+    "adjusted_close": 19.06,
+    "volume": 320958036
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-08-17",
+    "open": 19.16,
+    "high": 20.28,
+    "low": 18.73,
+    "close": 19.77,
+    "adjusted_close": 19.77,
+    "volume": 387312840
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-08-24",
+    "open": 19.79,
+    "high": 24.0,
+    "low": 19.35,
+    "close": 23.98,
+    "adjusted_close": 23.98,
+    "volume": 458387239
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-08-31",
+    "open": 24.94,
+    "high": 27.3,
+    "low": 24.01,
+    "close": 25.17,
+    "adjusted_close": 25.17,
+    "volume": 852866450
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-09-07",
+    "open": 25.62,
+    "high": 29.94,
+    "low": 25.57,
+    "close": 27.38,
+    "adjusted_close": 27.38,
+    "volume": 717181939
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-09-14",
+    "open": 28.15,
+    "high": 34.14,
+    "low": 27.84,
+    "close": 32.72,
+    "adjusted_close": 32.72,
+    "volume": 1041955807
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-09-21",
+    "open": 31.75,
+    "high": 33.37,
+    "low": 30.51,
+    "close": 31.02,
+    "adjusted_close": 31.02,
+    "volume": 734280249
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-09-28",
+    "open": 31.13,
+    "high": 33.6,
+    "low": 29.98,
+    "close": 30.89,
+    "adjusted_close": 30.89,
+    "volume": 569638010
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-10-05",
+    "open": 30.69,
+    "high": 31.91,
+    "low": 26.54,
+    "close": 27.35,
+    "adjusted_close": 27.35,
+    "volume": 613996155
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-10-12",
+    "open": 26.73,
+    "high": 27.71,
+    "low": 24.55,
+    "close": 26.34,
+    "adjusted_close": 26.34,
+    "volume": 615007358
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-10-19",
+    "open": 26.38,
+    "high": 28.53,
+    "low": 23.6,
+    "close": 23.66,
+    "adjusted_close": 23.66,
+    "volume": 462942994
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-10-26",
+    "open": 24.46,
+    "high": 25.64,
+    "low": 17.05,
+    "close": 17.63,
+    "adjusted_close": 17.63,
+    "volume": 659273676
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-11-02",
+    "open": 18.21,
+    "high": 21.06,
+    "low": 16.17,
+    "close": 20.23,
+    "adjusted_close": 20.23,
+    "volume": 564677077
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-11-09",
+    "open": 20.12,
+    "high": 22.22,
+    "low": 18.88,
+    "close": 21.03,
+    "adjusted_close": 21.03,
+    "volume": 552416471
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-11-16",
+    "open": 20.68,
+    "high": 21.77,
+    "low": 18.8,
+    "close": 20.66,
+    "adjusted_close": 20.66,
+    "volume": 488510499
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-11-23",
+    "open": 20.4,
+    "high": 20.59,
+    "low": 17.18,
+    "close": 19.38,
+    "adjusted_close": 19.38,
+    "volume": 339644605
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-11-30",
+    "open": 19.96,
+    "high": 21.88,
+    "low": 19.11,
+    "close": 21.3,
+    "adjusted_close": 21.3,
+    "volume": 499090910
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-12-07",
+    "open": 22.48,
+    "high": 23.75,
+    "low": 19.17,
+    "close": 19.46,
+    "adjusted_close": 19.46,
+    "volume": 476197538
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-12-14",
+    "open": 19.35,
+    "high": 21.14,
+    "low": 19.27,
+    "close": 19.9,
+    "adjusted_close": 19.9,
+    "volume": 439174190
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-12-21",
+    "open": 20.01,
+    "high": 20.02,
+    "low": 16.76,
+    "close": 16.93,
+    "adjusted_close": 16.93,
+    "volume": 589235838
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2018-12-28",
+    "open": 16.52,
+    "high": 18.31,
+    "low": 16.03,
+    "close": 17.82,
+    "adjusted_close": 17.82,
+    "volume": 392332295
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-01-04",
+    "open": 18.15,
+    "high": 19.07,
+    "low": 16.94,
+    "close": 19.0,
+    "adjusted_close": 19.0,
+    "volume": 401037019
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-01-11",
+    "open": 19.44,
+    "high": 21.44,
+    "low": 18.9,
+    "close": 20.27,
+    "adjusted_close": 20.27,
+    "volume": 593112211
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-01-18",
+    "open": 19.96,
+    "high": 21.05,
+    "low": 19.02,
+    "close": 20.77,
+    "adjusted_close": 20.77,
+    "volume": 378134685
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-01-25",
+    "open": 20.48,
+    "high": 22.03,
+    "low": 19.55,
+    "close": 21.93,
+    "adjusted_close": 21.93,
+    "volume": 364313502
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-02-01",
+    "open": 20.32,
+    "high": 25.14,
+    "low": 19.05,
+    "close": 24.51,
+    "adjusted_close": 24.51,
+    "volume": 765719553
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-02-08",
+    "open": 24.43,
+    "high": 24.66,
+    "low": 22.27,
+    "close": 23.05,
+    "adjusted_close": 23.05,
+    "volume": 436607483
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-02-15",
+    "open": 23.05,
+    "high": 24.05,
+    "low": 22.59,
+    "close": 23.68,
+    "adjusted_close": 23.68,
+    "volume": 328803629
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-02-22",
+    "open": 23.63,
+    "high": 24.41,
+    "low": 23.61,
+    "close": 24.36,
+    "adjusted_close": 24.36,
+    "volume": 216868428
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-03-01",
+    "open": 25.01,
+    "high": 25.52,
+    "low": 23.11,
+    "close": 23.68,
+    "adjusted_close": 23.68,
+    "volume": 261809322
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-03-08",
+    "open": 23.89,
+    "high": 24.13,
+    "low": 21.04,
+    "close": 22.01,
+    "adjusted_close": 22.01,
+    "volume": 246243745
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-03-15",
+    "open": 22.15,
+    "high": 24.15,
+    "low": 21.98,
+    "close": 23.29,
+    "adjusted_close": 23.29,
+    "volume": 256875075
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-03-22",
+    "open": 23.3,
+    "high": 28.11,
+    "low": 23.04,
+    "close": 26.37,
+    "adjusted_close": 26.37,
+    "volume": 587009728
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-03-29",
+    "open": 26.29,
+    "high": 26.99,
+    "low": 24.55,
+    "close": 25.52,
+    "adjusted_close": 25.52,
+    "volume": 360947763
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-04-05",
+    "open": 26.42,
+    "high": 29.95,
+    "low": 25.83,
+    "close": 28.98,
+    "adjusted_close": 28.98,
+    "volume": 461863402
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-04-12",
+    "open": 28.69,
+    "high": 28.95,
+    "low": 27.19,
+    "close": 27.85,
+    "adjusted_close": 27.85,
+    "volume": 283760447
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-04-18",
+    "open": 27.8,
+    "high": 28.27,
+    "low": 26.96,
+    "close": 27.68,
+    "adjusted_close": 27.68,
+    "volume": 176274210
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-04-26",
+    "open": 27.62,
+    "high": 28.86,
+    "low": 27.05,
+    "close": 27.88,
+    "adjusted_close": 27.88,
+    "volume": 236197108
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-05-03",
+    "open": 27.9,
+    "high": 29.15,
+    "low": 26.61,
+    "close": 28.22,
+    "adjusted_close": 28.22,
+    "volume": 409783389
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-05-10",
+    "open": 26.72,
+    "high": 28.1,
+    "low": 26.03,
+    "close": 27.96,
+    "adjusted_close": 27.96,
+    "volume": 368261484
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-05-17",
+    "open": 26.98,
+    "high": 28.46,
+    "low": 26.1,
+    "close": 27.5,
+    "adjusted_close": 27.5,
+    "volume": 370403579
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-05-24",
+    "open": 26.98,
+    "high": 27.59,
+    "low": 26.03,
+    "close": 26.44,
+    "adjusted_close": 26.44,
+    "volume": 263516808
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-05-31",
+    "open": 27.27,
+    "high": 29.67,
+    "low": 27.06,
+    "close": 27.41,
+    "adjusted_close": 27.41,
+    "volume": 380876128
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-06-07",
+    "open": 28.75,
+    "high": 32.6,
+    "low": 27.29,
+    "close": 32.41,
+    "adjusted_close": 32.41,
+    "volume": 552672137
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-06-14",
+    "open": 33.53,
+    "high": 34.3,
+    "low": 30.02,
+    "close": 30.36,
+    "adjusted_close": 30.36,
+    "volume": 370731377
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-06-21",
+    "open": 30.25,
+    "high": 31.36,
+    "low": 28.97,
+    "close": 29.1,
+    "adjusted_close": 29.1,
+    "volume": 374823708
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-06-28",
+    "open": 29.32,
+    "high": 31.11,
+    "low": 28.67,
+    "close": 30.37,
+    "adjusted_close": 30.37,
+    "volume": 280184146
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-07-05",
+    "open": 31.79,
+    "high": 32.04,
+    "low": 30.73,
+    "close": 31.5,
+    "adjusted_close": 31.5,
+    "volume": 155721082
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-07-12",
+    "open": 31.8,
+    "high": 34.03,
+    "low": 30.1,
+    "close": 33.21,
+    "adjusted_close": 33.21,
+    "volume": 286089093
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-07-19",
+    "open": 33.34,
+    "high": 34.86,
+    "low": 32.42,
+    "close": 32.51,
+    "adjusted_close": 32.51,
+    "volume": 278264409
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-07-26",
+    "open": 32.8,
+    "high": 34.77,
+    "low": 32.74,
+    "close": 34.02,
+    "adjusted_close": 34.02,
+    "volume": 198470420
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-08-02",
+    "open": 34.14,
+    "high": 34.18,
+    "low": 28.94,
+    "close": 29.44,
+    "adjusted_close": 29.44,
+    "volume": 378600601
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-08-09",
+    "open": 28.26,
+    "high": 35.55,
+    "low": 27.65,
+    "close": 34.19,
+    "adjusted_close": 34.19,
+    "volume": 493251984
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-08-16",
+    "open": 34.16,
+    "high": 34.65,
+    "low": 29.21,
+    "close": 31.18,
+    "adjusted_close": 31.18,
+    "volume": 481232612
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-08-23",
+    "open": 32.0,
+    "high": 32.19,
+    "low": 29.4,
+    "close": 29.54,
+    "adjusted_close": 29.54,
+    "volume": 289106897
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-08-30",
+    "open": 30.34,
+    "high": 31.87,
+    "low": 29.6,
+    "close": 31.45,
+    "adjusted_close": 31.45,
+    "volume": 244823797
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-09-06",
+    "open": 30.83,
+    "high": 32.05,
+    "low": 30.48,
+    "close": 30.56,
+    "adjusted_close": 30.56,
+    "volume": 194395096
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-09-13",
+    "open": 30.93,
+    "high": 31.18,
+    "low": 29.51,
+    "close": 30.69,
+    "adjusted_close": 30.69,
+    "volume": 255026709
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-09-20",
+    "open": 30.37,
+    "high": 31.32,
+    "low": 29.65,
+    "close": 30.05,
+    "adjusted_close": 30.05,
+    "volume": 260137985
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-09-27",
+    "open": 30.12,
+    "high": 30.8,
+    "low": 28.35,
+    "close": 28.72,
+    "adjusted_close": 28.72,
+    "volume": 272425258
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-10-04",
+    "open": 28.89,
+    "high": 29.54,
+    "low": 27.43,
+    "close": 29.01,
+    "adjusted_close": 29.01,
+    "volume": 213261495
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-10-11",
+    "open": 28.9,
+    "high": 30.2,
+    "low": 27.92,
+    "close": 29.75,
+    "adjusted_close": 29.75,
+    "volume": 228303369
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-10-18",
+    "open": 29.71,
+    "high": 31.41,
+    "low": 29.38,
+    "close": 30.97,
+    "adjusted_close": 30.97,
+    "volume": 206256513
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-10-25",
+    "open": 31.5,
+    "high": 32.86,
+    "low": 30.83,
+    "close": 32.71,
+    "adjusted_close": 32.71,
+    "volume": 189719010
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-11-01",
+    "open": 33.16,
+    "high": 35.0,
+    "low": 32.03,
+    "close": 34.89,
+    "adjusted_close": 34.89,
+    "volume": 339743950
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-11-08",
+    "open": 35.19,
+    "high": 37.18,
+    "low": 34.76,
+    "close": 36.29,
+    "adjusted_close": 36.29,
+    "volume": 313613948
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-11-15",
+    "open": 35.96,
+    "high": 39.37,
+    "low": 35.58,
+    "close": 38.56,
+    "adjusted_close": 38.56,
+    "volume": 300372693
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-11-22",
+    "open": 38.65,
+    "high": 41.79,
+    "low": 38.19,
+    "close": 39.15,
+    "adjusted_close": 39.15,
+    "volume": 385902558
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-11-29",
+    "open": 39.5,
+    "high": 40.17,
+    "low": 38.81,
+    "close": 39.15,
+    "adjusted_close": 39.15,
+    "volume": 140987274
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-12-06",
+    "open": 39.32,
+    "high": 40.22,
+    "low": 37.15,
+    "close": 39.63,
+    "adjusted_close": 39.63,
+    "volume": 202167394
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-12-13",
+    "open": 39.46,
+    "high": 42.95,
+    "low": 38.82,
+    "close": 41.15,
+    "adjusted_close": 41.15,
+    "volume": 261076685
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-12-20",
+    "open": 41.73,
+    "high": 44.26,
+    "low": 41.73,
+    "close": 44.15,
+    "adjusted_close": 44.15,
+    "volume": 257176768
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2019-12-27",
+    "open": 44.58,
+    "high": 47.31,
+    "low": 44.39,
+    "close": 46.18,
+    "adjusted_close": 46.18,
+    "volume": 194834407
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-01-03",
+    "open": 46.14,
+    "high": 49.39,
+    "low": 44.66,
+    "close": 48.6,
+    "adjusted_close": 48.6,
+    "volume": 227153695
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-01-10",
+    "open": 48.02,
+    "high": 49.96,
+    "low": 47.14,
+    "close": 48.17,
+    "adjusted_close": 48.17,
+    "volume": 282846030
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-01-17",
+    "open": 48.66,
+    "high": 51.05,
+    "low": 47.91,
+    "close": 50.93,
+    "adjusted_close": 50.93,
+    "volume": 229259168
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-01-24",
+    "open": 50.96,
+    "high": 52.81,
+    "low": 49.47,
+    "close": 50.35,
+    "adjusted_close": 50.35,
+    "volume": 209315584
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-01-31",
+    "open": 48.45,
+    "high": 50.85,
+    "low": 46.1,
+    "close": 47.0,
+    "adjusted_close": 47.0,
+    "volume": 354564213
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-02-07",
+    "open": 46.4,
+    "high": 50.67,
+    "low": 46.23,
+    "close": 49.73,
+    "adjusted_close": 49.73,
+    "volume": 237894337
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-02-14",
+    "open": 49.47,
+    "high": 55.4,
+    "low": 49.35,
+    "close": 55.31,
+    "adjusted_close": 55.31,
+    "volume": 285691111
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-02-21",
+    "open": 54.94,
+    "high": 59.27,
+    "low": 52.89,
+    "close": 53.28,
+    "adjusted_close": 53.28,
+    "volume": 291700428
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-02-28",
+    "open": 48.18,
+    "high": 51.24,
+    "low": 41.04,
+    "close": 45.48,
+    "adjusted_close": 45.48,
+    "volume": 469305107
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-03-06",
+    "open": 47.42,
+    "high": 50.2,
+    "low": 44.66,
+    "close": 48.59,
+    "adjusted_close": 48.59,
+    "volume": 560502402
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-03-13",
+    "open": 43.03,
+    "high": 46.34,
+    "low": 39.0,
+    "close": 43.9,
+    "adjusted_close": 43.9,
+    "volume": 453558233
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-03-20",
+    "open": 39.08,
+    "high": 43.37,
+    "low": 36.75,
+    "close": 39.61,
+    "adjusted_close": 39.61,
+    "volume": 479249399
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-03-27",
+    "open": 40.62,
+    "high": 47.98,
+    "low": 38.95,
+    "close": 46.58,
+    "adjusted_close": 46.58,
+    "volume": 450774029
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-04-03",
+    "open": 47.24,
+    "high": 48.53,
+    "low": 41.7,
+    "close": 42.59,
+    "adjusted_close": 42.59,
+    "volume": 402412531
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-04-09",
+    "open": 44.3,
+    "high": 50.25,
+    "low": 44.06,
+    "close": 48.38,
+    "adjusted_close": 48.38,
+    "volume": 329680825
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-04-17",
+    "open": 48.47,
+    "high": 58.08,
+    "low": 48.23,
+    "close": 56.6,
+    "adjusted_close": 56.6,
+    "volume": 413426134
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-04-24",
+    "open": 55.98,
+    "high": 58.63,
+    "low": 51.41,
+    "close": 56.18,
+    "adjusted_close": 56.18,
+    "volume": 401955164
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-05-01",
+    "open": 57.44,
+    "high": 58.0,
+    "low": 49.09,
+    "close": 49.88,
+    "adjusted_close": 49.88,
+    "volume": 388977341
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-05-08",
+    "open": 49.82,
+    "high": 53.51,
+    "low": 49.73,
+    "close": 53.19,
+    "adjusted_close": 53.19,
+    "volume": 257020059
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-05-15",
+    "open": 52.9,
+    "high": 56.58,
+    "low": 51.3,
+    "close": 54.2,
+    "adjusted_close": 54.2,
+    "volume": 341967047
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-05-22",
+    "open": 54.98,
+    "high": 56.98,
+    "low": 53.78,
+    "close": 55.17,
+    "adjusted_close": 55.17,
+    "volume": 251976019
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-05-29",
+    "open": 56.01,
+    "high": 56.08,
+    "low": 49.09,
+    "close": 53.8,
+    "adjusted_close": 53.8,
+    "volume": 272735891
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-06-05",
+    "open": 53.31,
+    "high": 54.11,
+    "low": 52.01,
+    "close": 53.1,
+    "adjusted_close": 53.1,
+    "volume": 225347765
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-06-12",
+    "open": 53.3,
+    "high": 59.0,
+    "low": 52.11,
+    "close": 53.5,
+    "adjusted_close": 53.5,
+    "volume": 348224777
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-06-19",
+    "open": 52.58,
+    "high": 56.07,
+    "low": 52.41,
+    "close": 54.23,
+    "adjusted_close": 54.23,
+    "volume": 245993158
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-06-26",
+    "open": 54.67,
+    "high": 55.37,
+    "low": 49.45,
+    "close": 50.1,
+    "adjusted_close": 50.1,
+    "volume": 262944683
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-07-02",
+    "open": 50.15,
+    "high": 53.19,
+    "low": 48.42,
+    "close": 52.34,
+    "adjusted_close": 52.34,
+    "volume": 153637052
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-07-10",
+    "open": 52.9,
+    "high": 58.15,
+    "low": 52.07,
+    "close": 55.88,
+    "adjusted_close": 55.88,
+    "volume": 251646670
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-07-17",
+    "open": 56.68,
+    "high": 58.35,
+    "low": 52.26,
+    "close": 55.04,
+    "adjusted_close": 55.04,
+    "volume": 226607603
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-07-24",
+    "open": 55.23,
+    "high": 69.94,
+    "low": 54.83,
+    "close": 69.4,
+    "adjusted_close": 69.4,
+    "volume": 536350406
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-07-31",
+    "open": 69.28,
+    "high": 78.96,
+    "low": 67.02,
+    "close": 77.43,
+    "adjusted_close": 77.43,
+    "volume": 487055683
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-08-07",
+    "open": 78.19,
+    "high": 87.29,
+    "low": 77.06,
+    "close": 84.85,
+    "adjusted_close": 84.85,
+    "volume": 384547125
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-08-14",
+    "open": 85.05,
+    "high": 85.16,
+    "low": 76.1,
+    "close": 81.3,
+    "adjusted_close": 81.3,
+    "volume": 336818465
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-08-21",
+    "open": 82.09,
+    "high": 84.41,
+    "low": 79.12,
+    "close": 83.81,
+    "adjusted_close": 83.81,
+    "volume": 190917134
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-08-28",
+    "open": 84.55,
+    "high": 87.72,
+    "low": 82.35,
+    "close": 85.55,
+    "adjusted_close": 85.55,
+    "volume": 217345230
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-09-04",
+    "open": 85.05,
+    "high": 94.28,
+    "low": 76.33,
+    "close": 82.01,
+    "adjusted_close": 82.01,
+    "volume": 366870410
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-09-11",
+    "open": 78.05,
+    "high": 83.31,
+    "low": 75.04,
+    "close": 76.34,
+    "adjusted_close": 76.34,
+    "volume": 215381936
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-09-18",
+    "open": 76.8,
+    "high": 80.33,
+    "low": 73.85,
+    "close": 74.93,
+    "adjusted_close": 74.93,
+    "volume": 250470734
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-09-25",
+    "open": 74.23,
+    "high": 78.79,
+    "low": 73.88,
+    "close": 78.055,
+    "adjusted_close": 78.055,
+    "volume": 265431394
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-10-02",
+    "open": 79.1165,
+    "high": 85.25,
+    "low": 77.52,
+    "close": 81.8,
+    "adjusted_close": 81.8,
+    "volume": 266205000
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-10-09",
+    "open": 82.55,
+    "high": 88.72,
+    "low": 82.3465,
+    "close": 83.1,
+    "adjusted_close": 83.1,
+    "volume": 277422770
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-10-16",
+    "open": 83.65,
+    "high": 86.09,
+    "low": 82.41,
+    "close": 83.17,
+    "adjusted_close": 83.17,
+    "volume": 196051238
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-10-23",
+    "open": 83.62,
+    "high": 84.65,
+    "low": 78.42,
+    "close": 81.96,
+    "adjusted_close": 81.96,
+    "volume": 195899411
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-10-30",
+    "open": 82.55,
+    "high": 84.97,
+    "low": 74.23,
+    "close": 75.29,
+    "adjusted_close": 75.29,
+    "volume": 406833340
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-11-06",
+    "open": 75.85,
+    "high": 86.09,
+    "low": 73.7573,
+    "close": 85.88,
+    "adjusted_close": 85.88,
+    "volume": 253944376
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-11-13",
+    "open": 84.24,
+    "high": 87.05,
+    "low": 77.63,
+    "close": 81.43,
+    "adjusted_close": 81.43,
+    "volume": 238080697
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-11-20",
+    "open": 81.21,
+    "high": 86.1,
+    "low": 80.48,
+    "close": 84.64,
+    "adjusted_close": 84.64,
+    "volume": 183207498
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-11-27",
+    "open": 85.52,
+    "high": 88.0,
+    "low": 83.32,
+    "close": 87.19,
+    "adjusted_close": 87.19,
+    "volume": 146870273
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-12-04",
+    "open": 87.33,
+    "high": 96.37,
+    "low": 86.53,
+    "close": 94.04,
+    "adjusted_close": 94.04,
+    "volume": 282102098
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-12-11",
+    "open": 94.95,
+    "high": 95.0,
+    "low": 89.0297,
+    "close": 91.65,
+    "adjusted_close": 91.65,
+    "volume": 188066100
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-12-18",
+    "open": 92.205,
+    "high": 97.98,
+    "low": 91.85,
+    "close": 95.92,
+    "adjusted_close": 95.92,
+    "volume": 224087400
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-12-24",
+    "open": 94.25,
+    "high": 95.28,
+    "low": 90.53,
+    "close": 91.81,
+    "adjusted_close": 91.81,
+    "volume": 125510984
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2020-12-31",
+    "open": 92.93,
+    "high": 93.14,
+    "low": 89.4301,
+    "close": 91.71,
+    "adjusted_close": 91.71,
+    "volume": 113036380
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-01-08",
+    "open": 92.11,
+    "high": 96.4,
+    "low": 89.46,
+    "close": 94.58,
+    "adjusted_close": 94.58,
+    "volume": 220635755
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-01-15",
+    "open": 94.025,
+    "high": 99.23,
+    "low": 87.86,
+    "close": 88.21,
+    "adjusted_close": 88.21,
+    "volume": 279565616
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-01-22",
+    "open": 89.56,
+    "high": 95.95,
+    "low": 87.24,
+    "close": 92.79,
+    "adjusted_close": 92.79,
+    "volume": 206191651
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-01-29",
+    "open": 94.14,
+    "high": 95.74,
+    "low": 85.02,
+    "close": 85.64,
+    "adjusted_close": 85.64,
+    "volume": 291661379
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-02-05",
+    "open": 86.83,
+    "high": 89.48,
+    "low": 84.66,
+    "close": 87.9,
+    "adjusted_close": 87.9,
+    "volume": 169403954
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-02-12",
+    "open": 88.31,
+    "high": 94.22,
+    "low": 87.98,
+    "close": 93.77,
+    "adjusted_close": 93.77,
+    "volume": 201359685
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-02-19",
+    "open": 93.9,
+    "high": 94.0,
+    "low": 87.31,
+    "close": 89.58,
+    "adjusted_close": 89.58,
+    "volume": 132433635
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-02-26",
+    "open": 88.15,
+    "high": 88.3,
+    "low": 79.36,
+    "close": 84.51,
+    "adjusted_close": 84.51,
+    "volume": 230319030
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-03-05",
+    "open": 85.365,
+    "high": 86.95,
+    "low": 74.2,
+    "close": 78.52,
+    "adjusted_close": 78.52,
+    "volume": 230213662
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-03-12",
+    "open": 78.03,
+    "high": 81.89,
+    "low": 73.86,
+    "close": 81.05,
+    "adjusted_close": 81.05,
+    "volume": 221590495
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-03-19",
+    "open": 81.91,
+    "high": 84.75,
+    "low": 77.59,
+    "close": 79.06,
+    "adjusted_close": 79.06,
+    "volume": 218977442
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-03-26",
+    "open": 79.99,
+    "high": 81.265,
+    "low": 74.96,
+    "close": 77.41,
+    "adjusted_close": 77.41,
+    "volume": 217752653
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-04-01",
+    "open": 77.03,
+    "high": 81.31,
+    "low": 74.85,
+    "close": 81.09,
+    "adjusted_close": 81.09,
+    "volume": 160155383
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-04-09",
+    "open": 81.74,
+    "high": 83.79,
+    "low": 80.35,
+    "close": 82.76,
+    "adjusted_close": 82.76,
+    "volume": 172214578
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-04-16",
+    "open": 82.055,
+    "high": 83.95,
+    "low": 77.935,
+    "close": 82.15,
+    "adjusted_close": 82.15,
+    "volume": 250353282
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-04-23",
+    "open": 82.13,
+    "high": 83.3,
+    "low": 78.51,
+    "close": 82.76,
+    "adjusted_close": 82.76,
+    "volume": 197275497
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-04-30",
+    "open": 83.35,
+    "high": 89.2,
+    "low": 81.415,
+    "close": 81.62,
+    "adjusted_close": 81.62,
+    "volume": 326321092
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-05-07",
+    "open": 81.97,
+    "high": 82.0,
+    "low": 76.47,
+    "close": 78.81,
+    "adjusted_close": 78.81,
+    "volume": 243443254
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-05-14",
+    "open": 78.2,
+    "high": 78.3,
+    "low": 72.5,
+    "close": 74.59,
+    "adjusted_close": 74.59,
+    "volume": 225676693
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-05-21",
+    "open": 74.215,
+    "high": 78.81,
+    "low": 72.76,
+    "close": 77.17,
+    "adjusted_close": 77.17,
+    "volume": 236063988
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-05-28",
+    "open": 77.26,
+    "high": 81.09,
+    "low": 76.8,
+    "close": 80.08,
+    "adjusted_close": 80.08,
+    "volume": 187737267
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-06-04",
+    "open": 81.01,
+    "high": 82.91,
+    "low": 80.26,
+    "close": 81.58,
+    "adjusted_close": 81.58,
+    "volume": 134836034
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-06-11",
+    "open": 81.4,
+    "high": 82.645,
+    "low": 79.7,
+    "close": 81.31,
+    "adjusted_close": 81.31,
+    "volume": 137335303
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-06-18",
+    "open": 81.51,
+    "high": 85.77,
+    "low": 78.96,
+    "close": 84.65,
+    "adjusted_close": 84.65,
+    "volume": 220002879
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-06-25",
+    "open": 83.49,
+    "high": 87.1399,
+    "low": 82.21,
+    "close": 85.62,
+    "adjusted_close": 85.62,
+    "volume": 172539447
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-07-02",
+    "open": 86.38,
+    "high": 95.27,
+    "low": 86.15,
+    "close": 94.7,
+    "adjusted_close": 94.7,
+    "volume": 256566561
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-07-09",
+    "open": 94.875,
+    "high": 95.44,
+    "low": 87.45,
+    "close": 90.9,
+    "adjusted_close": 90.9,
+    "volume": 177380470
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-07-16",
+    "open": 91.22,
+    "high": 91.9,
+    "low": 85.68,
+    "close": 85.89,
+    "adjusted_close": 85.89,
+    "volume": 161808140
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-07-23",
+    "open": 84.99,
+    "high": 92.37,
+    "low": 84.24,
+    "close": 92.15,
+    "adjusted_close": 92.15,
+    "volume": 162242593
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-07-30",
+    "open": 92.01,
+    "high": 106.97,
+    "low": 89.1,
+    "close": 106.19,
+    "adjusted_close": 106.19,
+    "volume": 526344378
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-08-06",
+    "open": 105.93,
+    "high": 122.49,
+    "low": 103.83,
+    "close": 110.11,
+    "adjusted_close": 110.11,
+    "volume": 780433586
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-08-13",
+    "open": 111.31,
+    "high": 112.33,
+    "low": 104.36,
+    "close": 110.55,
+    "adjusted_close": 110.55,
+    "volume": 481002222
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-08-20",
+    "open": 110.2,
+    "high": 111.58,
+    "low": 101.975,
+    "close": 104.65,
+    "adjusted_close": 104.65,
+    "volume": 353185842
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-08-27",
+    "open": 105.295,
+    "high": 111.78,
+    "low": 104.86,
+    "close": 111.4,
+    "adjusted_close": 111.4,
+    "volume": 278032644
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-09-03",
+    "open": 112.61,
+    "high": 114.4899,
+    "low": 108.5,
+    "close": 109.92,
+    "adjusted_close": 109.92,
+    "volume": 226781524
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-09-10",
+    "open": 109.955,
+    "high": 110.58,
+    "low": 104.98,
+    "close": 105.2,
+    "adjusted_close": 105.2,
+    "volume": 136343309
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-09-17",
+    "open": 105.26,
+    "high": 106.82,
+    "low": 102.63,
+    "close": 103.88,
+    "adjusted_close": 103.88,
+    "volume": 199074861
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-09-24",
+    "open": 101.58,
+    "high": 106.86,
+    "low": 99.51,
+    "close": 105.8,
+    "adjusted_close": 105.8,
+    "volume": 174135459
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-10-01",
+    "open": 105.065,
+    "high": 108.44,
+    "low": 99.81,
+    "close": 102.45,
+    "adjusted_close": 102.45,
+    "volume": 277348801
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-10-08",
+    "open": 101.742,
+    "high": 107.95,
+    "low": 99.82,
+    "close": 105.06,
+    "adjusted_close": 105.06,
+    "volume": 184660257
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-10-15",
+    "open": 104.62,
+    "high": 112.835,
+    "low": 104.022,
+    "close": 112.12,
+    "adjusted_close": 112.12,
+    "volume": 202059377
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-10-22",
+    "open": 111.9,
+    "high": 121.56,
+    "low": 111.37,
+    "close": 119.82,
+    "adjusted_close": 119.82,
+    "volume": 195164151
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-10-29",
+    "open": 120.515,
+    "high": 128.08,
+    "low": 118.6,
+    "close": 120.23,
+    "adjusted_close": 120.23,
+    "volume": 306860954
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-11-05",
+    "open": 119.45,
+    "high": 141.22,
+    "low": 118.1301,
+    "close": 136.34,
+    "adjusted_close": 136.34,
+    "volume": 316113142
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-11-12",
+    "open": 137.7,
+    "high": 155.65,
+    "low": 137.7,
+    "close": 147.89,
+    "adjusted_close": 147.89,
+    "volume": 442375836
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-11-19",
+    "open": 148.0,
+    "high": 158.89,
+    "low": 142.86,
+    "close": 155.41,
+    "adjusted_close": 155.41,
+    "volume": 262181158
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-11-26",
+    "open": 157.14,
+    "high": 161.8799,
+    "low": 145.2996,
+    "close": 154.81,
+    "adjusted_close": 154.81,
+    "volume": 218448913
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-12-03",
+    "open": 157.5,
+    "high": 164.4599,
+    "low": 140.72,
+    "close": 144.01,
+    "adjusted_close": 144.01,
+    "volume": 318877775
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-12-10",
+    "open": 141.135,
+    "high": 147.04,
+    "low": 134.2,
+    "close": 138.55,
+    "adjusted_close": 138.55,
+    "volume": 256357604
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-12-17",
+    "open": 138.25,
+    "high": 147.93,
+    "low": 130.6,
+    "close": 137.75,
+    "adjusted_close": 137.75,
+    "volume": 284416218
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-12-23",
+    "open": 135.97,
+    "high": 149.018,
+    "low": 133.52,
+    "close": 146.14,
+    "adjusted_close": 146.14,
+    "volume": 191558110
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2021-12-31",
+    "open": 147.51,
+    "high": 156.73,
+    "low": 143.55,
+    "close": 143.9,
+    "adjusted_close": 143.9,
+    "volume": 256680653
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-01-07",
+    "open": 145.135,
+    "high": 152.42,
+    "low": 131.13,
+    "close": 132.0,
+    "adjusted_close": 132.0,
+    "volume": 328325337
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-01-14",
+    "open": 129.08,
+    "high": 141.25,
+    "low": 125.03,
+    "close": 136.88,
+    "adjusted_close": 136.88,
+    "volume": 378969023
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-01-21",
+    "open": 134.5,
+    "high": 136.3893,
+    "low": 118.39,
+    "close": 118.81,
+    "adjusted_close": 118.81,
+    "volume": 312490767
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-01-28",
+    "open": 115.4,
+    "high": 117.16,
+    "low": 99.35,
+    "close": 105.24,
+    "adjusted_close": 105.24,
+    "volume": 520860981
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-02-04",
+    "open": 107.93,
+    "high": 130.06,
+    "low": 106.9,
+    "close": 123.6,
+    "adjusted_close": 123.6,
+    "volume": 589550336
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-02-11",
+    "open": 123.56,
+    "high": 132.96,
+    "low": 111.81,
+    "close": 113.18,
+    "adjusted_close": 113.18,
+    "volume": 533187219
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-02-18",
+    "open": 115.51,
+    "high": 121.88,
+    "low": 109.89,
+    "close": 113.83,
+    "adjusted_close": 113.83,
+    "volume": 610896584
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-02-25",
+    "open": 115.27,
+    "high": 121.23,
+    "low": 104.26,
+    "close": 121.06,
+    "adjusted_close": 121.06,
+    "volume": 532146205
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-03-04",
+    "open": 120.31,
+    "high": 124.61,
+    "low": 106.81,
+    "close": 108.41,
+    "adjusted_close": 108.41,
+    "volume": 594160955
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-03-11",
+    "open": 108.53,
+    "high": 111.71,
+    "low": 100.08,
+    "close": 104.29,
+    "adjusted_close": 104.29,
+    "volume": 520400424
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-03-18",
+    "open": 102.99,
+    "high": 115.42,
+    "low": 101.04,
+    "close": 113.46,
+    "adjusted_close": 113.46,
+    "volume": 524320553
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-03-25",
+    "open": 113.73,
+    "high": 121.4,
+    "low": 112.21,
+    "close": 119.67,
+    "adjusted_close": 119.67,
+    "volume": 510790861
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-04-01",
+    "open": 117.7,
+    "high": 125.67,
+    "low": 106.102,
+    "close": 108.19,
+    "adjusted_close": 108.19,
+    "volume": 545457987
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-04-08",
+    "open": 109.97,
+    "high": 110.9391,
+    "low": 100.4205,
+    "close": 101.0,
+    "adjusted_close": 101.0,
+    "volume": 459423956
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-04-14",
+    "open": 98.6,
+    "high": 99.59,
+    "low": 92.92,
+    "close": 93.06,
+    "adjusted_close": 93.06,
+    "volume": 335856889
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-04-22",
+    "open": 92.03,
+    "high": 97.91,
+    "low": 87.935,
+    "close": 88.14,
+    "adjusted_close": 88.14,
+    "volume": 371695809
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-04-29",
+    "open": 89.86,
+    "high": 91.79,
+    "low": 84.02,
+    "close": 85.52,
+    "adjusted_close": 85.52,
+    "volume": 438554820
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-05-06",
+    "open": 85.655,
+    "high": 99.69,
+    "low": 85.3201,
+    "close": 95.34,
+    "adjusted_close": 95.34,
+    "volume": 746995081
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-05-13",
+    "open": 92.865,
+    "high": 96.57,
+    "low": 83.27,
+    "close": 95.12,
+    "adjusted_close": 95.12,
+    "volume": 685179273
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-05-20",
+    "open": 93.86,
+    "high": 104.22,
+    "low": 88.26,
+    "close": 93.5,
+    "adjusted_close": 93.5,
+    "volume": 743529068
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-05-27",
+    "open": 91.66,
+    "high": 102.4,
+    "low": 89.52,
+    "close": 102.26,
+    "adjusted_close": 102.26,
+    "volume": 597026751
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-06-03",
+    "open": 102.43,
+    "high": 109.5,
+    "low": 99.55,
+    "close": 106.3,
+    "adjusted_close": 106.3,
+    "volume": 456252776
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-06-10",
+    "open": 108.27,
+    "high": 109.57,
+    "low": 94.25,
+    "close": 94.82,
+    "adjusted_close": 94.82,
+    "volume": 470902826
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-06-17",
+    "open": 91.26,
+    "high": 92.03,
+    "low": 79.43,
+    "close": 81.57,
+    "adjusted_close": 81.57,
+    "volume": 485635821
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-06-24",
+    "open": 84.17,
+    "high": 87.53,
+    "low": 80.2251,
+    "close": 87.08,
+    "adjusted_close": 87.08,
+    "volume": 363583728
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-07-01",
+    "open": 87.355,
+    "high": 88.22,
+    "low": 72.69,
+    "close": 73.67,
+    "adjusted_close": 73.67,
+    "volume": 467659768
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-07-08",
+    "open": 71.98,
+    "high": 80.47,
+    "low": 71.6,
+    "close": 79.35,
+    "adjusted_close": 79.35,
+    "volume": 348191484
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-07-15",
+    "open": 77.845,
+    "high": 81.2,
+    "low": 74.43,
+    "close": 81.11,
+    "adjusted_close": 81.11,
+    "volume": 393019969
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-07-22",
+    "open": 82.21,
+    "high": 91.58,
+    "low": 80.94,
+    "close": 88.1,
+    "adjusted_close": 88.1,
+    "volume": 431299438
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-07-29",
+    "open": 86.57,
+    "high": 94.81,
+    "low": 84.71,
+    "close": 94.47,
+    "adjusted_close": 94.47,
+    "volume": 373204829
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-08-05",
+    "open": 95.59,
+    "high": 104.59,
+    "low": 93.62,
+    "close": 102.31,
+    "adjusted_close": 102.31,
+    "volume": 564069291
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-08-12",
+    "open": 100.06,
+    "high": 102.37,
+    "low": 93.67,
+    "close": 100.83,
+    "adjusted_close": 100.83,
+    "volume": 415415579
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-08-19",
+    "open": 100.505,
+    "high": 101.85,
+    "low": 94.59,
+    "close": 95.95,
+    "adjusted_close": 95.95,
+    "volume": 328564612
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-08-26",
+    "open": 94.4,
+    "high": 97.5999,
+    "low": 90.9,
+    "close": 91.18,
+    "adjusted_close": 91.18,
+    "volume": 297517129
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-09-02",
+    "open": 90.05,
+    "high": 91.19,
+    "low": 78.52,
+    "close": 80.24,
+    "adjusted_close": 80.24,
+    "volume": 374422246
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-09-09",
+    "open": 80.41,
+    "high": 85.68,
+    "low": 77.74,
+    "close": 85.45,
+    "adjusted_close": 85.45,
+    "volume": 294505745
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-09-16",
+    "open": 84.89,
+    "high": 85.3488,
+    "low": 74.68,
+    "close": 76.51,
+    "adjusted_close": 76.51,
+    "volume": 381444901
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-09-23",
+    "open": 75.39,
+    "high": 78.41,
+    "low": 66.8216,
+    "close": 67.96,
+    "adjusted_close": 67.96,
+    "volume": 386421186
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-09-30",
+    "open": 67.87,
+    "high": 68.7979,
+    "low": 62.8301,
+    "close": 63.36,
+    "adjusted_close": 63.36,
+    "volume": 434376462
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-10-07",
+    "open": 64.46,
+    "high": 70.29,
+    "low": 58.22,
+    "close": 58.44,
+    "adjusted_close": 58.44,
+    "volume": 510241677
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-10-14",
+    "open": 57.31,
+    "high": 60.14,
+    "low": 54.57,
+    "close": 55.94,
+    "adjusted_close": 55.94,
+    "volume": 543679890
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-10-21",
+    "open": 57.35,
+    "high": 60.49,
+    "low": 55.71,
+    "close": 58.82,
+    "adjusted_close": 58.82,
+    "volume": 430665943
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-10-28",
+    "open": 58.57,
+    "high": 62.72,
+    "low": 56.66,
+    "close": 62.01,
+    "adjusted_close": 62.01,
+    "volume": 403793198
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-11-04",
+    "open": 60.75,
+    "high": 63.93,
+    "low": 58.03,
+    "close": 62.19,
+    "adjusted_close": 62.19,
+    "volume": 479821484
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-11-11",
+    "open": 62.93,
+    "high": 73.32,
+    "low": 59.8,
+    "close": 72.37,
+    "adjusted_close": 72.37,
+    "volume": 421306674
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-11-18",
+    "open": 75.22,
+    "high": 79.16,
+    "low": 70.16,
+    "close": 73.57,
+    "adjusted_close": 73.57,
+    "volume": 453351109
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-11-25",
+    "open": 72.21,
+    "high": 78.22,
+    "low": 71.57,
+    "close": 75.14,
+    "adjusted_close": 75.14,
+    "volume": 214629048
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-12-02",
+    "open": 73.81,
+    "high": 79.23,
+    "low": 72.57,
+    "close": 74.98,
+    "adjusted_close": 74.98,
+    "volume": 309973740
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-12-09",
+    "open": 74.54,
+    "high": 75.17,
+    "low": 68.52,
+    "close": 68.59,
+    "adjusted_close": 68.59,
+    "volume": 286959944
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-12-16",
+    "open": 68.54,
+    "high": 75.21,
+    "low": 64.8,
+    "close": 65.41,
+    "adjusted_close": 65.41,
+    "volume": 321699984
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-12-23",
+    "open": 65.12,
+    "high": 67.845,
+    "low": 62.2601,
+    "close": 64.52,
+    "adjusted_close": 64.52,
+    "volume": 262686410
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2022-12-30",
+    "open": 63.87,
+    "high": 65.18,
+    "low": 61.96,
+    "close": 64.77,
+    "adjusted_close": 64.77,
+    "volume": 154167920
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-01-06",
+    "open": 65.998,
+    "high": 66.88,
+    "low": 60.05,
+    "close": 63.96,
+    "adjusted_close": 63.96,
+    "volume": 210649872
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-01-13",
+    "open": 66.22,
+    "high": 71.65,
+    "low": 65.67,
+    "close": 71.0,
+    "adjusted_close": 71.0,
+    "volume": 271184466
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-01-20",
+    "open": 70.87,
+    "high": 72.78,
+    "low": 67.265,
+    "close": 70.07,
+    "adjusted_close": 70.07,
+    "volume": 177107510
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-01-27",
+    "open": 72.225,
+    "high": 77.0798,
+    "low": 71.54,
+    "close": 75.4,
+    "adjusted_close": 75.4,
+    "volume": 302750958
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-02-03",
+    "open": 74.23,
+    "high": 88.9388,
+    "low": 72.03,
+    "close": 86.09,
+    "adjusted_close": 86.09,
+    "volume": 436642499
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-02-10",
+    "open": 84.63,
+    "high": 88.0,
+    "low": 80.47,
+    "close": 81.48,
+    "adjusted_close": 81.48,
+    "volume": 268299247
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-02-17",
+    "open": 81.57,
+    "high": 86.185,
+    "low": 77.37,
+    "close": 78.5,
+    "adjusted_close": 78.5,
+    "volume": 253444581
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-02-24",
+    "open": 77.15,
+    "high": 81.79,
+    "low": 75.9201,
+    "close": 78.09,
+    "adjusted_close": 78.09,
+    "volume": 217423796
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-03-03",
+    "open": 79.64,
+    "high": 81.63,
+    "low": 76.65,
+    "close": 81.52,
+    "adjusted_close": 81.52,
+    "volume": 248825508
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-03-10",
+    "open": 82.03,
+    "high": 87.81,
+    "low": 80.665,
+    "close": 82.67,
+    "adjusted_close": 82.67,
+    "volume": 344800381
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-03-17",
+    "open": 81.39,
+    "high": 98.75,
+    "low": 78.515,
+    "close": 97.84,
+    "adjusted_close": 97.84,
+    "volume": 428124355
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-03-24",
+    "open": 96.3,
+    "high": 102.43,
+    "low": 92.9,
+    "close": 97.95,
+    "adjusted_close": 97.95,
+    "volume": 436943196
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-03-31",
+    "open": 98.02,
+    "high": 99.53,
+    "low": 92.87,
+    "close": 98.01,
+    "adjusted_close": 98.01,
+    "volume": 287477025
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-04-06",
+    "open": 96.695,
+    "high": 97.27,
+    "low": 90.62,
+    "close": 92.47,
+    "adjusted_close": 92.47,
+    "volume": 194608867
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-04-14",
+    "open": 91.32,
+    "high": 96.07,
+    "low": 90.5,
+    "close": 91.75,
+    "adjusted_close": 91.75,
+    "volume": 237162524
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-04-21",
+    "open": 90.23,
+    "high": 92.16,
+    "low": 88.055,
+    "close": 88.43,
+    "adjusted_close": 88.43,
+    "volume": 218544250
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-04-28",
+    "open": 88.11,
+    "high": 89.75,
+    "low": 83.76,
+    "close": 89.37,
+    "adjusted_close": 89.37,
+    "volume": 244580331
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-05-05",
+    "open": 91.03,
+    "high": 91.64,
+    "low": 81.02,
+    "close": 89.84,
+    "adjusted_close": 89.84,
+    "volume": 440655986
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-05-12",
+    "open": 89.99,
+    "high": 99.94,
+    "low": 89.17,
+    "close": 95.26,
+    "adjusted_close": 95.26,
+    "volume": 370688242
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-05-19",
+    "open": 95.2,
+    "high": 108.1,
+    "low": 93.45,
+    "close": 105.82,
+    "adjusted_close": 105.82,
+    "volume": 359831929
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-05-26",
+    "open": 104.68,
+    "high": 127.43,
+    "low": 103.4923,
+    "close": 127.03,
+    "adjusted_close": 127.03,
+    "volume": 405871231
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-06-02",
+    "open": 130.415,
+    "high": 130.79,
+    "low": 116.6,
+    "close": 117.86,
+    "adjusted_close": 117.86,
+    "volume": 304163123
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-06-09",
+    "open": 116.59,
+    "high": 127.25,
+    "low": 116.42,
+    "close": 124.92,
+    "adjusted_close": 124.92,
+    "volume": 349967479
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-06-16",
+    "open": 128.52,
+    "high": 132.83,
+    "low": 119.9,
+    "close": 120.08,
+    "adjusted_close": 120.08,
+    "volume": 481617318
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-06-23",
+    "open": 119.085,
+    "high": 121.75,
+    "low": 107.46,
+    "close": 110.01,
+    "adjusted_close": 110.01,
+    "volume": 286064133
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-06-30",
+    "open": 110.95,
+    "high": 114.69,
+    "low": 107.08,
+    "close": 113.91,
+    "adjusted_close": 113.91,
+    "volume": 307198704
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-07-07",
+    "open": 115.16,
+    "high": 117.662,
+    "low": 110.31,
+    "close": 113.17,
+    "adjusted_close": 113.17,
+    "volume": 160984687
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-07-14",
+    "open": 113.0,
+    "high": 122.12,
+    "low": 109.5,
+    "close": 115.94,
+    "adjusted_close": 115.94,
+    "volume": 308356722
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-07-21",
+    "open": 115.95,
+    "high": 121.6699,
+    "low": 109.24,
+    "close": 110.95,
+    "adjusted_close": 110.95,
+    "volume": 350092192
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-07-28",
+    "open": 110.617,
+    "high": 115.08,
+    "low": 108.55,
+    "close": 112.96,
+    "adjusted_close": 112.96,
+    "volume": 268479886
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-08-04",
+    "open": 114.16,
+    "high": 119.5,
+    "low": 107.38,
+    "close": 115.82,
+    "adjusted_close": 115.82,
+    "volume": 498825267
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-08-11",
+    "open": 116.36,
+    "high": 119.08,
+    "low": 106.48,
+    "close": 107.57,
+    "adjusted_close": 107.57,
+    "volume": 289219198
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-08-18",
+    "open": 106.75,
+    "high": 113.18,
+    "low": 101.68,
+    "close": 105.45,
+    "adjusted_close": 105.45,
+    "volume": 284546637
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-08-25",
+    "open": 106.2,
+    "high": 111.64,
+    "low": 99.58,
+    "close": 102.25,
+    "adjusted_close": 102.25,
+    "volume": 335282870
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-09-01",
+    "open": 103.47,
+    "high": 110.06,
+    "low": 100.8944,
+    "close": 109.45,
+    "adjusted_close": 109.45,
+    "volume": 274859558
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-09-08",
+    "open": 109.0,
+    "high": 111.82,
+    "low": 105.09,
+    "close": 106.09,
+    "adjusted_close": 106.09,
+    "volume": 209130599
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-09-15",
+    "open": 107.315,
+    "high": 109.1494,
+    "low": 101.28,
+    "close": 101.49,
+    "adjusted_close": 101.49,
+    "volume": 256751339
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-09-22",
+    "open": 100.815,
+    "high": 103.94,
+    "low": 95.61,
+    "close": 96.2,
+    "adjusted_close": 96.2,
+    "volume": 257819726
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-09-29",
+    "open": 95.95,
+    "high": 104.94,
+    "low": 94.46,
+    "close": 102.82,
+    "adjusted_close": 102.82,
+    "volume": 265972408
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-10-06",
+    "open": 102.21,
+    "high": 107.87,
+    "low": 99.17,
+    "close": 107.24,
+    "adjusted_close": 107.24,
+    "volume": 260912608
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-10-13",
+    "open": 106.01,
+    "high": 111.31,
+    "low": 104.75,
+    "close": 105.09,
+    "adjusted_close": 105.09,
+    "volume": 261669718
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-10-20",
+    "open": 105.42,
+    "high": 107.48,
+    "low": 101.44,
+    "close": 101.81,
+    "adjusted_close": 101.81,
+    "volume": 256608705
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-10-27",
+    "open": 100.812,
+    "high": 102.42,
+    "low": 93.115,
+    "close": 96.43,
+    "adjusted_close": 96.43,
+    "volume": 258579848
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-11-03",
+    "open": 96.14,
+    "high": 113.39,
+    "low": 94.07,
+    "close": 112.25,
+    "adjusted_close": 112.25,
+    "volume": 398914446
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-11-10",
+    "open": 112.6,
+    "high": 119.7,
+    "low": 110.22,
+    "close": 118.59,
+    "adjusted_close": 118.59,
+    "volume": 278052061
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-11-17",
+    "open": 118.34,
+    "high": 122.11,
+    "low": 116.0,
+    "close": 120.62,
+    "adjusted_close": 120.62,
+    "volume": 255515496
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-11-24",
+    "open": 120.7,
+    "high": 124.7623,
+    "low": 117.94,
+    "close": 122.31,
+    "adjusted_close": 122.31,
+    "volume": 160134168
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-12-01",
+    "open": 122.07,
+    "high": 125.725,
+    "low": 118.645,
+    "close": 121.39,
+    "adjusted_close": 121.39,
+    "volume": 184208599
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-12-08",
+    "open": 119.75,
+    "high": 131.0,
+    "low": 116.37,
+    "close": 128.92,
+    "adjusted_close": 128.92,
+    "volume": 346794593
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-12-15",
+    "open": 130.56,
+    "high": 141.82,
+    "low": 128.25,
+    "close": 139.15,
+    "adjusted_close": 139.15,
+    "volume": 427324674
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-12-22",
+    "open": 139.15,
+    "high": 143.47,
+    "low": 135.37,
+    "close": 139.6,
+    "adjusted_close": 139.6,
+    "volume": 245972186
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2023-12-29",
+    "open": 140.07,
+    "high": 151.05,
+    "low": 139.92,
+    "close": 147.41,
+    "adjusted_close": 147.41,
+    "volume": 221916134
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-01-05",
+    "open": 144.28,
+    "high": 144.4,
+    "low": 133.7413,
+    "close": 138.58,
+    "adjusted_close": 138.58,
+    "volume": 254446049
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-01-12",
+    "open": 140.36,
+    "high": 150.88,
+    "low": 140.15,
+    "close": 146.56,
+    "adjusted_close": 146.56,
+    "volume": 307641508
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-01-19",
+    "open": 150.36,
+    "high": 174.25,
+    "low": 149.98,
+    "close": 174.23,
+    "adjusted_close": 174.23,
+    "volume": 489029222
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-01-26",
+    "open": 174.39,
+    "high": 184.92,
+    "low": 164.15,
+    "close": 177.25,
+    "adjusted_close": 177.25,
+    "volume": 558829802
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-02-02",
+    "open": 178.77,
+    "high": 179.0,
+    "low": 162.5602,
+    "close": 177.66,
+    "adjusted_close": 177.66,
+    "volume": 518518344
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-02-09",
+    "open": 179.09,
+    "high": 180.01,
+    "low": 165.5,
+    "close": 172.48,
+    "adjusted_close": 172.48,
+    "volume": 298629777
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-02-16",
+    "open": 172.68,
+    "high": 180.5,
+    "low": 164.3,
+    "close": 173.87,
+    "adjusted_close": 173.87,
+    "volume": 283717665
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-02-23",
+    "open": 171.14,
+    "high": 183.83,
+    "low": 161.81,
+    "close": 176.52,
+    "adjusted_close": 176.52,
+    "volume": 285216648
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-03-01",
+    "open": 178.78,
+    "high": 202.72,
+    "low": 172.49,
+    "close": 202.64,
+    "adjusted_close": 202.64,
+    "volume": 334374004
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-03-08",
+    "open": 205.16,
+    "high": 227.3,
+    "low": 199.15,
+    "close": 207.39,
+    "adjusted_close": 207.39,
+    "volume": 423613697
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-03-15",
+    "open": 203.01,
+    "high": 203.55,
+    "low": 184.03,
+    "close": 191.06,
+    "adjusted_close": 191.06,
+    "volume": 387604244
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-03-22",
+    "open": 193.285,
+    "high": 193.5,
+    "low": 174.0,
+    "close": 179.65,
+    "adjusted_close": 179.65,
+    "volume": 357754105
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-03-28",
+    "open": 172.9,
+    "high": 183.4,
+    "low": 172.0,
+    "close": 180.49,
+    "adjusted_close": 180.49,
+    "volume": 250572017
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-04-05",
+    "open": 180.1,
+    "high": 187.24,
+    "low": 165.58,
+    "close": 170.42,
+    "adjusted_close": 170.42,
+    "volume": 337310282
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-04-12",
+    "open": 168.2,
+    "high": 171.6599,
+    "low": 161.825,
+    "close": 163.28,
+    "adjusted_close": 163.28,
+    "volume": 258655480
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-04-19",
+    "open": 164.43,
+    "high": 164.8799,
+    "low": 145.29,
+    "close": 146.64,
+    "adjusted_close": 146.64,
+    "volume": 316960232
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-04-26",
+    "open": 148.15,
+    "high": 158.63,
+    "low": 145.63,
+    "close": 157.4,
+    "adjusted_close": 157.4,
+    "volume": 222843626
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-05-03",
+    "open": 159.08,
+    "high": 162.29,
+    "low": 141.155,
+    "close": 150.6,
+    "adjusted_close": 150.6,
+    "volume": 293030034
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-05-10",
+    "open": 153.1,
+    "high": 157.7,
+    "low": 150.61,
+    "close": 151.92,
+    "adjusted_close": 151.92,
+    "volume": 181398147
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-05-17",
+    "open": 151.28,
+    "high": 169.72,
+    "low": 148.78,
+    "close": 164.47,
+    "adjusted_close": 164.47,
+    "volume": 245664451
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-05-24",
+    "open": 165.55,
+    "high": 173.14,
+    "low": 158.27,
+    "close": 166.36,
+    "adjusted_close": 166.36,
+    "volume": 269807728
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-05-31",
+    "open": 169.42,
+    "high": 174.55,
+    "low": 160.07,
+    "close": 166.9,
+    "adjusted_close": 166.9,
+    "volume": 233844797
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-06-07",
+    "open": 170.82,
+    "high": 171.08,
+    "low": 158.8729,
+    "close": 167.87,
+    "adjusted_close": 167.87,
+    "volume": 259771967
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-06-14",
+    "open": 162.48,
+    "high": 165.55,
+    "low": 156.92,
+    "close": 159.63,
+    "adjusted_close": 159.63,
+    "volume": 234895066
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-06-21",
+    "open": 158.0,
+    "high": 166.82,
+    "low": 153.34,
+    "close": 161.23,
+    "adjusted_close": 161.23,
+    "volume": 250940206
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-06-28",
+    "open": 159.75,
+    "high": 166.45,
+    "low": 156.0,
+    "close": 162.21,
+    "adjusted_close": 162.21,
+    "volume": 214125604
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-07-05",
+    "open": 161.25,
+    "high": 174.0396,
+    "low": 153.64,
+    "close": 171.9,
+    "adjusted_close": 171.9,
+    "volume": 197113259
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-07-12",
+    "open": 174.9,
+    "high": 187.28,
+    "low": 173.22,
+    "close": 181.61,
+    "adjusted_close": 181.61,
+    "volume": 304000336
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-07-19",
+    "open": 184.45,
+    "high": 185.5,
+    "low": 150.62,
+    "close": 151.58,
+    "adjusted_close": 151.58,
+    "volume": 276723380
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-07-26",
+    "open": 154.23,
+    "high": 157.05,
+    "low": 136.81,
+    "close": 139.99,
+    "adjusted_close": 139.99,
+    "volume": 235080512
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-08-02",
+    "open": 141.19,
+    "high": 153.603,
+    "low": 130.24,
+    "close": 132.5,
+    "adjusted_close": 132.5,
+    "volume": 403849594
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-08-09",
+    "open": 122.16,
+    "high": 139.14,
+    "low": 121.825,
+    "close": 134.27,
+    "adjusted_close": 134.27,
+    "volume": 284841912
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-08-16",
+    "open": 134.44,
+    "high": 149.3693,
+    "low": 133.23,
+    "close": 148.56,
+    "adjusted_close": 148.56,
+    "volume": 192155110
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-08-23",
+    "open": 148.43,
+    "high": 162.04,
+    "low": 147.72,
+    "close": 154.98,
+    "adjusted_close": 154.98,
+    "volume": 269841157
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-08-30",
+    "open": 154.7,
+    "high": 158.28,
+    "low": 144.47,
+    "close": 148.56,
+    "adjusted_close": 148.56,
+    "volume": 181842914
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-09-06",
+    "open": 146.41,
+    "high": 146.49,
+    "low": 132.1101,
+    "close": 134.35,
+    "adjusted_close": 134.35,
+    "volume": 147144669
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-09-13",
+    "open": 136.1,
+    "high": 153.03,
+    "low": 134.86,
+    "close": 152.31,
+    "adjusted_close": 152.31,
+    "volume": 169750833
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-09-20",
+    "open": 151.7,
+    "high": 159.25,
+    "low": 148.01,
+    "close": 155.95,
+    "adjusted_close": 155.95,
+    "volume": 168635022
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-09-27",
+    "open": 156.445,
+    "high": 168.7286,
+    "low": 154.58,
+    "close": 164.35,
+    "adjusted_close": 164.35,
+    "volume": 150413962
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-10-04",
+    "open": 163.1,
+    "high": 171.21,
+    "low": 158.08,
+    "close": 170.9,
+    "adjusted_close": 170.9,
+    "volume": 152621674
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-10-11",
+    "open": 171.08,
+    "high": 174.05,
+    "low": 162.0,
+    "close": 167.89,
+    "adjusted_close": 167.89,
+    "volume": 224250582
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-10-18",
+    "open": 167.77,
+    "high": 168.9,
+    "low": 154.9159,
+    "close": 155.97,
+    "adjusted_close": 155.97,
+    "volume": 166415840
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-10-25",
+    "open": 155.76,
+    "high": 158.91,
+    "low": 150.52,
+    "close": 156.23,
+    "adjusted_close": 156.23,
+    "volume": 139510002
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-11-01",
+    "open": 158.5,
+    "high": 167.5099,
+    "low": 141.32,
+    "close": 141.86,
+    "adjusted_close": 141.86,
+    "volume": 279021873
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-11-08",
+    "open": 141.7,
+    "high": 150.71,
+    "low": 139.72,
+    "close": 147.95,
+    "adjusted_close": 147.95,
+    "volume": 146983022
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-11-15",
+    "open": 147.38,
+    "high": 148.57,
+    "low": 133.65,
+    "close": 134.9,
+    "adjusted_close": 134.9,
+    "volume": 174474000
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-11-22",
+    "open": 138.185,
+    "high": 140.9,
+    "low": 134.93,
+    "close": 138.35,
+    "adjusted_close": 138.35,
+    "volume": 141853021
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-11-29",
+    "open": 140.49,
+    "high": 142.8,
+    "low": 132.96,
+    "close": 137.18,
+    "adjusted_close": 137.18,
+    "volume": 109276489
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-12-06",
+    "open": 137.915,
+    "high": 144.12,
+    "low": 137.4,
+    "close": 138.59,
+    "adjusted_close": 138.59,
+    "volume": 144864200
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-12-13",
+    "open": 135.71,
+    "high": 135.77,
+    "low": 124.77,
+    "close": 126.91,
+    "adjusted_close": 126.91,
+    "volume": 243362723
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-12-20",
+    "open": 126.01,
+    "high": 127.76,
+    "low": 117.9,
+    "close": 119.21,
+    "adjusted_close": 119.21,
+    "volume": 234881537
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2024-12-27",
+    "open": 120.71,
+    "high": 127.51,
+    "low": 120.47,
+    "close": 125.19,
+    "adjusted_close": 125.19,
+    "volume": 130670611
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-01-03",
+    "open": 123.562,
+    "high": 125.56,
+    "low": 119.44,
+    "close": 125.37,
+    "adjusted_close": 125.37,
+    "volume": 131746546
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-01-10",
+    "open": 129.07,
+    "high": 131.71,
+    "low": 114.4501,
+    "close": 116.04,
+    "adjusted_close": 116.04,
+    "volume": 193379348
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-01-17",
+    "open": 115.28,
+    "high": 122.74,
+    "low": 114.41,
+    "close": 121.46,
+    "adjusted_close": 121.46,
+    "volume": 179500045
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-01-24",
+    "open": 122.39,
+    "high": 125.65,
+    "low": 120.63,
+    "close": 122.84,
+    "adjusted_close": 122.84,
+    "volume": 123094082
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-01-31",
+    "open": 117.8,
+    "high": 120.44,
+    "low": 112.8,
+    "close": 115.95,
+    "adjusted_close": 115.95,
+    "volume": 212143648
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-02-07",
+    "open": 113.875,
+    "high": 119.85,
+    "low": 106.5,
+    "close": 107.56,
+    "adjusted_close": 107.56,
+    "volume": 311116577
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-02-14",
+    "open": 108.44,
+    "high": 114.63,
+    "low": 108.15,
+    "close": 113.1,
+    "adjusted_close": 113.1,
+    "volume": 168647810
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-02-21",
+    "open": 114.05,
+    "high": 116.55,
+    "low": 110.43,
+    "close": 110.84,
+    "adjusted_close": 110.84,
+    "volume": 129101264
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-02-28",
+    "open": 111.49,
+    "high": 111.6,
+    "low": 98.69,
+    "close": 99.86,
+    "adjusted_close": 99.86,
+    "volume": 189877885
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-03-07",
+    "open": 101.515,
+    "high": 103.18,
+    "low": 95.89,
+    "close": 100.31,
+    "adjusted_close": 100.31,
+    "volume": 183209762
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-03-14",
+    "open": 98.57,
+    "high": 101.715,
+    "low": 94.73,
+    "close": 100.97,
+    "adjusted_close": 100.97,
+    "volume": 159891748
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-03-21",
+    "open": 102.6,
+    "high": 108.26,
+    "low": 101.96,
+    "close": 106.44,
+    "adjusted_close": 106.44,
+    "volume": 160769623
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-03-28",
+    "open": 109.73,
+    "high": 115.8999,
+    "low": 102.48,
+    "close": 103.22,
+    "adjusted_close": 103.22,
+    "volume": 186238822
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-04-04",
+    "open": 100.235,
+    "high": 104.185,
+    "low": 83.67,
+    "close": 85.76,
+    "adjusted_close": 85.76,
+    "volume": 191502124
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-04-11",
+    "open": 80.68,
+    "high": 97.91,
+    "low": 76.48,
+    "close": 93.4,
+    "adjusted_close": 93.4,
+    "volume": 361356179
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-04-17",
+    "open": 97.11,
+    "high": 97.3699,
+    "low": 85.295,
+    "close": 87.5,
+    "adjusted_close": 87.5,
+    "volume": 161029959
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-04-25",
+    "open": 86.015,
+    "high": 97.1,
+    "low": 83.75,
+    "close": 96.645,
+    "adjusted_close": 96.645,
+    "volume": 172451978
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-05-02",
+    "open": 95.575,
+    "high": 100.1,
+    "low": 91.87,
+    "close": 98.8,
+    "adjusted_close": 98.8,
+    "volume": 140437444
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-05-09",
+    "open": 99.0,
+    "high": 105.44,
+    "low": 96.88,
+    "close": 102.84,
+    "adjusted_close": 102.84,
+    "volume": 268117512
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-05-16",
+    "open": 110.415,
+    "high": 122.52,
+    "low": 106.98,
+    "close": 117.17,
+    "adjusted_close": 117.17,
+    "volume": 280209539
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-05-23",
+    "open": 115.015,
+    "high": 116.1,
+    "low": 107.6671,
+    "close": 110.31,
+    "adjusted_close": 110.31,
+    "volume": 170482025
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-05-30",
+    "open": 113.175,
+    "high": 115.54,
+    "low": 108.6154,
+    "close": 110.73,
+    "adjusted_close": 110.73,
+    "volume": 132029363
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-06-06",
+    "open": 111.06,
+    "high": 119.295,
+    "low": 111.01,
+    "close": 116.19,
+    "adjusted_close": 116.19,
+    "volume": 163489813
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-06-13",
+    "open": 119.18,
+    "high": 124.47,
+    "low": 115.06,
+    "close": 116.16,
+    "adjusted_close": 116.16,
+    "volume": 213812530
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-06-20",
+    "open": 118.635,
+    "high": 132.805,
+    "low": 117.78,
+    "close": 128.24,
+    "adjusted_close": 128.24,
+    "volume": 317150480
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-06-27",
+    "open": 130.47,
+    "high": 147.7504,
+    "low": 126.82,
+    "close": 143.81,
+    "adjusted_close": 143.81,
+    "volume": 338450024
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-07-03",
+    "open": 144.0,
+    "high": 146.0,
+    "low": 135.1202,
+    "close": 137.91,
+    "adjusted_close": 137.91,
+    "volume": 166103684
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-07-11",
+    "open": 136.56,
+    "high": 147.4,
+    "low": 133.5,
+    "close": 146.42,
+    "adjusted_close": 146.42,
+    "volume": 221683396
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-07-18",
+    "open": 145.09,
+    "high": 161.96,
+    "low": 141.9,
+    "close": 156.99,
+    "adjusted_close": 156.99,
+    "volume": 297046347
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-07-25",
+    "open": 157.62,
+    "high": 167.175,
+    "low": 149.34,
+    "close": 166.47,
+    "adjusted_close": 166.47,
+    "volume": 231432415
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-08-01",
+    "open": 169.08,
+    "high": 182.5,
+    "low": 166.82,
+    "close": 171.7,
+    "adjusted_close": 171.7,
+    "volume": 388404379
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-08-08",
+    "open": 174.605,
+    "high": 177.99,
+    "low": 157.8,
+    "close": 172.76,
+    "adjusted_close": 172.76,
+    "volume": 438990757
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-08-15",
+    "open": 170.04,
+    "high": 186.65,
+    "low": 168.5,
+    "close": 177.51,
+    "adjusted_close": 177.51,
+    "volume": 349143865
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-08-22",
+    "open": 176.755,
+    "high": 178.7953,
+    "low": 158.25,
+    "close": 167.76,
+    "adjusted_close": 167.76,
+    "volume": 242504826
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-08-29",
+    "open": 165.55,
+    "high": 170.99,
+    "low": 161.72,
+    "close": 162.63,
+    "adjusted_close": 162.63,
+    "volume": 199106306
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-09-03",
+    "open": 158.42,
+    "high": 164.75,
+    "low": 156.62,
+    "close": 162.13,
+    "adjusted_close": 162.13,
+    "volume": 68726552
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-09-05",
+    "open": 158.42,
+    "high": 164.75,
+    "low": 150.18,
+    "close": 151.14,
+    "adjusted_close": 151.14,
+    "volume": 179085998
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-09-08",
+    "open": 151.99,
+    "high": 152.6388,
+    "low": 149.22,
+    "close": 151.41,
+    "adjusted_close": 151.41,
+    "volume": 41721628
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-09-12",
+    "open": 151.8,
+    "high": 164.525,
+    "low": 149.22,
+    "close": 158.57,
+    "adjusted_close": 158.57,
+    "volume": 228167229
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-09-19",
+    "open": 160.01,
+    "high": 162.3,
+    "low": 149.85,
+    "close": 157.39,
+    "adjusted_close": 157.39,
+    "volume": 246576590
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-09-26",
+    "open": 157.42,
+    "high": 165.1,
+    "low": 154.7798,
+    "close": 159.46,
+    "adjusted_close": 159.46,
+    "volume": 191544728
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-10-03",
+    "open": 160.12,
+    "high": 171.06,
+    "low": 159.33,
+    "close": 164.67,
+    "adjusted_close": 164.67,
+    "volume": 207567677
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-10-10",
+    "open": 226.445,
+    "high": 240.1,
+    "low": 203.01,
+    "close": 214.9,
+    "adjusted_close": 214.9,
+    "volume": 737538554
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-10-17",
+    "open": 220.2,
+    "high": 241.2,
+    "low": 214.9,
+    "close": 233.08,
+    "adjusted_close": 233.08,
+    "volume": 368331892
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-10-23",
+    "open": 236.465,
+    "high": 242.88,
+    "low": 224.88,
+    "close": 234.99,
+    "adjusted_close": 234.99,
+    "volume": 201799431
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-10-24",
+    "open": 236.465,
+    "high": 253.39,
+    "low": 224.88,
+    "close": 252.92,
+    "adjusted_close": 252.92,
+    "volume": 273778439
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-10-31",
+    "open": 257.88,
+    "high": 267.0799,
+    "low": 249.8001,
+    "close": 256.12,
+    "adjusted_close": 256.12,
+    "volume": 242009071
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-11-07",
+    "open": 259.33,
+    "high": 260.91,
+    "low": 224.6401,
+    "close": 233.54,
+    "adjusted_close": 233.54,
+    "volume": 278113180
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-11-14",
+    "open": 242.135,
+    "high": 263.51,
+    "low": 234.64,
+    "close": 246.81,
+    "adjusted_close": 246.81,
+    "volume": 324474624
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-11-21",
+    "open": 242.745,
+    "high": 248.77,
+    "low": 195.0,
+    "close": 203.78,
+    "adjusted_close": 203.78,
+    "volume": 269419516
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-11-28",
+    "open": 207.16,
+    "high": 218.3,
+    "low": 194.275,
+    "close": 217.53,
+    "adjusted_close": 217.53,
+    "volume": 178451284
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-12-05",
+    "open": 213.875,
+    "high": 225.98,
+    "low": 211.7686,
+    "close": 217.97,
+    "adjusted_close": 217.97,
+    "volume": 159086964
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-12-12",
+    "open": 219.085,
+    "high": 224.84,
+    "low": 209.06,
+    "close": 210.78,
+    "adjusted_close": 210.78,
+    "volume": 145907247
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-12-19",
+    "open": 212.28,
+    "high": 215.36,
+    "low": 197.53,
+    "close": 213.43,
+    "adjusted_close": 213.43,
+    "volume": 170450760
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2025-12-26",
+    "open": 220.0,
+    "high": 220.17,
+    "low": 212.28,
+    "close": 214.99,
+    "adjusted_close": 214.99,
+    "volume": 68972371
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2026-01-02",
+    "open": 211.575,
+    "high": 227.15,
+    "low": 209.24,
+    "close": 223.47,
+    "adjusted_close": 223.47,
+    "volume": 90774171
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2026-01-09",
+    "open": 230.245,
+    "high": 234.02,
+    "low": 203.07,
+    "close": 203.17,
+    "adjusted_close": 203.17,
+    "volume": 153412208
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2026-01-16",
+    "open": 201.18,
+    "high": 238.35,
+    "low": 199.8,
+    "close": 231.83,
+    "adjusted_close": 231.83,
+    "volume": 222464555
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2026-01-23",
+    "open": 226.08,
+    "high": 266.96,
+    "low": 225.4105,
+    "close": 259.68,
+    "adjusted_close": 259.68,
+    "volume": 191558102
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2026-01-30",
+    "open": 256.745,
+    "high": 260.5298,
+    "low": 234.55,
+    "close": 236.73,
+    "adjusted_close": 236.73,
+    "volume": 154869059
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2026-02-06",
+    "open": 235.77,
+    "high": 252.65,
+    "low": 190.72,
+    "close": 208.44,
+    "adjusted_close": 208.44,
+    "volume": 306034094
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2026-02-13",
+    "open": 206.895,
+    "high": 219.65,
+    "low": 203.8801,
+    "close": 207.32,
+    "adjusted_close": 207.32,
+    "volume": 155827118
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2026-02-20",
+    "open": 202.145,
+    "high": 205.3,
+    "low": 194.83,
+    "close": 200.15,
+    "adjusted_close": 200.15,
+    "volume": 131535698
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2026-02-27",
+    "open": 198.09,
+    "high": 216.71,
+    "low": 194.15,
+    "close": 200.21,
+    "adjusted_close": 200.21,
+    "volume": 220475856
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2026-03-06",
+    "open": 193.845,
+    "high": 203.79,
+    "low": 188.22,
+    "close": 192.43,
+    "adjusted_close": 192.43,
+    "volume": 182732852
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2026-03-13",
+    "open": 189.36,
+    "high": 209.21,
+    "low": 189.02,
+    "close": 193.39,
+    "adjusted_close": 193.39,
+    "volume": 147541549
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2026-03-20",
+    "open": 194.975,
+    "high": 206.3,
+    "low": 192.83,
+    "close": 201.33,
+    "adjusted_close": 201.33,
+    "volume": 151144412
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2026-03-23",
+    "open": 206.395,
+    "high": 209.109,
+    "low": 201.71,
+    "close": 202.68,
+    "adjusted_close": 202.68,
+    "volume": 31857752
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2026-03-27",
+    "open": 206.395,
+    "high": 221.33,
+    "low": 197.69,
+    "close": 201.99,
+    "adjusted_close": 201.99,
+    "volume": 186054424
+  },
+  {
+    "symbol": "AMD",
+    "week_date": "2026-04-02",
+    "open": 204.95,
+    "high": 217.78,
+    "low": 192.865,
+    "close": 217.5,
+    "adjusted_close": 217.5,
+    "volume": 162671324
+  }
+]

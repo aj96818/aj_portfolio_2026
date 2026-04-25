@@ -2,12 +2,14 @@ import { useEffect, useMemo, useState } from "react";
 import type { CSSProperties } from "react";
 import { ArrowRight, Camera, ChevronDown, Mail, UserRound } from "lucide-react";
 
-import { fetchDateRange, fetchSymbols, runBacktest } from "./api/client";
 import { ControlsPanel } from "./components/ControlsPanel";
 import { EquityCurveChart } from "./components/EquityCurveChart";
 import { PriceChart } from "./components/PriceChart";
 import { StrategyTabs, strategyLabels, type StrategyId } from "./components/StrategyTabs";
 import { SummaryCards } from "./components/SummaryCards";
+import { appConfig, publicAssetPath } from "./config/appConfig";
+import { stockDataClient } from "./data/clientFactory";
+import { getDateRangeFromWeeklyPrices, runBollingerVsBenchmark } from "./strategies/bollingerBacktest";
 import type { BacktestRequest, BacktestResponse, DateRange } from "./types";
 
 type Route = "home" | "trading" | "project-2" | "project-3" | "resume" | "about" | "contact" | "photography";
@@ -33,7 +35,7 @@ const portfolioImages: PortfolioImage[] = Array.from({ length: 12 }, (_, index) 
   const id = index + 1;
   return {
     id,
-    src: `/images/portfolio/photo-${id}.jpg`,
+    src: publicAssetPath(`images/portfolio/photo-${id}.jpg`),
     label: `Photo ${id}`
   };
 });
@@ -89,7 +91,8 @@ function App() {
   useEffect(() => {
     let mounted = true;
 
-    fetchSymbols()
+    stockDataClient
+      .getSymbols()
       .then((nextSymbols) => {
         if (!mounted) return;
         setSymbols(nextSymbols);
@@ -116,9 +119,14 @@ function App() {
     let mounted = true;
     setError(null);
 
-    fetchDateRange(request.symbol)
-      .then((range) => {
+    stockDataClient
+      .getWeeklyPrices(request.symbol)
+      .then((prices) => {
         if (!mounted) return;
+        const range = getDateRangeFromWeeklyPrices(request.symbol, prices);
+        if (!range) {
+          throw new Error(`No adjusted weekly prices found for ${request.symbol.toUpperCase()}.`);
+        }
         setDateRange(range);
         setRequest((current) => ({
           ...current,
@@ -157,7 +165,7 @@ function App() {
     setError(null);
 
     try {
-      const nextResult = await runBacktest(request);
+      const nextResult = await runBollingerVsBenchmark(request, stockDataClient);
       setResult(nextResult);
     } catch (err: unknown) {
       setResult(null);
@@ -273,7 +281,7 @@ function HomePage({ onNavigate }: HomePageProps) {
     <main className="home-page">
       <section
         className="home-hero"
-        style={{ "--home-background-image": 'url("/images/home/background.jpg")' } as CSSProperties}
+        style={{ "--home-background-image": `url("${publicAssetPath("images/home/background.jpg")}")` } as CSSProperties}
       >
         <div className="home-hero-inner">
           <blockquote className="home-quote">
@@ -341,14 +349,16 @@ function TradingPage({
     <main className="app-shell">
       <header className="app-header">
         <div className="app-header-copy">
-          <p className="eyebrow">Local PostgreSQL weekly prices</p>
+          <p className="eyebrow">
+            {appConfig.features.fullTickerUniverse ? "Full weekly price universe" : "Demo static weekly prices"}
+          </p>
           <StrategyTabs
             activeStrategy={activeStrategy}
             benchmarkSymbol={request.benchmark_symbol}
             onStrategyChange={onStrategyChange}
           />
         </div>
-        <div className="status-pill">Local-only</div>
+        <div className="status-pill">{appConfig.appVariant === "demo_static" ? "GitHub Pages demo" : "Local-only"}</div>
       </header>
 
       <div className="dashboard-layout">

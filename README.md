@@ -1,27 +1,118 @@
 # Trading Strategy Visualizer
 
-A local-first web app for comparing a weekly Bollinger Band trading strategy against a searchable buy-and-hold benchmark, defaulting to SPY. The backend reads your existing PostgreSQL `av_weekly_etl` database and never writes to it.
+A React/Vite app for comparing a weekly Bollinger Band trading strategy against a buy-and-hold benchmark. The first deployable version is a free static GitHub Pages demo that reads a small ticker universe from JSON files. The local FastAPI/PostgreSQL app remains available for full local development.
 
 ## Tech Stack
 
-- Backend: Python, FastAPI, SQLAlchemy 2.x, psycopg, pandas
 - Frontend: React, Vite, TypeScript
 - Charts: Plotly via `react-plotly.js`
-- Database: local PostgreSQL table `weekly_prices`
+- Static demo data: JSON files in `frontend/public/data/demo/`
+- Local backend: Python, FastAPI, SQLAlchemy 2.x, psycopg, pandas
+- Local database: PostgreSQL table `weekly_prices`
 
-## Required Local Database
+## Static GitHub Pages Demo
 
-The app expects a local PostgreSQL database named `av_weekly_etl` with a table named `weekly_prices`.
+The static demo uses:
 
-Required read columns:
+```text
+frontend/public/data/demo/symbols.json
+frontend/public/data/demo/weekly_prices/<SYMBOL>.json
+```
 
-- `symbol`
-- `week_date`
-- `adjusted_close`
+Run it locally:
 
-The original expected table may also include `open`, `high`, `low`, `close`, `volume`, and `dividend`. The backend inspects `information_schema.columns` before querying and returns a clear API error if required columns are missing.
+```bash
+cd frontend
+npm install
+npm run dev:demo
+```
 
-## Environment Variables
+Build it for GitHub Pages:
+
+```bash
+cd frontend
+npm run build:demo
+npm run preview:demo
+```
+
+The demo build uses `frontend/.env.demo`:
+
+```env
+VITE_APP_VARIANT=demo_static
+VITE_DATA_SOURCE=static_json
+VITE_FEATURE_FULL_DATA=false
+VITE_FEATURE_LLM=false
+VITE_FEATURE_STRIPE=false
+VITE_BASE_PATH=/aj_portfolio_2026/
+```
+
+`VITE_BASE_PATH` is set for the current project Pages URL shape, `https://aj96818.github.io/aj_portfolio_2026/`. Change it to `/` if this repo is deployed as a user site or to the custom-domain path if that changes later.
+
+## Export Demo JSON
+
+Export a small subset from local PostgreSQL:
+
+```bash
+source .venv/bin/activate
+python scripts/export_demo_json.py
+```
+
+The script reads `DEMO_DATABASE_URL` or `DATABASE_URL` from the environment, falling back to the project root `.env`. It writes `symbols.json` plus one JSON file per exported symbol under `frontend/public/data/demo/weekly_prices/`, sorted by `week_date`.
+
+The requested demo universe is:
+
+```text
+SPY, VOO, VTI, AAPL, TSLA, NVDA, AMD, GOOG, MSFT, TSMC, ASML, META, COST, NFLX, INTC, CVX, NVO, AZN, HD, LLY, JPM
+```
+
+At the time of this export, the local database had no adjusted weekly rows for `VTI`, so the checked-in static demo includes 20 symbols. The exporter maps requested `TSMC` to local source symbol `TSM`, then writes it as `TSMC.json` for the demo. Import `VTI` into `weekly_prices` and rerun the script to include it.
+
+## GitHub Pages Deployment
+
+The workflow at `.github/workflows/deploy-demo-pages.yml` runs on pushes to `main` and can also be started manually. It installs frontend dependencies, runs `npm run build:demo`, uploads `frontend/dist`, and deploys it with GitHub Pages Actions.
+
+Repository settings to enable:
+
+1. Go to GitHub repository settings.
+2. Open **Pages**.
+3. Set **Build and deployment** source to **GitHub Actions**.
+4. Push to `main` or run the workflow manually.
+
+GitHub Pages is a good fit for the small demo, not the full price database. GitHub documents a 1 GB published-site limit and a 100 GB/month soft bandwidth limit, so the full data set should later move to hosted Postgres, S3/R2, or an API-backed deployment.
+
+## Frontend Data Architecture
+
+The frontend now uses a data-client abstraction:
+
+```text
+frontend/src/data/
+  stockDataClient.ts
+  staticStockDataClient.ts
+  clientFactory.ts
+```
+
+Current implementation:
+
+- `static_json`: reads JSON files from Vite public assets using `import.meta.env.BASE_URL`.
+
+Future implementations can fit behind the same interface:
+
+- `apiStockDataClient.ts`: hosted Postgres API data access.
+- `llmStockDataClient.ts`: LLM-backed natural-language query API.
+
+Feature flags live in `frontend/src/config/appConfig.ts`:
+
+```ts
+features: {
+  fullTickerUniverse: false,
+  llmAskData: false,
+  stripeDownloads: false
+}
+```
+
+No backend, database hosting, Stripe, LLM integration, or paid hosting is required for the current demo.
+
+## Local FastAPI/PostgreSQL App
 
 Create a local `.env` from the example:
 
@@ -36,11 +127,7 @@ DATABASE_URL=postgresql+psycopg://USERNAME:PASSWORD@localhost:5432/av_weekly_etl
 VITE_API_BASE_URL=http://127.0.0.1:8000
 ```
 
-Do not commit `.env`.
-
-## Backend Setup
-
-From the project root:
+Install backend dependencies:
 
 ```bash
 python3 -m venv .venv
@@ -61,59 +148,22 @@ curl http://127.0.0.1:8000/health
 curl http://127.0.0.1:8000/symbols
 ```
 
-## Frontend Setup
+The backend expects a local PostgreSQL database named `av_weekly_etl` with table `weekly_prices`.
 
-From the frontend directory:
+Required read columns:
 
-```bash
-cd frontend
-npm install
-npm run dev
-```
+- `symbol`
+- `week_date`
+- `adjusted_close`
 
-Open:
+Optional columns used when available:
 
-```text
-http://127.0.0.1:5173
-```
-
-## API Endpoints
-
-- `GET /health`
-- `GET /symbols`
-- `GET /date-range/{symbol}`
-- `POST /backtest/bollinger-vs-spy`
-
-Example backtest request:
-
-```json
-{
-  "symbol": "AAPL",
-  "benchmark_symbol": "SPY",
-  "start_date": "2020-01-01",
-  "end_date": "2024-12-31",
-  "initial_capital": 10000,
-  "window": 20,
-  "std_dev": 2.5,
-  "trade_capital_percentage": 10
-}
-```
-
-## Troubleshooting
-
-If a backtest returns a benchmark data error, your `weekly_prices` table does not currently include rows with non-null `adjusted_close` values for the selected benchmark symbol. SPY is the default benchmark, but you can choose any symbol that exists in the local table.
-
-Confirm from a Postgres terminal:
-
-```sql
-select symbol, count(*) as rows, count(adjusted_close) as adjusted_rows,
-       min(week_date) as min_date, max(week_date) as max_date
-from weekly_prices
-where upper(symbol) = 'SPY'
-group by symbol;
-```
-
-If that query returns no rows, import SPY into the same weekly ETL process you used for the other symbols or choose another available benchmark symbol, then restart or re-run the backtest.
+- `open`
+- `high`
+- `low`
+- `close`
+- `volume`
+- `dividend`
 
 ## Current Strategy Assumptions
 
@@ -126,7 +176,7 @@ If that query returns no rows, import SPY into the same weekly ETL process you u
 - No transaction costs or slippage.
 - Buy with the selected trade allocation each time price is at or below the lower Bollinger Band.
 - Sell up to the selected trade allocation each time price is at or above the upper Bollinger Band and shares are held.
-- Execution uses the same row's adjusted weekly close. This matches the requested first version; a later version can shift signals one bar for more conservative execution timing.
+- Execution uses the same row's adjusted weekly close.
 - Bollinger window defaults to 20 weeks.
 - Standard deviation multiplier supports fractional thresholds from 0.5 to 5, defaulting to 2.
 - The benchmark buys at the first available weekly adjusted close for the selected benchmark symbol in the selected period and holds through the end.
@@ -144,21 +194,16 @@ backend/
     strategies/benchmark.py
     metrics/performance.py
 frontend/
+  public/data/demo/
+    symbols.json
+    weekly_prices/
   src/
     App.tsx
-    api/client.ts
+    config/appConfig.ts
+    data/
+    strategies/bollingerBacktest.ts
     components/
     types.ts
+scripts/
+  export_demo_json.py
 ```
-
-## Future Roadmap
-
-- Daily price support from Alpha Vantage
-- More strategies
-- Portfolio-level backtesting
-- Saved strategies
-- User accounts
-- Stripe subscriptions
-- Alerts
-- Cloud deployment
-- AI-generated strategy explanations

@@ -1,0 +1,6422 @@
+[
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-01-03",
+    "open": 17.41,
+    "high": 17.62,
+    "low": 16.92,
+    "close": 16.95,
+    "adjusted_close": 12.7576,
+    "volume": 32847000
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-01-10",
+    "open": 16.99,
+    "high": 17.16,
+    "low": 16.66,
+    "close": 16.9,
+    "adjusted_close": 12.7199,
+    "volume": 57452400
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-01-17",
+    "open": 17.01,
+    "high": 18.18,
+    "low": 16.9,
+    "close": 17.77,
+    "adjusted_close": 13.3748,
+    "volume": 75474500
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-01-24",
+    "open": 17.77,
+    "high": 17.98,
+    "low": 17.51,
+    "close": 17.57,
+    "adjusted_close": 13.2242,
+    "volume": 42517600
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-01-31",
+    "open": 17.31,
+    "high": 17.32,
+    "low": 16.87,
+    "close": 16.92,
+    "adjusted_close": 12.735,
+    "volume": 48731800
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-02-07",
+    "open": 17.02,
+    "high": 17.27,
+    "low": 16.44,
+    "close": 17.16,
+    "adjusted_close": 12.9156,
+    "volume": 60401100
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-02-14",
+    "open": 17.14,
+    "high": 17.96,
+    "low": 17.1,
+    "close": 17.89,
+    "adjusted_close": 13.4651,
+    "volume": 42432400
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-02-21",
+    "open": 17.91,
+    "high": 17.94,
+    "low": 17.46,
+    "close": 17.74,
+    "adjusted_close": 13.3522,
+    "volume": 32964900
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-02-28",
+    "open": 17.71,
+    "high": 18.15,
+    "low": 17.59,
+    "close": 18.07,
+    "adjusted_close": 13.6006,
+    "volume": 40759400
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-03-07",
+    "open": 17.86,
+    "high": 19.02,
+    "low": 17.77,
+    "close": 18.77,
+    "adjusted_close": 14.1274,
+    "volume": 68974100
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-03-14",
+    "open": 18.7,
+    "high": 19.52,
+    "low": 18.67,
+    "close": 18.9,
+    "adjusted_close": 14.2253,
+    "volume": 72152900
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-03-21",
+    "open": 19.04,
+    "high": 19.2,
+    "low": 18.42,
+    "close": 18.53,
+    "adjusted_close": 13.9468,
+    "volume": 59379700
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-03-28",
+    "open": 18.61,
+    "high": 19.9,
+    "low": 18.4,
+    "close": 19.64,
+    "adjusted_close": 14.7822,
+    "volume": 61094100
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-04-04",
+    "open": 19.74,
+    "high": 20.36,
+    "low": 19.73,
+    "close": 19.77,
+    "adjusted_close": 14.8801,
+    "volume": 74980700
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-04-11",
+    "open": 19.65,
+    "high": 20.3,
+    "low": 19.61,
+    "close": 19.89,
+    "adjusted_close": 14.9704,
+    "volume": 46820100
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-04-17",
+    "open": 20.06,
+    "high": 20.92,
+    "low": 19.98,
+    "close": 20.72,
+    "adjusted_close": 15.5951,
+    "volume": 67902400
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-04-25",
+    "open": 20.4,
+    "high": 20.6,
+    "low": 19.85,
+    "close": 19.91,
+    "adjusted_close": 14.9854,
+    "volume": 59426200
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-05-02",
+    "open": 20.13,
+    "high": 20.4,
+    "low": 19.62,
+    "close": 19.62,
+    "adjusted_close": 14.7672,
+    "volume": 62469200
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-05-09",
+    "open": 19.53,
+    "high": 20.59,
+    "low": 19.5,
+    "close": 20.41,
+    "adjusted_close": 15.3618,
+    "volume": 56154700
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-05-16",
+    "open": 20.12,
+    "high": 20.86,
+    "low": 20.11,
+    "close": 20.77,
+    "adjusted_close": 15.6327,
+    "volume": 61385800
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-05-23",
+    "open": 20.64,
+    "high": 20.73,
+    "low": 20.46,
+    "close": 20.66,
+    "adjusted_close": 15.5499,
+    "volume": 29989700
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-05-30",
+    "open": 20.83,
+    "high": 21.02,
+    "low": 20.4,
+    "close": 20.56,
+    "adjusted_close": 15.4747,
+    "volume": 28067800
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-06-06",
+    "open": 20.67,
+    "high": 21.3,
+    "low": 20.57,
+    "close": 21.09,
+    "adjusted_close": 15.8736,
+    "volume": 53531700
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-06-13",
+    "open": 21.29,
+    "high": 21.4,
+    "low": 20.99,
+    "close": 21.09,
+    "adjusted_close": 15.8736,
+    "volume": 34581700
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-06-20",
+    "open": 21.09,
+    "high": 21.69,
+    "low": 21.07,
+    "close": 21.15,
+    "adjusted_close": 15.9187,
+    "volume": 41445900
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-06-27",
+    "open": 21.02,
+    "high": 21.3,
+    "low": 20.48,
+    "close": 21.28,
+    "adjusted_close": 16.0166,
+    "volume": 30706700
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-07-03",
+    "open": 21.35,
+    "high": 22.71,
+    "low": 21.27,
+    "close": 22.71,
+    "adjusted_close": 17.0929,
+    "volume": 30038800
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-07-11",
+    "open": 22.82,
+    "high": 23.07,
+    "low": 22.2,
+    "close": 22.81,
+    "adjusted_close": 17.1682,
+    "volume": 62520900
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-07-18",
+    "open": 22.54,
+    "high": 22.68,
+    "low": 20.12,
+    "close": 20.48,
+    "adjusted_close": 15.6865,
+    "volume": 111235200
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-07-25",
+    "open": 20.52,
+    "high": 20.97,
+    "low": 20.3,
+    "close": 20.35,
+    "adjusted_close": 15.587,
+    "volume": 64812500
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-08-01",
+    "open": 20.2,
+    "high": 20.8,
+    "low": 19.92,
+    "close": 20.2,
+    "adjusted_close": 15.4721,
+    "volume": 58699400
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-08-08",
+    "open": 20.56,
+    "high": 20.62,
+    "low": 19.68,
+    "close": 19.79,
+    "adjusted_close": 15.158,
+    "volume": 61033900
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-08-15",
+    "open": 20.01,
+    "high": 20.6,
+    "low": 19.9,
+    "close": 20.45,
+    "adjusted_close": 15.6636,
+    "volume": 44754100
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-08-22",
+    "open": 20.43,
+    "high": 21.0,
+    "low": 20.34,
+    "close": 20.83,
+    "adjusted_close": 15.9546,
+    "volume": 44168400
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-08-29",
+    "open": 20.85,
+    "high": 20.95,
+    "low": 20.59,
+    "close": 20.94,
+    "adjusted_close": 16.0389,
+    "volume": 42918600
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-09-05",
+    "open": 21.02,
+    "high": 21.38,
+    "low": 20.98,
+    "close": 21.18,
+    "adjusted_close": 16.2227,
+    "volume": 31417700
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-09-12",
+    "open": 21.17,
+    "high": 21.2,
+    "low": 20.28,
+    "close": 20.34,
+    "adjusted_close": 15.5793,
+    "volume": 42806900
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-09-19",
+    "open": 20.47,
+    "high": 20.96,
+    "low": 20.14,
+    "close": 20.52,
+    "adjusted_close": 15.7172,
+    "volume": 40566500
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-09-26",
+    "open": 20.43,
+    "high": 20.64,
+    "low": 20.06,
+    "close": 20.14,
+    "adjusted_close": 15.4261,
+    "volume": 54935670
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-10-03",
+    "open": 19.93,
+    "high": 20.9,
+    "low": 19.75,
+    "close": 20.83,
+    "adjusted_close": 15.9546,
+    "volume": 86100352
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-10-10",
+    "open": 20.9,
+    "high": 20.91,
+    "low": 19.39,
+    "close": 19.44,
+    "adjusted_close": 14.8899,
+    "volume": 81058250
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-10-17",
+    "open": 19.81,
+    "high": 21.09,
+    "low": 19.45,
+    "close": 20.72,
+    "adjusted_close": 15.8704,
+    "volume": 102224772
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-10-24",
+    "open": 20.79,
+    "high": 21.7,
+    "low": 20.63,
+    "close": 21.18,
+    "adjusted_close": 16.2227,
+    "volume": 62728752
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-10-31",
+    "open": 21.32,
+    "high": 22.125,
+    "low": 21.01,
+    "close": 22.02,
+    "adjusted_close": 16.8661,
+    "volume": 63193589
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-11-07",
+    "open": 21.98,
+    "high": 22.18,
+    "low": 21.61,
+    "close": 21.82,
+    "adjusted_close": 16.7129,
+    "volume": 43052223
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-11-14",
+    "open": 22.1,
+    "high": 22.47,
+    "low": 21.75,
+    "close": 22.4,
+    "adjusted_close": 17.1571,
+    "volume": 45327098
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-11-21",
+    "open": 22.17,
+    "high": 23.1,
+    "low": 21.7,
+    "close": 23.06,
+    "adjusted_close": 17.6627,
+    "volume": 68090585
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-11-28",
+    "open": 22.86,
+    "high": 23.54,
+    "low": 22.75,
+    "close": 23.47,
+    "adjusted_close": 17.9767,
+    "volume": 29354302
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-12-05",
+    "open": 23.2,
+    "high": 23.22,
+    "low": 22.44,
+    "close": 22.74,
+    "adjusted_close": 17.4176,
+    "volume": 48219520
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-12-12",
+    "open": 22.78,
+    "high": 22.895,
+    "low": 21.92,
+    "close": 21.97,
+    "adjusted_close": 16.8278,
+    "volume": 51518983
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-12-19",
+    "open": 22.19,
+    "high": 22.55,
+    "low": 21.16,
+    "close": 22.2,
+    "adjusted_close": 17.004,
+    "volume": 60959187
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2014-12-26",
+    "open": 22.27,
+    "high": 22.58,
+    "low": 22.2,
+    "close": 22.31,
+    "adjusted_close": 17.0882,
+    "volume": 15380380
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-01-02",
+    "open": 22.66,
+    "high": 22.745,
+    "low": 22.0,
+    "close": 22.28,
+    "adjusted_close": 17.0652,
+    "volume": 18486604
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-01-09",
+    "open": 22.14,
+    "high": 22.17,
+    "low": 21.02,
+    "close": 21.2,
+    "adjusted_close": 16.238,
+    "volume": 62582868
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-01-16",
+    "open": 21.06,
+    "high": 23.13,
+    "low": 20.6,
+    "close": 22.6,
+    "adjusted_close": 17.3103,
+    "volume": 116250535
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-01-23",
+    "open": 22.6,
+    "high": 24.3,
+    "low": 22.47,
+    "close": 23.99,
+    "adjusted_close": 18.375,
+    "volume": 80258167
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-01-30",
+    "open": 23.95,
+    "high": 24.49,
+    "low": 22.6733,
+    "close": 22.71,
+    "adjusted_close": 17.3946,
+    "volume": 82589081
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-02-06",
+    "open": 23.03,
+    "high": 23.76,
+    "low": 22.705,
+    "close": 23.1,
+    "adjusted_close": 17.6933,
+    "volume": 69343667
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-02-13",
+    "open": 22.92,
+    "high": 24.96,
+    "low": 22.49,
+    "close": 24.84,
+    "adjusted_close": 19.026,
+    "volume": 65882944
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-02-20",
+    "open": 24.69,
+    "high": 24.89,
+    "low": 24.3,
+    "close": 24.44,
+    "adjusted_close": 18.7197,
+    "volume": 35155749
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-02-27",
+    "open": 24.41,
+    "high": 25.32,
+    "low": 24.13,
+    "close": 24.53,
+    "adjusted_close": 18.7886,
+    "volume": 50278071
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-03-06",
+    "open": 24.4,
+    "high": 24.73,
+    "low": 24.04,
+    "close": 24.09,
+    "adjusted_close": 18.4516,
+    "volume": 37178149
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-03-13",
+    "open": 23.67,
+    "high": 23.97,
+    "low": 22.91,
+    "close": 23.88,
+    "adjusted_close": 18.2907,
+    "volume": 58102160
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-03-20",
+    "open": 23.97,
+    "high": 25.15,
+    "low": 23.9,
+    "close": 24.77,
+    "adjusted_close": 18.9724,
+    "volume": 64391365
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-03-27",
+    "open": 24.88,
+    "high": 24.95,
+    "low": 22.66,
+    "close": 22.94,
+    "adjusted_close": 17.5708,
+    "volume": 107216841
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-04-02",
+    "open": 22.78,
+    "high": 23.83,
+    "low": 22.78,
+    "close": 23.69,
+    "adjusted_close": 18.1452,
+    "volume": 54086801
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-04-10",
+    "open": 23.2,
+    "high": 23.8,
+    "low": 23.075,
+    "close": 23.5,
+    "adjusted_close": 17.9997,
+    "volume": 56277474
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-04-17",
+    "open": 23.51,
+    "high": 23.69,
+    "low": 22.65,
+    "close": 23.22,
+    "adjusted_close": 17.7852,
+    "volume": 86198391
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-04-24",
+    "open": 23.4,
+    "high": 25.31,
+    "low": 23.16,
+    "close": 24.91,
+    "adjusted_close": 19.0797,
+    "volume": 95726963
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-05-01",
+    "open": 24.89,
+    "high": 25.77,
+    "low": 24.355,
+    "close": 24.74,
+    "adjusted_close": 18.9495,
+    "volume": 78548381
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-05-08",
+    "open": 24.56,
+    "high": 24.74,
+    "low": 24.17,
+    "close": 24.55,
+    "adjusted_close": 18.8039,
+    "volume": 49315618
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-05-15",
+    "open": 24.58,
+    "high": 24.67,
+    "low": 24.14,
+    "close": 24.56,
+    "adjusted_close": 18.8116,
+    "volume": 38342963
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-05-22",
+    "open": 24.48,
+    "high": 24.67,
+    "low": 24.15,
+    "close": 24.2,
+    "adjusted_close": 18.5358,
+    "volume": 49252892
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-05-29",
+    "open": 24.17,
+    "high": 24.7,
+    "low": 23.94,
+    "close": 24.28,
+    "adjusted_close": 18.5971,
+    "volume": 48840617
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-06-05",
+    "open": 24.18,
+    "high": 24.24,
+    "low": 22.75,
+    "close": 22.86,
+    "adjusted_close": 17.5095,
+    "volume": 59763999
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-06-12",
+    "open": 22.87,
+    "high": 23.759,
+    "low": 22.6,
+    "close": 23.67,
+    "adjusted_close": 18.1299,
+    "volume": 62766022
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-06-19",
+    "open": 23.39,
+    "high": 23.83,
+    "low": 23.2,
+    "close": 23.4,
+    "adjusted_close": 17.9231,
+    "volume": 60712568
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-06-26",
+    "open": 23.66,
+    "high": 24.33,
+    "low": 23.44,
+    "close": 23.63,
+    "adjusted_close": 18.0993,
+    "volume": 55256286
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-07-02",
+    "open": 22.67,
+    "high": 23.33,
+    "low": 22.36,
+    "close": 23.15,
+    "adjusted_close": 18.1898,
+    "volume": 50619354
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-07-10",
+    "open": 23.0,
+    "high": 23.26,
+    "low": 22.11,
+    "close": 22.57,
+    "adjusted_close": 17.734,
+    "volume": 52754154
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-07-17",
+    "open": 22.69,
+    "high": 23.085,
+    "low": 21.7,
+    "close": 23.03,
+    "adjusted_close": 18.0955,
+    "volume": 74306117
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-07-24",
+    "open": 22.62,
+    "high": 23.16,
+    "low": 21.61,
+    "close": 21.64,
+    "adjusted_close": 17.0033,
+    "volume": 70255487
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-07-31",
+    "open": 21.57,
+    "high": 22.78,
+    "low": 21.33,
+    "close": 22.11,
+    "adjusted_close": 17.3726,
+    "volume": 69764230
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-08-07",
+    "open": 21.9,
+    "high": 21.915,
+    "low": 20.99,
+    "close": 21.03,
+    "adjusted_close": 16.524,
+    "volume": 62820018
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-08-14",
+    "open": 21.12,
+    "high": 21.89,
+    "low": 20.18,
+    "close": 20.38,
+    "adjusted_close": 16.0133,
+    "volume": 84240066
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-08-21",
+    "open": 19.9,
+    "high": 20.31,
+    "low": 18.87,
+    "close": 18.88,
+    "adjusted_close": 14.8347,
+    "volume": 74036998
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-08-28",
+    "open": 17.74,
+    "high": 20.08,
+    "low": 17.32,
+    "close": 20.0,
+    "adjusted_close": 15.7147,
+    "volume": 107200660
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-09-04",
+    "open": 20.11,
+    "high": 20.235,
+    "low": 19.2537,
+    "close": 19.67,
+    "adjusted_close": 15.4554,
+    "volume": 55056957
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-09-11",
+    "open": 19.96,
+    "high": 20.66,
+    "low": 19.27,
+    "close": 19.9,
+    "adjusted_close": 15.6361,
+    "volume": 48065933
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-09-18",
+    "open": 19.99,
+    "high": 21.02,
+    "low": 19.89,
+    "close": 20.61,
+    "adjusted_close": 16.194,
+    "volume": 56184187
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-09-25",
+    "open": 20.53,
+    "high": 20.72,
+    "low": 19.56,
+    "close": 20.05,
+    "adjusted_close": 15.754,
+    "volume": 69775154
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-10-02",
+    "open": 19.97,
+    "high": 21.0,
+    "low": 19.49,
+    "close": 20.76,
+    "adjusted_close": 16.3119,
+    "volume": 68325729
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-10-09",
+    "open": 21.06,
+    "high": 22.43,
+    "low": 20.79,
+    "close": 21.95,
+    "adjusted_close": 17.2469,
+    "volume": 57245979
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-10-16",
+    "open": 22.07,
+    "high": 22.785,
+    "low": 21.66,
+    "close": 22.16,
+    "adjusted_close": 17.4119,
+    "volume": 69787385
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-10-23",
+    "open": 22.08,
+    "high": 22.75,
+    "low": 21.96,
+    "close": 22.47,
+    "adjusted_close": 17.6555,
+    "volume": 43905288
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-10-30",
+    "open": 22.47,
+    "high": 22.52,
+    "low": 21.52,
+    "close": 21.96,
+    "adjusted_close": 17.2547,
+    "volume": 45880476
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-11-06",
+    "open": 21.86,
+    "high": 23.66,
+    "low": 21.77,
+    "close": 22.82,
+    "adjusted_close": 17.9305,
+    "volume": 50086272
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-11-13",
+    "open": 22.75,
+    "high": 22.98,
+    "low": 21.57,
+    "close": 21.89,
+    "adjusted_close": 17.1997,
+    "volume": 34842416
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-11-20",
+    "open": 21.83,
+    "high": 22.94,
+    "low": 21.8,
+    "close": 22.83,
+    "adjusted_close": 17.9383,
+    "volume": 35435344
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-11-27",
+    "open": 22.92,
+    "high": 22.94,
+    "low": 22.16,
+    "close": 22.45,
+    "adjusted_close": 17.6398,
+    "volume": 23851374
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-12-04",
+    "open": 22.44,
+    "high": 23.3699,
+    "low": 22.38,
+    "close": 23.31,
+    "adjusted_close": 18.3155,
+    "volume": 37938329
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-12-11",
+    "open": 23.45,
+    "high": 23.5,
+    "low": 22.16,
+    "close": 22.18,
+    "adjusted_close": 17.4276,
+    "volume": 37929682
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-12-18",
+    "open": 22.33,
+    "high": 23.29,
+    "low": 22.07,
+    "close": 22.93,
+    "adjusted_close": 18.0169,
+    "volume": 42296917
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-12-24",
+    "open": 22.93,
+    "high": 23.28,
+    "low": 22.75,
+    "close": 23.15,
+    "adjusted_close": 18.1898,
+    "volume": 17695035
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2015-12-31",
+    "open": 23.15,
+    "high": 23.23,
+    "low": 22.565,
+    "close": 22.75,
+    "adjusted_close": 17.8755,
+    "volume": 13709230
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-01-08",
+    "open": 22.24,
+    "high": 22.415,
+    "low": 20.77,
+    "close": 20.81,
+    "adjusted_close": 16.3511,
+    "volume": 45348909
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-01-15",
+    "open": 21.17,
+    "high": 21.865,
+    "low": 20.45,
+    "close": 21.1,
+    "adjusted_close": 16.579,
+    "volume": 64988601
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-01-22",
+    "open": 21.63,
+    "high": 21.95,
+    "low": 20.74,
+    "close": 21.93,
+    "adjusted_close": 17.2312,
+    "volume": 43096417
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-01-29",
+    "open": 21.71,
+    "high": 22.4,
+    "low": 21.48,
+    "close": 22.35,
+    "adjusted_close": 17.5612,
+    "volume": 38785211
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-02-05",
+    "open": 22.18,
+    "high": 23.36,
+    "low": 22.15,
+    "close": 22.75,
+    "adjusted_close": 17.8755,
+    "volume": 47757173
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-02-12",
+    "open": 22.48,
+    "high": 22.91,
+    "low": 21.785,
+    "close": 22.24,
+    "adjusted_close": 17.4747,
+    "volume": 40263456
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-02-19",
+    "open": 22.62,
+    "high": 24.19,
+    "low": 22.59,
+    "close": 23.78,
+    "adjusted_close": 18.6848,
+    "volume": 47530285
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-02-26",
+    "open": 24.02,
+    "high": 24.13,
+    "low": 22.83,
+    "close": 23.77,
+    "adjusted_close": 18.6769,
+    "volume": 33317853
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-03-04",
+    "open": 23.57,
+    "high": 24.95,
+    "low": 23.46,
+    "close": 24.65,
+    "adjusted_close": 19.3684,
+    "volume": 37536173
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-03-11",
+    "open": 24.4,
+    "high": 25.38,
+    "low": 24.06,
+    "close": 25.35,
+    "adjusted_close": 19.9184,
+    "volume": 40495315
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-03-18",
+    "open": 25.31,
+    "high": 26.25,
+    "low": 24.72,
+    "close": 26.04,
+    "adjusted_close": 20.4605,
+    "volume": 37296655
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-03-24",
+    "open": 25.88,
+    "high": 26.06,
+    "low": 25.44,
+    "close": 25.73,
+    "adjusted_close": 20.217,
+    "volume": 22756188
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-04-01",
+    "open": 25.72,
+    "high": 26.62,
+    "low": 25.44,
+    "close": 26.12,
+    "adjusted_close": 20.5234,
+    "volume": 23207912
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-04-08",
+    "open": 26.13,
+    "high": 26.13,
+    "low": 25.02,
+    "close": 25.28,
+    "adjusted_close": 19.8634,
+    "volume": 37237373
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-04-15",
+    "open": 25.7,
+    "high": 26.205,
+    "low": 25.085,
+    "close": 25.46,
+    "adjusted_close": 20.0048,
+    "volume": 41145693
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-04-22",
+    "open": 25.38,
+    "high": 25.68,
+    "low": 24.74,
+    "close": 25.07,
+    "adjusted_close": 19.6984,
+    "volume": 37769470
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-04-29",
+    "open": 25.15,
+    "high": 25.35,
+    "low": 23.42,
+    "close": 23.59,
+    "adjusted_close": 18.5355,
+    "volume": 52110956
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-05-06",
+    "open": 23.58,
+    "high": 23.75,
+    "low": 23.155,
+    "close": 23.41,
+    "adjusted_close": 18.3941,
+    "volume": 35837618
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-05-13",
+    "open": 23.4,
+    "high": 23.49,
+    "low": 22.75,
+    "close": 22.82,
+    "adjusted_close": 17.9305,
+    "volume": 29262055
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-05-20",
+    "open": 22.97,
+    "high": 24.02,
+    "low": 22.9,
+    "close": 23.91,
+    "adjusted_close": 18.7869,
+    "volume": 30870353
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-05-27",
+    "open": 24.63,
+    "high": 25.01,
+    "low": 24.21,
+    "close": 24.8,
+    "adjusted_close": 19.4862,
+    "volume": 33151134
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-06-03",
+    "open": 24.83,
+    "high": 25.6,
+    "low": 24.53,
+    "close": 25.53,
+    "adjusted_close": 20.0598,
+    "volume": 23356648
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-06-10",
+    "open": 25.6,
+    "high": 26.58,
+    "low": 25.43,
+    "close": 25.86,
+    "adjusted_close": 20.3191,
+    "volume": 32836891
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-06-17",
+    "open": 25.55,
+    "high": 26.03,
+    "low": 25.38,
+    "close": 25.85,
+    "adjusted_close": 20.3113,
+    "volume": 31984120
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-06-24",
+    "open": 26.32,
+    "high": 26.92,
+    "low": 25.51,
+    "close": 25.68,
+    "adjusted_close": 20.1777,
+    "volume": 40363367
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-07-01",
+    "open": 24.64,
+    "high": 26.65,
+    "low": 24.355,
+    "close": 26.53,
+    "adjusted_close": 21.4747,
+    "volume": 49224708
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-07-08",
+    "open": 26.16,
+    "high": 26.795,
+    "low": 25.75,
+    "close": 26.73,
+    "adjusted_close": 21.6366,
+    "volume": 22849789
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-07-15",
+    "open": 27.16,
+    "high": 27.37,
+    "low": 26.64,
+    "close": 27.01,
+    "adjusted_close": 21.8633,
+    "volume": 43286350
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-07-22",
+    "open": 27.31,
+    "high": 27.82,
+    "low": 27.15,
+    "close": 27.74,
+    "adjusted_close": 22.4542,
+    "volume": 30074797
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-07-29",
+    "open": 27.49,
+    "high": 28.49,
+    "low": 27.49,
+    "close": 27.78,
+    "adjusted_close": 22.4865,
+    "volume": 37148595
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-08-05",
+    "open": 28.35,
+    "high": 28.85,
+    "low": 27.91,
+    "close": 28.79,
+    "adjusted_close": 23.3041,
+    "volume": 26026354
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-08-12",
+    "open": 28.76,
+    "high": 29.45,
+    "low": 28.71,
+    "close": 29.24,
+    "adjusted_close": 23.6683,
+    "volume": 36237286
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-08-19",
+    "open": 29.38,
+    "high": 29.45,
+    "low": 28.51,
+    "close": 28.64,
+    "adjusted_close": 23.1827,
+    "volume": 26594194
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-08-26",
+    "open": 28.3,
+    "high": 28.895,
+    "low": 28.22,
+    "close": 28.64,
+    "adjusted_close": 23.1827,
+    "volume": 28965246
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-09-02",
+    "open": 28.58,
+    "high": 29.21,
+    "low": 28.53,
+    "close": 29.14,
+    "adjusted_close": 23.5874,
+    "volume": 24937243
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-09-09",
+    "open": 29.51,
+    "high": 30.55,
+    "low": 28.55,
+    "close": 28.59,
+    "adjusted_close": 23.1422,
+    "volume": 35550086
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-09-16",
+    "open": 28.55,
+    "high": 29.27,
+    "low": 28.2005,
+    "close": 28.91,
+    "adjusted_close": 23.4012,
+    "volume": 31441350
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-09-23",
+    "open": 29.91,
+    "high": 30.9543,
+    "low": 29.87,
+    "close": 30.12,
+    "adjusted_close": 24.3807,
+    "volume": 34845810
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-09-30",
+    "open": 30.02,
+    "high": 30.68,
+    "low": 29.65,
+    "close": 30.59,
+    "adjusted_close": 24.7611,
+    "volume": 25892712
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-10-07",
+    "open": 30.64,
+    "high": 31.21,
+    "low": 30.36,
+    "close": 31.18,
+    "adjusted_close": 25.2387,
+    "volume": 25361631
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-10-14",
+    "open": 31.19,
+    "high": 31.48,
+    "low": 29.52,
+    "close": 30.66,
+    "adjusted_close": 24.8178,
+    "volume": 54700923
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-10-21",
+    "open": 30.52,
+    "high": 31.15,
+    "low": 30.38,
+    "close": 31.08,
+    "adjusted_close": 25.1577,
+    "volume": 30965794
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-10-28",
+    "open": 31.14,
+    "high": 31.615,
+    "low": 30.75,
+    "close": 30.77,
+    "adjusted_close": 24.9068,
+    "volume": 22559200
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-11-04",
+    "open": 30.93,
+    "high": 31.2,
+    "low": 30.02,
+    "close": 30.24,
+    "adjusted_close": 24.4778,
+    "volume": 23625289
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-11-11",
+    "open": 30.72,
+    "high": 31.5,
+    "low": 28.76,
+    "close": 29.93,
+    "adjusted_close": 24.2269,
+    "volume": 34666668
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-11-18",
+    "open": 29.28,
+    "high": 30.02,
+    "low": 28.77,
+    "close": 29.47,
+    "adjusted_close": 23.8545,
+    "volume": 40691995
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-11-25",
+    "open": 29.6,
+    "high": 30.145,
+    "low": 29.46,
+    "close": 29.66,
+    "adjusted_close": 24.0083,
+    "volume": 19634829
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-12-02",
+    "open": 29.71,
+    "high": 29.94,
+    "low": 28.341,
+    "close": 28.86,
+    "adjusted_close": 23.3607,
+    "volume": 38788383
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-12-09",
+    "open": 28.94,
+    "high": 30.63,
+    "low": 28.8743,
+    "close": 30.12,
+    "adjusted_close": 24.3807,
+    "volume": 20671696
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-12-16",
+    "open": 29.97,
+    "high": 30.64,
+    "low": 29.385,
+    "close": 29.48,
+    "adjusted_close": 23.8626,
+    "volume": 27129591
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-12-23",
+    "open": 29.49,
+    "high": 29.56,
+    "low": 28.5,
+    "close": 29.05,
+    "adjusted_close": 23.5145,
+    "volume": 30304190
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2016-12-30",
+    "open": 29.0,
+    "high": 29.32,
+    "low": 28.62,
+    "close": 28.75,
+    "adjusted_close": 23.2717,
+    "volume": 16933015
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-01-06",
+    "open": 29.25,
+    "high": 29.91,
+    "low": 29.06,
+    "close": 29.63,
+    "adjusted_close": 23.984,
+    "volume": 20327114
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-01-13",
+    "open": 29.79,
+    "high": 30.3,
+    "low": 28.98,
+    "close": 29.44,
+    "adjusted_close": 23.8302,
+    "volume": 46264048
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-01-20",
+    "open": 29.61,
+    "high": 30.26,
+    "low": 29.39,
+    "close": 30.07,
+    "adjusted_close": 24.3402,
+    "volume": 31251312
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-01-27",
+    "open": 30.31,
+    "high": 31.4499,
+    "low": 30.21,
+    "close": 31.25,
+    "adjusted_close": 25.2953,
+    "volume": 36490073
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-02-03",
+    "open": 31.07,
+    "high": 31.31,
+    "low": 30.615,
+    "close": 30.97,
+    "adjusted_close": 25.0687,
+    "volume": 29586854
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-02-10",
+    "open": 30.95,
+    "high": 30.97,
+    "low": 30.17,
+    "close": 30.71,
+    "adjusted_close": 24.8582,
+    "volume": 32806314
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-02-17",
+    "open": 30.94,
+    "high": 32.49,
+    "low": 30.94,
+    "close": 32.34,
+    "adjusted_close": 26.1776,
+    "volume": 40705731
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-02-24",
+    "open": 32.39,
+    "high": 32.47,
+    "low": 31.47,
+    "close": 31.92,
+    "adjusted_close": 25.8377,
+    "volume": 19749939
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-03-03",
+    "open": 31.82,
+    "high": 31.82,
+    "low": 30.54,
+    "close": 30.85,
+    "adjusted_close": 24.9716,
+    "volume": 31475076
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-03-10",
+    "open": 30.8,
+    "high": 31.52,
+    "low": 30.71,
+    "close": 31.06,
+    "adjusted_close": 25.1415,
+    "volume": 28786310
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-03-17",
+    "open": 31.27,
+    "high": 32.76,
+    "low": 31.2,
+    "close": 32.59,
+    "adjusted_close": 26.38,
+    "volume": 27193031
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-03-24",
+    "open": 32.8,
+    "high": 33.53,
+    "low": 32.37,
+    "close": 32.81,
+    "adjusted_close": 26.5581,
+    "volume": 32810079
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-03-31",
+    "open": 32.85,
+    "high": 33.43,
+    "low": 32.57,
+    "close": 32.84,
+    "adjusted_close": 26.5824,
+    "volume": 23016283
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-04-07",
+    "open": 32.94,
+    "high": 33.33,
+    "low": 32.705,
+    "close": 32.87,
+    "adjusted_close": 26.6066,
+    "volume": 20509820
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-04-13",
+    "open": 32.87,
+    "high": 32.87,
+    "low": 31.82,
+    "close": 31.83,
+    "adjusted_close": 25.7648,
+    "volume": 26149195
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-04-21",
+    "open": 32.04,
+    "high": 32.14,
+    "low": 31.49,
+    "close": 32.08,
+    "adjusted_close": 25.9672,
+    "volume": 25892391
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-04-28",
+    "open": 32.58,
+    "high": 33.295,
+    "low": 32.485,
+    "close": 33.07,
+    "adjusted_close": 26.7685,
+    "volume": 28235391
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-05-05",
+    "open": 33.16,
+    "high": 34.44,
+    "low": 33.14,
+    "close": 34.42,
+    "adjusted_close": 27.8613,
+    "volume": 27612197
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-05-12",
+    "open": 34.7,
+    "high": 35.8,
+    "low": 34.63,
+    "close": 35.37,
+    "adjusted_close": 28.6303,
+    "volume": 35696453
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-05-19",
+    "open": 35.36,
+    "high": 35.39,
+    "low": 34.39,
+    "close": 35.2,
+    "adjusted_close": 28.4927,
+    "volume": 39546198
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-05-26",
+    "open": 35.39,
+    "high": 35.79,
+    "low": 35.26,
+    "close": 35.51,
+    "adjusted_close": 28.7436,
+    "volume": 27964447
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-06-02",
+    "open": 35.68,
+    "high": 36.23,
+    "low": 35.1,
+    "close": 36.18,
+    "adjusted_close": 29.2859,
+    "volume": 23678509
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-06-09",
+    "open": 36.56,
+    "high": 36.9,
+    "low": 35.2,
+    "close": 35.79,
+    "adjusted_close": 28.9702,
+    "volume": 36019349
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-06-16",
+    "open": 35.2,
+    "high": 35.95,
+    "low": 35.01,
+    "close": 35.87,
+    "adjusted_close": 29.035,
+    "volume": 35098426
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-06-23",
+    "open": 36.13,
+    "high": 36.92,
+    "low": 36.07,
+    "close": 36.73,
+    "adjusted_close": 29.7311,
+    "volume": 27672328
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-06-30",
+    "open": 36.44,
+    "high": 36.515,
+    "low": 34.531,
+    "close": 34.96,
+    "adjusted_close": 29.0198,
+    "volume": 39025163
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-07-07",
+    "open": 35.04,
+    "high": 35.17,
+    "low": 34.31,
+    "close": 34.63,
+    "adjusted_close": 28.7458,
+    "volume": 28124160
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-07-14",
+    "open": 34.61,
+    "high": 36.35,
+    "low": 34.55,
+    "close": 36.25,
+    "adjusted_close": 30.0906,
+    "volume": 43432154
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-07-21",
+    "open": 36.03,
+    "high": 36.42,
+    "low": 35.64,
+    "close": 35.85,
+    "adjusted_close": 29.7585,
+    "volume": 29889097
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-07-28",
+    "open": 36.11,
+    "high": 36.61,
+    "low": 35.7,
+    "close": 35.86,
+    "adjusted_close": 29.7668,
+    "volume": 27382304
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-08-04",
+    "open": 36.03,
+    "high": 36.47,
+    "low": 35.65,
+    "close": 36.03,
+    "adjusted_close": 29.9079,
+    "volume": 27250688
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-08-11",
+    "open": 36.26,
+    "high": 36.96,
+    "low": 35.34,
+    "close": 36.14,
+    "adjusted_close": 29.9993,
+    "volume": 21211501
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-08-18",
+    "open": 36.03,
+    "high": 36.49,
+    "low": 35.61,
+    "close": 35.86,
+    "adjusted_close": 29.7668,
+    "volume": 17944754
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-08-25",
+    "open": 35.91,
+    "high": 37.06,
+    "low": 35.63,
+    "close": 36.85,
+    "adjusted_close": 30.5886,
+    "volume": 17266469
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-09-01",
+    "open": 36.59,
+    "high": 37.24,
+    "low": 36.5,
+    "close": 37.22,
+    "adjusted_close": 30.8957,
+    "volume": 16425170
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-09-08",
+    "open": 37.25,
+    "high": 37.68,
+    "low": 36.6463,
+    "close": 37.5,
+    "adjusted_close": 31.1282,
+    "volume": 20489898
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-09-15",
+    "open": 37.39,
+    "high": 37.94,
+    "low": 37.35,
+    "close": 37.65,
+    "adjusted_close": 31.2527,
+    "volume": 28472635
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-09-22",
+    "open": 37.87,
+    "high": 38.43,
+    "low": 37.44,
+    "close": 37.77,
+    "adjusted_close": 31.3523,
+    "volume": 33687612
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-09-29",
+    "open": 37.5,
+    "high": 37.6,
+    "low": 36.79,
+    "close": 37.55,
+    "adjusted_close": 31.1697,
+    "volume": 28130335
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-10-06",
+    "open": 37.83,
+    "high": 38.85,
+    "low": 37.765,
+    "close": 38.46,
+    "adjusted_close": 31.9251,
+    "volume": 19084237
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-10-13",
+    "open": 38.6,
+    "high": 40.86,
+    "low": 38.5,
+    "close": 40.82,
+    "adjusted_close": 33.8841,
+    "volume": 24528701
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-10-20",
+    "open": 40.88,
+    "high": 41.72,
+    "low": 40.5,
+    "close": 41.12,
+    "adjusted_close": 34.1331,
+    "volume": 27905003
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-10-27",
+    "open": 41.37,
+    "high": 42.18,
+    "low": 40.7,
+    "close": 42.15,
+    "adjusted_close": 34.9881,
+    "volume": 20991816
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-11-03",
+    "open": 42.36,
+    "high": 42.66,
+    "low": 41.59,
+    "close": 42.19,
+    "adjusted_close": 35.0213,
+    "volume": 22537564
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-11-10",
+    "open": 42.19,
+    "high": 42.7099,
+    "low": 41.29,
+    "close": 41.72,
+    "adjusted_close": 34.6311,
+    "volume": 20597607
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-11-17",
+    "open": 41.72,
+    "high": 42.42,
+    "low": 41.28,
+    "close": 42.07,
+    "adjusted_close": 34.9217,
+    "volume": 15444993
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-11-24",
+    "open": 42.07,
+    "high": 43.02,
+    "low": 41.96,
+    "close": 42.99,
+    "adjusted_close": 35.6853,
+    "volume": 12392062
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-12-01",
+    "open": 41.67,
+    "high": 41.68,
+    "low": 39.0,
+    "close": 39.7,
+    "adjusted_close": 32.9544,
+    "volume": 41276928
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-12-08",
+    "open": 40.05,
+    "high": 40.13,
+    "low": 38.52,
+    "close": 39.0,
+    "adjusted_close": 32.3733,
+    "volume": 36592242
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-12-15",
+    "open": 39.19,
+    "high": 39.65,
+    "low": 39.08,
+    "close": 39.5,
+    "adjusted_close": 32.7883,
+    "volume": 26881816
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-12-22",
+    "open": 39.38,
+    "high": 39.66,
+    "low": 39.12,
+    "close": 39.63,
+    "adjusted_close": 32.8963,
+    "volume": 22618964
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2017-12-29",
+    "open": 39.31,
+    "high": 40.22,
+    "low": 38.81,
+    "close": 39.65,
+    "adjusted_close": 32.9129,
+    "volume": 14104744
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-01-05",
+    "open": 40.51,
+    "high": 42.57,
+    "low": 40.42,
+    "close": 42.46,
+    "adjusted_close": 35.2454,
+    "volume": 22154574
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-01-12",
+    "open": 42.4,
+    "high": 42.5,
+    "low": 40.72,
+    "close": 41.19,
+    "adjusted_close": 34.1912,
+    "volume": 27100641
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-01-19",
+    "open": 42.01,
+    "high": 45.54,
+    "low": 41.81,
+    "close": 44.67,
+    "adjusted_close": 37.0799,
+    "volume": 34609177
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-01-26",
+    "open": 46.0,
+    "high": 46.57,
+    "low": 45.03,
+    "close": 45.72,
+    "adjusted_close": 37.9515,
+    "volume": 36109392
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-02-02",
+    "open": 45.47,
+    "high": 45.93,
+    "low": 44.4,
+    "close": 44.51,
+    "adjusted_close": 36.9471,
+    "volume": 46920636
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-02-09",
+    "open": 44.05,
+    "high": 44.81,
+    "low": 39.96,
+    "close": 41.47,
+    "adjusted_close": 34.4236,
+    "volume": 62346281
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-02-16",
+    "open": 42.03,
+    "high": 43.96,
+    "low": 41.88,
+    "close": 43.48,
+    "adjusted_close": 36.0921,
+    "volume": 30174007
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-02-23",
+    "open": 43.08,
+    "high": 44.16,
+    "low": 42.18,
+    "close": 43.9,
+    "adjusted_close": 36.4407,
+    "volume": 31093136
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-03-02",
+    "open": 44.11,
+    "high": 44.41,
+    "low": 42.15,
+    "close": 43.01,
+    "adjusted_close": 35.7019,
+    "volume": 28908945
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-03-09",
+    "open": 43.05,
+    "high": 44.6,
+    "low": 42.87,
+    "close": 44.59,
+    "adjusted_close": 37.0135,
+    "volume": 34520669
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-03-16",
+    "open": 44.79,
+    "high": 45.75,
+    "low": 44.75,
+    "close": 44.97,
+    "adjusted_close": 37.3289,
+    "volume": 27386684
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-03-23",
+    "open": 44.72,
+    "high": 44.91,
+    "low": 42.58,
+    "close": 42.58,
+    "adjusted_close": 35.345,
+    "volume": 30799007
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-03-29",
+    "open": 43.81,
+    "high": 44.84,
+    "low": 42.44,
+    "close": 43.76,
+    "adjusted_close": 36.3245,
+    "volume": 28712292
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-04-06",
+    "open": 43.34,
+    "high": 44.28,
+    "low": 42.26,
+    "close": 42.42,
+    "adjusted_close": 35.2122,
+    "volume": 29281313
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-04-13",
+    "open": 43.09,
+    "high": 44.22,
+    "low": 42.56,
+    "close": 42.65,
+    "adjusted_close": 35.4031,
+    "volume": 30596001
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-04-20",
+    "open": 42.81,
+    "high": 43.01,
+    "low": 38.82,
+    "close": 38.95,
+    "adjusted_close": 32.3318,
+    "volume": 66825590
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-04-27",
+    "open": 38.96,
+    "high": 39.21,
+    "low": 37.99,
+    "close": 38.17,
+    "adjusted_close": 31.6843,
+    "volume": 52502806
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-05-04",
+    "open": 38.69,
+    "high": 38.94,
+    "low": 37.3,
+    "close": 38.59,
+    "adjusted_close": 32.033,
+    "volume": 41492649
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-05-11",
+    "open": 38.45,
+    "high": 40.18,
+    "low": 38.24,
+    "close": 39.91,
+    "adjusted_close": 33.1287,
+    "volume": 30710312
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-05-18",
+    "open": 40.13,
+    "high": 40.55,
+    "low": 38.28,
+    "close": 38.42,
+    "adjusted_close": 31.8918,
+    "volume": 34056508
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-05-25",
+    "open": 39.34,
+    "high": 39.79,
+    "low": 38.78,
+    "close": 39.3,
+    "adjusted_close": 32.6223,
+    "volume": 31803485
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-06-01",
+    "open": 38.49,
+    "high": 39.2,
+    "low": 38.03,
+    "close": 39.2,
+    "adjusted_close": 32.5393,
+    "volume": 29710946
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-06-08",
+    "open": 39.85,
+    "high": 40.0,
+    "low": 38.52,
+    "close": 38.93,
+    "adjusted_close": 32.3152,
+    "volume": 41401004
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-06-15",
+    "open": 39.0,
+    "high": 39.89,
+    "low": 38.55,
+    "close": 38.69,
+    "adjusted_close": 32.116,
+    "volume": 39582473
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-06-22",
+    "open": 38.31,
+    "high": 38.59,
+    "low": 37.35,
+    "close": 38.12,
+    "adjusted_close": 31.6428,
+    "volume": 47095829
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-06-29",
+    "open": 36.3,
+    "high": 36.77,
+    "low": 35.35,
+    "close": 36.56,
+    "adjusted_close": 31.4662,
+    "volume": 43433969
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-07-06",
+    "open": 36.21,
+    "high": 37.35,
+    "low": 36.04,
+    "close": 37.27,
+    "adjusted_close": 32.0773,
+    "volume": 30369565
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-07-13",
+    "open": 37.87,
+    "high": 38.03,
+    "low": 36.9,
+    "close": 37.77,
+    "adjusted_close": 32.5076,
+    "volume": 31874907
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-07-20",
+    "open": 37.88,
+    "high": 40.85,
+    "low": 37.35,
+    "close": 40.73,
+    "adjusted_close": 35.0552,
+    "volume": 54413248
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-07-27",
+    "open": 40.82,
+    "high": 41.92,
+    "low": 40.31,
+    "close": 41.45,
+    "adjusted_close": 35.6749,
+    "volume": 39518574
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-08-03",
+    "open": 41.45,
+    "high": 41.95,
+    "low": 40.89,
+    "close": 41.69,
+    "adjusted_close": 35.8814,
+    "volume": 25442559
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-08-10",
+    "open": 41.2,
+    "high": 42.11,
+    "low": 40.79,
+    "close": 41.03,
+    "adjusted_close": 35.3134,
+    "volume": 31396825
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-08-17",
+    "open": 40.69,
+    "high": 41.19,
+    "low": 39.79,
+    "close": 40.13,
+    "adjusted_close": 34.5388,
+    "volume": 31541980
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-08-24",
+    "open": 40.02,
+    "high": 41.41,
+    "low": 39.9,
+    "close": 41.24,
+    "adjusted_close": 35.4941,
+    "volume": 24103077
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-08-31",
+    "open": 41.43,
+    "high": 44.49,
+    "low": 41.37,
+    "close": 43.6,
+    "adjusted_close": 37.5253,
+    "volume": 45304053
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-09-07",
+    "open": 43.26,
+    "high": 45.24,
+    "low": 43.19,
+    "close": 44.88,
+    "adjusted_close": 38.627,
+    "volume": 40118470
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-09-14",
+    "open": 45.0,
+    "high": 45.06,
+    "low": 43.27,
+    "close": 44.41,
+    "adjusted_close": 38.2225,
+    "volume": 44558240
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-09-21",
+    "open": 43.63,
+    "high": 44.43,
+    "low": 43.35,
+    "close": 44.06,
+    "adjusted_close": 37.9212,
+    "volume": 32814379
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-09-28",
+    "open": 43.84,
+    "high": 45.23,
+    "low": 43.79,
+    "close": 44.16,
+    "adjusted_close": 38.0073,
+    "volume": 33911578
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-10-05",
+    "open": 44.55,
+    "high": 44.96,
+    "low": 41.17,
+    "close": 41.63,
+    "adjusted_close": 35.8298,
+    "volume": 31907876
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-10-12",
+    "open": 40.76,
+    "high": 41.3,
+    "low": 38.33,
+    "close": 39.66,
+    "adjusted_close": 34.1343,
+    "volume": 44082446
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-10-19",
+    "open": 39.47,
+    "high": 40.09,
+    "low": 38.34,
+    "close": 38.45,
+    "adjusted_close": 33.0928,
+    "volume": 47952564
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-10-26",
+    "open": 39.19,
+    "high": 39.23,
+    "low": 36.14,
+    "close": 36.67,
+    "adjusted_close": 31.5608,
+    "volume": 55728863
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-11-02",
+    "open": 37.17,
+    "high": 39.49,
+    "low": 35.97,
+    "close": 38.78,
+    "adjusted_close": 33.3769,
+    "volume": 57071913
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-11-09",
+    "open": 38.72,
+    "high": 39.3,
+    "low": 37.81,
+    "close": 38.07,
+    "adjusted_close": 32.7658,
+    "volume": 37667754
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-11-16",
+    "open": 37.86,
+    "high": 38.57,
+    "low": 36.66,
+    "close": 36.87,
+    "adjusted_close": 31.733,
+    "volume": 64351510
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-11-23",
+    "open": 36.64,
+    "high": 36.72,
+    "low": 35.22,
+    "close": 35.96,
+    "adjusted_close": 30.9498,
+    "volume": 36198715
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-11-30",
+    "open": 36.71,
+    "high": 38.37,
+    "low": 36.39,
+    "close": 37.59,
+    "adjusted_close": 32.3527,
+    "volume": 38119225
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-12-07",
+    "open": 38.82,
+    "high": 39.0,
+    "low": 35.61,
+    "close": 36.52,
+    "adjusted_close": 31.4317,
+    "volume": 43655701
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-12-14",
+    "open": 36.31,
+    "high": 37.7,
+    "low": 36.08,
+    "close": 36.53,
+    "adjusted_close": 31.4404,
+    "volume": 41276007
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-12-21",
+    "open": 36.63,
+    "high": 37.275,
+    "low": 35.54,
+    "close": 35.71,
+    "adjusted_close": 30.7346,
+    "volume": 59141809
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2018-12-28",
+    "open": 35.56,
+    "high": 37.68,
+    "low": 35.27,
+    "close": 37.14,
+    "adjusted_close": 31.9654,
+    "volume": 32409605
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-01-04",
+    "open": 37.43,
+    "high": 37.585,
+    "low": 34.21,
+    "close": 34.97,
+    "adjusted_close": 30.0977,
+    "volume": 40049986
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-01-11",
+    "open": 35.01,
+    "high": 36.77,
+    "low": 34.64,
+    "close": 36.61,
+    "adjusted_close": 31.5092,
+    "volume": 45211488
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-01-18",
+    "open": 36.13,
+    "high": 37.01,
+    "low": 34.83,
+    "close": 36.84,
+    "adjusted_close": 31.7072,
+    "volume": 59862589
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-01-25",
+    "open": 36.5,
+    "high": 38.26,
+    "low": 36.1,
+    "close": 38.14,
+    "adjusted_close": 32.826,
+    "volume": 58158302
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-02-01",
+    "open": 36.92,
+    "high": 38.1,
+    "low": 36.29,
+    "close": 37.57,
+    "adjusted_close": 32.3355,
+    "volume": 47540955
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-02-08",
+    "open": 37.5,
+    "high": 38.82,
+    "low": 37.38,
+    "close": 37.79,
+    "adjusted_close": 32.5248,
+    "volume": 38456689
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-02-15",
+    "open": 37.92,
+    "high": 38.77,
+    "low": 37.76,
+    "close": 38.09,
+    "adjusted_close": 32.783,
+    "volume": 38887770
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-02-22",
+    "open": 38.22,
+    "high": 39.51,
+    "low": 38.105,
+    "close": 39.39,
+    "adjusted_close": 33.9019,
+    "volume": 25009513
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-03-01",
+    "open": 39.87,
+    "high": 39.92,
+    "low": 39.0,
+    "close": 39.39,
+    "adjusted_close": 33.9019,
+    "volume": 29888019
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-03-08",
+    "open": 39.33,
+    "high": 39.33,
+    "low": 37.94,
+    "close": 38.2,
+    "adjusted_close": 32.8777,
+    "volume": 28004580
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-03-15",
+    "open": 38.23,
+    "high": 40.07,
+    "low": 38.2,
+    "close": 39.65,
+    "adjusted_close": 34.1257,
+    "volume": 31478392
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-03-22",
+    "open": 39.86,
+    "high": 41.24,
+    "low": 39.6,
+    "close": 40.43,
+    "adjusted_close": 34.797,
+    "volume": 32987371
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-03-29",
+    "open": 40.0,
+    "high": 41.05,
+    "low": 39.77,
+    "close": 40.96,
+    "adjusted_close": 35.2531,
+    "volume": 30884682
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-04-05",
+    "open": 41.08,
+    "high": 42.34,
+    "low": 40.74,
+    "close": 42.23,
+    "adjusted_close": 36.3462,
+    "volume": 31276367
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-04-12",
+    "open": 42.24,
+    "high": 42.65,
+    "low": 41.95,
+    "close": 42.58,
+    "adjusted_close": 36.6474,
+    "volume": 27648413
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-04-18",
+    "open": 42.58,
+    "high": 45.64,
+    "low": 42.46,
+    "close": 45.4,
+    "adjusted_close": 39.0745,
+    "volume": 44279206
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-04-26",
+    "open": 44.79,
+    "high": 45.59,
+    "low": 43.32,
+    "close": 43.94,
+    "adjusted_close": 37.8179,
+    "volume": 55982074
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-05-03",
+    "open": 43.85,
+    "high": 45.14,
+    "low": 43.26,
+    "close": 44.71,
+    "adjusted_close": 38.4807,
+    "volume": 44652241
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-05-10",
+    "open": 43.32,
+    "high": 44.05,
+    "low": 42.19,
+    "close": 42.83,
+    "adjusted_close": 36.8626,
+    "volume": 48637665
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-05-17",
+    "open": 41.37,
+    "high": 42.33,
+    "low": 40.09,
+    "close": 40.25,
+    "adjusted_close": 34.6421,
+    "volume": 43987388
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-05-24",
+    "open": 39.25,
+    "high": 39.39,
+    "low": 37.41,
+    "close": 38.2,
+    "adjusted_close": 32.8777,
+    "volume": 63253421
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-05-31",
+    "open": 38.13,
+    "high": 38.97,
+    "low": 37.18,
+    "close": 38.35,
+    "adjusted_close": 33.0068,
+    "volume": 42182319
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-06-07",
+    "open": 38.96,
+    "high": 39.26,
+    "low": 37.92,
+    "close": 38.82,
+    "adjusted_close": 33.4113,
+    "volume": 35515238
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-06-14",
+    "open": 39.49,
+    "high": 40.6,
+    "low": 37.83,
+    "close": 37.84,
+    "adjusted_close": 32.5678,
+    "volume": 38544035
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-06-21",
+    "open": 37.92,
+    "high": 40.72,
+    "low": 37.66,
+    "close": 40.52,
+    "adjusted_close": 34.8744,
+    "volume": 52188274
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-06-28",
+    "open": 39.56,
+    "high": 40.07,
+    "low": 38.91,
+    "close": 39.17,
+    "adjusted_close": 34.7882,
+    "volume": 40909943
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-07-05",
+    "open": 41.54,
+    "high": 41.9,
+    "low": 39.64,
+    "close": 39.93,
+    "adjusted_close": 35.4632,
+    "volume": 21805921
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-07-12",
+    "open": 39.57,
+    "high": 41.27,
+    "low": 39.24,
+    "close": 41.23,
+    "adjusted_close": 36.6177,
+    "volume": 32116587
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-07-19",
+    "open": 41.75,
+    "high": 44.02,
+    "low": 41.52,
+    "close": 43.83,
+    "adjusted_close": 38.9269,
+    "volume": 40529553
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-07-26",
+    "open": 44.2,
+    "high": 44.88,
+    "low": 43.38,
+    "close": 43.46,
+    "adjusted_close": 38.5983,
+    "volume": 34725232
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-08-02",
+    "open": 43.52,
+    "high": 43.95,
+    "low": 41.01,
+    "close": 41.65,
+    "adjusted_close": 36.9908,
+    "volume": 35649244
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-08-09",
+    "open": 40.41,
+    "high": 42.18,
+    "low": 39.78,
+    "close": 41.41,
+    "adjusted_close": 36.7776,
+    "volume": 32097239
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-08-16",
+    "open": 41.05,
+    "high": 41.99,
+    "low": 40.25,
+    "close": 41.54,
+    "adjusted_close": 36.8931,
+    "volume": 34535620
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-08-23",
+    "open": 42.16,
+    "high": 42.64,
+    "low": 40.86,
+    "close": 40.95,
+    "adjusted_close": 36.3691,
+    "volume": 25924980
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-08-30",
+    "open": 41.37,
+    "high": 42.89,
+    "low": 41.05,
+    "close": 42.63,
+    "adjusted_close": 37.8611,
+    "volume": 23851805
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-09-06",
+    "open": 42.15,
+    "high": 44.51,
+    "low": 41.58,
+    "close": 43.71,
+    "adjusted_close": 38.8203,
+    "volume": 21232402
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-09-13",
+    "open": 43.91,
+    "high": 44.83,
+    "low": 43.36,
+    "close": 44.74,
+    "adjusted_close": 39.7351,
+    "volume": 26466292
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-09-20",
+    "open": 44.53,
+    "high": 45.22,
+    "low": 43.87,
+    "close": 43.87,
+    "adjusted_close": 39.2438,
+    "volume": 27938579
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-09-27",
+    "open": 44.18,
+    "high": 46.51,
+    "low": 43.85,
+    "close": 45.51,
+    "adjusted_close": 40.7108,
+    "volume": 45330531
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-10-04",
+    "open": 46.57,
+    "high": 47.85,
+    "low": 46.12,
+    "close": 47.42,
+    "adjusted_close": 42.4194,
+    "volume": 37788946
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-10-11",
+    "open": 47.73,
+    "high": 49.79,
+    "low": 47.43,
+    "close": 49.42,
+    "adjusted_close": 44.2085,
+    "volume": 53148533
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-10-18",
+    "open": 49.42,
+    "high": 51.21,
+    "low": 49.13,
+    "close": 49.28,
+    "adjusted_close": 44.0833,
+    "volume": 52918425
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-10-25",
+    "open": 49.53,
+    "high": 51.23,
+    "low": 49.33,
+    "close": 51.13,
+    "adjusted_close": 45.7382,
+    "volume": 38045971
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-11-01",
+    "open": 51.4,
+    "high": 52.1,
+    "low": 51.05,
+    "close": 52.1,
+    "adjusted_close": 46.6059,
+    "volume": 28594176
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-11-08",
+    "open": 53.55,
+    "high": 54.37,
+    "low": 52.53,
+    "close": 52.83,
+    "adjusted_close": 47.2589,
+    "volume": 31939765
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-11-15",
+    "open": 52.39,
+    "high": 53.39,
+    "low": 52.03,
+    "close": 53.29,
+    "adjusted_close": 47.6704,
+    "volume": 29334339
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-11-22",
+    "open": 53.39,
+    "high": 54.14,
+    "low": 52.74,
+    "close": 52.79,
+    "adjusted_close": 47.2232,
+    "volume": 24979192
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-11-29",
+    "open": 53.09,
+    "high": 54.06,
+    "low": 52.8,
+    "close": 53.09,
+    "adjusted_close": 47.4915,
+    "volume": 16871889
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-12-06",
+    "open": 53.55,
+    "high": 55.03,
+    "low": 52.18,
+    "close": 54.94,
+    "adjusted_close": 49.1464,
+    "volume": 26951036
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-12-13",
+    "open": 55.05,
+    "high": 59.52,
+    "low": 54.32,
+    "close": 58.25,
+    "adjusted_close": 52.1074,
+    "volume": 47596268
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-12-20",
+    "open": 58.29,
+    "high": 59.71,
+    "low": 57.32,
+    "close": 57.93,
+    "adjusted_close": 52.1877,
+    "volume": 39480315
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2019-12-27",
+    "open": 58.03,
+    "high": 58.71,
+    "low": 57.55,
+    "close": 58.46,
+    "adjusted_close": 52.6651,
+    "volume": 12052391
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-01-03",
+    "open": 58.66,
+    "high": 60.12,
+    "low": 57.46,
+    "close": 58.06,
+    "adjusted_close": 52.3048,
+    "volume": 25448792
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-01-10",
+    "open": 57.6,
+    "high": 59.71,
+    "low": 56.74,
+    "close": 58.86,
+    "adjusted_close": 53.0255,
+    "volume": 31695541
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-01-17",
+    "open": 60.15,
+    "high": 60.64,
+    "low": 58.01,
+    "close": 58.58,
+    "adjusted_close": 52.7733,
+    "volume": 42735839
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-01-24",
+    "open": 57.99,
+    "high": 59.0,
+    "low": 56.62,
+    "close": 57.73,
+    "adjusted_close": 52.0075,
+    "volume": 38387520
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-01-31",
+    "open": 55.62,
+    "high": 57.52,
+    "low": 53.6,
+    "close": 53.94,
+    "adjusted_close": 48.5932,
+    "volume": 49226270
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-02-07",
+    "open": 54.35,
+    "high": 58.28,
+    "low": 54.14,
+    "close": 56.2,
+    "adjusted_close": 50.6292,
+    "volume": 39974334
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-02-14",
+    "open": 56.44,
+    "high": 59.75,
+    "low": 56.34,
+    "close": 58.19,
+    "adjusted_close": 52.4219,
+    "volume": 30149767
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-02-21",
+    "open": 56.1,
+    "high": 57.94,
+    "low": 55.52,
+    "close": 55.59,
+    "adjusted_close": 50.0796,
+    "volume": 32859355
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-02-28",
+    "open": 53.55,
+    "high": 55.47,
+    "low": 51.0,
+    "close": 53.84,
+    "adjusted_close": 48.5031,
+    "volume": 59077936
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-03-06",
+    "open": 54.37,
+    "high": 57.09,
+    "low": 53.83,
+    "close": 55.07,
+    "adjusted_close": 49.6112,
+    "volume": 61305292
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-03-13",
+    "open": 51.55,
+    "high": 54.62,
+    "low": 48.51,
+    "close": 52.23,
+    "adjusted_close": 47.0527,
+    "volume": 70646823
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-03-20",
+    "open": 46.34,
+    "high": 48.56,
+    "low": 42.7,
+    "close": 44.53,
+    "adjusted_close": 40.4969,
+    "volume": 70382433
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-03-27",
+    "open": 45.12,
+    "high": 50.46,
+    "low": 43.52,
+    "close": 46.91,
+    "adjusted_close": 42.6613,
+    "volume": 55235287
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-04-03",
+    "open": 47.18,
+    "high": 49.03,
+    "low": 46.3,
+    "close": 47.06,
+    "adjusted_close": 42.7977,
+    "volume": 38427323
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-04-09",
+    "open": 48.63,
+    "high": 51.32,
+    "low": 47.72,
+    "close": 48.33,
+    "adjusted_close": 43.9527,
+    "volume": 32529291
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-04-17",
+    "open": 48.74,
+    "high": 54.19,
+    "low": 47.96,
+    "close": 53.69,
+    "adjusted_close": 48.8272,
+    "volume": 60196212
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-04-24",
+    "open": 53.0,
+    "high": 53.82,
+    "low": 50.52,
+    "close": 52.73,
+    "adjusted_close": 47.9542,
+    "volume": 44575401
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-05-01",
+    "open": 53.15,
+    "high": 54.69,
+    "low": 51.09,
+    "close": 51.1,
+    "adjusted_close": 46.4718,
+    "volume": 39505047
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-05-08",
+    "open": 51.79,
+    "high": 53.34,
+    "low": 51.28,
+    "close": 52.91,
+    "adjusted_close": 48.1179,
+    "volume": 35074638
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-05-15",
+    "open": 52.61,
+    "high": 52.83,
+    "low": 49.38,
+    "close": 49.8,
+    "adjusted_close": 45.2896,
+    "volume": 55055984
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-05-22",
+    "open": 50.94,
+    "high": 52.21,
+    "low": 49.61,
+    "close": 49.8,
+    "adjusted_close": 45.2896,
+    "volume": 54359653
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-05-29",
+    "open": 51.3,
+    "high": 51.74,
+    "low": 49.86,
+    "close": 50.33,
+    "adjusted_close": 45.7715,
+    "volume": 39371015
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-06-05",
+    "open": 50.91,
+    "high": 56.34,
+    "low": 50.54,
+    "close": 55.2,
+    "adjusted_close": 50.2005,
+    "volume": 43662086
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-06-12",
+    "open": 55.74,
+    "high": 58.04,
+    "low": 54.71,
+    "close": 56.0,
+    "adjusted_close": 50.928,
+    "volume": 44543683
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-06-19",
+    "open": 54.71,
+    "high": 57.0,
+    "low": 54.52,
+    "close": 55.31,
+    "adjusted_close": 50.6772,
+    "volume": 38375468
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-06-26",
+    "open": 55.5,
+    "high": 57.26,
+    "low": 55.32,
+    "close": 56.33,
+    "adjusted_close": 51.6117,
+    "volume": 30116965
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-07-02",
+    "open": 56.34,
+    "high": 59.07,
+    "low": 55.66,
+    "close": 58.62,
+    "adjusted_close": 53.7099,
+    "volume": 29056665
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-07-10",
+    "open": 60.67,
+    "high": 64.97,
+    "low": 60.56,
+    "close": 63.85,
+    "adjusted_close": 58.5018,
+    "volume": 55696864
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-07-17",
+    "open": 65.2,
+    "high": 68.0,
+    "low": 64.32,
+    "close": 66.4,
+    "adjusted_close": 60.8382,
+    "volume": 66937052
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-07-24",
+    "open": 66.7,
+    "high": 76.89,
+    "low": 65.8,
+    "close": 73.9,
+    "adjusted_close": 67.71,
+    "volume": 74121964
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-07-31",
+    "open": 81.36,
+    "high": 83.4,
+    "low": 76.49,
+    "close": 78.89,
+    "adjusted_close": 72.2821,
+    "volume": 128550741
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-08-07",
+    "open": 77.77,
+    "high": 84.0,
+    "low": 77.41,
+    "close": 80.03,
+    "adjusted_close": 73.3266,
+    "volume": 55699035
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-08-14",
+    "open": 80.55,
+    "high": 80.85,
+    "low": 77.73,
+    "close": 78.41,
+    "adjusted_close": 71.8423,
+    "volume": 34999703
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-08-21",
+    "open": 79.8,
+    "high": 80.89,
+    "low": 75.98,
+    "close": 78.34,
+    "adjusted_close": 71.7781,
+    "volume": 42744809
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-08-28",
+    "open": 79.73,
+    "high": 82.31,
+    "low": 78.49,
+    "close": 80.44,
+    "adjusted_close": 73.7022,
+    "volume": 34058068
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-09-04",
+    "open": 79.0,
+    "high": 82.71,
+    "low": 77.41,
+    "close": 78.91,
+    "adjusted_close": 72.3004,
+    "volume": 66317757
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-09-11",
+    "open": 78.02,
+    "high": 81.23,
+    "low": 77.22,
+    "close": 78.82,
+    "adjusted_close": 72.2179,
+    "volume": 38516305
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-09-18",
+    "open": 80.5,
+    "high": 86.79,
+    "low": 79.95,
+    "close": 80.23,
+    "adjusted_close": 73.8926,
+    "volume": 63264031
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-09-25",
+    "open": 79.8,
+    "high": 80.89,
+    "low": 76.17,
+    "close": 78.88,
+    "adjusted_close": 72.6493,
+    "volume": 39885415
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-10-02",
+    "open": 80.31,
+    "high": 82.72,
+    "low": 79.31,
+    "close": 80.8,
+    "adjusted_close": 74.4176,
+    "volume": 30395093
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-10-09",
+    "open": 81.55,
+    "high": 88.86,
+    "low": 81.55,
+    "close": 88.78,
+    "adjusted_close": 81.7673,
+    "volume": 47900616
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-10-16",
+    "open": 89.12,
+    "high": 91.27,
+    "low": 86.44,
+    "close": 86.7,
+    "adjusted_close": 79.8516,
+    "volume": 44260554
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-10-23",
+    "open": 88.34,
+    "high": 89.62,
+    "low": 87.29,
+    "close": 88.31,
+    "adjusted_close": 81.3344,
+    "volume": 32565856
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-10-30",
+    "open": 87.21,
+    "high": 87.78,
+    "low": 83.16,
+    "close": 83.87,
+    "adjusted_close": 77.2451,
+    "volume": 30421233
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-11-06",
+    "open": 84.6,
+    "high": 91.5,
+    "low": 84.53,
+    "close": 91.41,
+    "adjusted_close": 84.1895,
+    "volume": 33565647
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-11-13",
+    "open": 92.2,
+    "high": 93.81,
+    "low": 86.7,
+    "close": 93.22,
+    "adjusted_close": 85.8566,
+    "volume": 41697516
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-11-20",
+    "open": 96.42,
+    "high": 102.44,
+    "low": 95.3,
+    "close": 95.33,
+    "adjusted_close": 87.7999,
+    "volume": 48685243
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-11-27",
+    "open": 97.16,
+    "high": 99.27,
+    "low": 96.02,
+    "close": 98.74,
+    "adjusted_close": 90.9405,
+    "volume": 25353684
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-12-04",
+    "open": 97.56,
+    "high": 104.3,
+    "low": 96.2,
+    "close": 103.73,
+    "adjusted_close": 95.5364,
+    "volume": 56643815
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-12-11",
+    "open": 106.02,
+    "high": 107.84,
+    "low": 102.2,
+    "close": 104.03,
+    "adjusted_close": 95.8127,
+    "volume": 44500908
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-12-18",
+    "open": 103.77,
+    "high": 106.38,
+    "low": 103.155,
+    "close": 104.28,
+    "adjusted_close": 96.4517,
+    "volume": 34465202
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-12-24",
+    "open": 103.56,
+    "high": 106.34,
+    "low": 102.91,
+    "close": 105.97,
+    "adjusted_close": 98.0149,
+    "volume": 18210319
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2020-12-31",
+    "open": 107.6,
+    "high": 109.7,
+    "low": 105.22,
+    "close": 109.04,
+    "adjusted_close": 100.8544,
+    "volume": 24231222
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-01-08",
+    "open": 111.47,
+    "high": 126.29,
+    "low": 110.445,
+    "close": 118.69,
+    "adjusted_close": 109.78,
+    "volume": 64987853
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-01-15",
+    "open": 119.74,
+    "high": 134.645,
+    "low": 118.0,
+    "close": 125.23,
+    "adjusted_close": 115.829,
+    "volume": 101232120
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-01-22",
+    "open": 130.59,
+    "high": 136.13,
+    "low": 128.44,
+    "close": 129.14,
+    "adjusted_close": 119.4455,
+    "volume": 72577661
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-01-29",
+    "open": 131.83,
+    "high": 132.17,
+    "low": 120.55,
+    "close": 121.52,
+    "adjusted_close": 112.3975,
+    "volume": 83603907
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-02-05",
+    "open": 124.54,
+    "high": 130.2488,
+    "low": 123.38,
+    "close": 127.78,
+    "adjusted_close": 118.1876,
+    "volume": 42798794
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-02-12",
+    "open": 128.7,
+    "high": 139.805,
+    "low": 128.7,
+    "close": 138.06,
+    "adjusted_close": 127.6959,
+    "volume": 54323164
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-02-19",
+    "open": 141.61,
+    "high": 142.195,
+    "low": 133.4,
+    "close": 136.66,
+    "adjusted_close": 126.401,
+    "volume": 46483618
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-02-26",
+    "open": 133.59,
+    "high": 135.28,
+    "low": 122.83,
+    "close": 125.94,
+    "adjusted_close": 116.4857,
+    "volume": 72127149
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-03-05",
+    "open": 129.63,
+    "high": 130.3,
+    "low": 113.49,
+    "close": 120.8,
+    "adjusted_close": 111.7316,
+    "volume": 70552709
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-03-12",
+    "open": 120.54,
+    "high": 121.0,
+    "low": 113.41,
+    "close": 118.3,
+    "adjusted_close": 109.4192,
+    "volume": 73466922
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-03-19",
+    "open": 118.65,
+    "high": 121.245,
+    "low": 113.21,
+    "close": 113.63,
+    "adjusted_close": 105.4966,
+    "volume": 51445120
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-03-26",
+    "open": 114.79,
+    "high": 118.33,
+    "low": 107.89,
+    "close": 116.56,
+    "adjusted_close": 108.2169,
+    "volume": 72233193
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-04-01",
+    "open": 116.55,
+    "high": 124.88,
+    "low": 112.39,
+    "close": 124.8,
+    "adjusted_close": 115.867,
+    "volume": 46780366
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-04-09",
+    "open": 127.07,
+    "high": 127.4,
+    "low": 119.84,
+    "close": 122.8,
+    "adjusted_close": 114.0102,
+    "volume": 56891326
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-04-16",
+    "open": 122.21,
+    "high": 122.9,
+    "low": 116.56,
+    "close": 118.84,
+    "adjusted_close": 110.3337,
+    "volume": 55996172
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-04-23",
+    "open": 118.0,
+    "high": 118.88,
+    "low": 113.77,
+    "close": 118.64,
+    "adjusted_close": 110.148,
+    "volume": 46200192
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-04-30",
+    "open": 120.0,
+    "high": 121.65,
+    "low": 116.65,
+    "close": 116.74,
+    "adjusted_close": 108.384,
+    "volume": 37194832
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-05-07",
+    "open": 117.47,
+    "high": 119.42,
+    "low": 113.74,
+    "close": 116.83,
+    "adjusted_close": 108.4675,
+    "volume": 42237951
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-05-14",
+    "open": 114.98,
+    "high": 115.38,
+    "low": 107.9,
+    "close": 112.46,
+    "adjusted_close": 104.4103,
+    "volume": 56334478
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-05-21",
+    "open": 109.07,
+    "high": 114.0,
+    "low": 107.87,
+    "close": 111.85,
+    "adjusted_close": 103.844,
+    "volume": 37867553
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-05-28",
+    "open": 112.26,
+    "high": 117.84,
+    "low": 112.12,
+    "close": 117.36,
+    "adjusted_close": 108.9596,
+    "volume": 30492895
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-06-04",
+    "open": 119.71,
+    "high": 120.04,
+    "low": 116.461,
+    "close": 119.51,
+    "adjusted_close": 110.9557,
+    "volume": 23243638
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-06-11",
+    "open": 118.14,
+    "high": 118.85,
+    "low": 115.06,
+    "close": 118.25,
+    "adjusted_close": 109.7859,
+    "volume": 38835610
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-06-18",
+    "open": 118.55,
+    "high": 122.0,
+    "low": 115.21,
+    "close": 115.79,
+    "adjusted_close": 107.9092,
+    "volume": 43879379
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-06-25",
+    "open": 115.38,
+    "high": 117.925,
+    "low": 112.01,
+    "close": 116.53,
+    "adjusted_close": 108.5989,
+    "volume": 45307347
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-07-02",
+    "open": 117.29,
+    "high": 120.76,
+    "low": 117.18,
+    "close": 118.91,
+    "adjusted_close": 110.8169,
+    "volume": 40281737
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-07-09",
+    "open": 119.85,
+    "high": 121.05,
+    "low": 115.38,
+    "close": 120.56,
+    "adjusted_close": 112.3546,
+    "volume": 30512820
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-07-16",
+    "open": 121.19,
+    "high": 125.78,
+    "low": 115.17,
+    "close": 115.74,
+    "adjusted_close": 107.8626,
+    "volume": 70561080
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-07-23",
+    "open": 114.0,
+    "high": 118.09,
+    "low": 113.23,
+    "close": 116.79,
+    "adjusted_close": 108.8412,
+    "volume": 33423345
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-07-30",
+    "open": 115.79,
+    "high": 117.42,
+    "low": 112.0455,
+    "close": 116.64,
+    "adjusted_close": 108.7014,
+    "volume": 38002532
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-08-06",
+    "open": 117.5,
+    "high": 119.55,
+    "low": 116.66,
+    "close": 118.21,
+    "adjusted_close": 110.1645,
+    "volume": 24947934
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-08-13",
+    "open": 118.42,
+    "high": 119.05,
+    "low": 114.08,
+    "close": 115.5,
+    "adjusted_close": 107.639,
+    "volume": 24812193
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-08-20",
+    "open": 115.1,
+    "high": 115.48,
+    "low": 107.68,
+    "close": 108.12,
+    "adjusted_close": 100.7612,
+    "volume": 53194271
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-08-27",
+    "open": 110.08,
+    "high": 119.3,
+    "low": 109.27,
+    "close": 118.49,
+    "adjusted_close": 110.4255,
+    "volume": 55079882
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-09-03",
+    "open": 118.88,
+    "high": 124.48,
+    "low": 118.47,
+    "close": 123.97,
+    "adjusted_close": 115.5325,
+    "volume": 40702780
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-09-10",
+    "open": 124.62,
+    "high": 125.28,
+    "low": 121.23,
+    "close": 122.97,
+    "adjusted_close": 114.6005,
+    "volume": 27995404
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-09-17",
+    "open": 122.94,
+    "high": 124.1,
+    "low": 117.69,
+    "close": 117.75,
+    "adjusted_close": 110.187,
+    "volume": 35330348
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-09-24",
+    "open": 115.2,
+    "high": 116.97,
+    "low": 113.55,
+    "close": 115.64,
+    "adjusted_close": 108.2126,
+    "volume": 32459423
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-10-01",
+    "open": 115.7,
+    "high": 116.57,
+    "low": 110.3,
+    "close": 111.56,
+    "adjusted_close": 104.3946,
+    "volume": 33266540
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-10-08",
+    "open": 111.0,
+    "high": 111.71,
+    "low": 107.58,
+    "close": 110.04,
+    "adjusted_close": 102.9722,
+    "volume": 37073064
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-10-15",
+    "open": 110.08,
+    "high": 114.95,
+    "low": 108.555,
+    "close": 114.86,
+    "adjusted_close": 107.4827,
+    "volume": 50947501
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-10-22",
+    "open": 113.42,
+    "high": 117.15,
+    "low": 113.42,
+    "close": 114.23,
+    "adjusted_close": 106.8931,
+    "volume": 31308980
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-10-29",
+    "open": 114.4,
+    "high": 116.02,
+    "low": 113.11,
+    "close": 113.7,
+    "adjusted_close": 106.3972,
+    "volume": 29747614
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-11-05",
+    "open": 113.58,
+    "high": 119.5299,
+    "low": 112.41,
+    "close": 117.8,
+    "adjusted_close": 110.2338,
+    "volume": 38712286
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-11-12",
+    "open": 118.39,
+    "high": 123.27,
+    "low": 117.05,
+    "close": 118.69,
+    "adjusted_close": 111.0667,
+    "volume": 48525586
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-11-19",
+    "open": 119.32,
+    "high": 124.8,
+    "low": 117.16,
+    "close": 124.26,
+    "adjusted_close": 116.2789,
+    "volume": 39409470
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-11-26",
+    "open": 123.5,
+    "high": 128.09,
+    "low": 116.52,
+    "close": 117.09,
+    "adjusted_close": 109.5694,
+    "volume": 40829492
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-12-03",
+    "open": 118.36,
+    "high": 123.51,
+    "low": 115.76,
+    "close": 119.33,
+    "adjusted_close": 111.6656,
+    "volume": 47369706
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-12-10",
+    "open": 118.89,
+    "high": 122.58,
+    "low": 116.58,
+    "close": 119.13,
+    "adjusted_close": 111.4784,
+    "volume": 31013918
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-12-17",
+    "open": 118.86,
+    "high": 120.75,
+    "low": 115.25,
+    "close": 116.32,
+    "adjusted_close": 109.312,
+    "volume": 39704061
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-12-23",
+    "open": 115.92,
+    "high": 121.79,
+    "low": 113.91,
+    "close": 120.68,
+    "adjusted_close": 113.4093,
+    "volume": 28916344
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2021-12-31",
+    "open": 121.22,
+    "high": 123.66,
+    "low": 120.19,
+    "close": 120.31,
+    "adjusted_close": 113.0616,
+    "volume": 26513004
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-01-07",
+    "open": 124.125,
+    "high": 135.5,
+    "low": 123.31,
+    "close": 123.5,
+    "adjusted_close": 116.0594,
+    "volume": 99581381
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-01-14",
+    "open": 125.11,
+    "high": 145.0,
+    "low": 123.26,
+    "close": 140.66,
+    "adjusted_close": 132.1856,
+    "volume": 120431884
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-01-21",
+    "open": 136.75,
+    "high": 137.1799,
+    "low": 124.27,
+    "close": 124.53,
+    "adjusted_close": 117.0274,
+    "volume": 52650390
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-01-28",
+    "open": 123.77,
+    "high": 126.6715,
+    "low": 114.19,
+    "close": 117.61,
+    "adjusted_close": 110.5243,
+    "volume": 74668858
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-02-04",
+    "open": 119.52,
+    "high": 126.47,
+    "low": 118.81,
+    "close": 121.02,
+    "adjusted_close": 113.7288,
+    "volume": 41378445
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-02-11",
+    "open": 122.56,
+    "high": 128.66,
+    "low": 120.45,
+    "close": 121.01,
+    "adjusted_close": 113.7195,
+    "volume": 44899429
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-02-18",
+    "open": 119.95,
+    "high": 124.61,
+    "low": 118.0,
+    "close": 119.31,
+    "adjusted_close": 112.1219,
+    "volume": 39455658
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-02-25",
+    "open": 117.5,
+    "high": 119.43,
+    "low": 104.38,
+    "close": 111.23,
+    "adjusted_close": 104.5287,
+    "volume": 59238376
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-03-04",
+    "open": 109.37,
+    "high": 111.1062,
+    "low": 103.805,
+    "close": 105.06,
+    "adjusted_close": 98.7304,
+    "volume": 93331986
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-03-11",
+    "open": 103.29,
+    "high": 105.72,
+    "low": 98.62,
+    "close": 101.41,
+    "adjusted_close": 95.3003,
+    "volume": 99348668
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-03-18",
+    "open": 101.52,
+    "high": 107.04,
+    "low": 97.62,
+    "close": 106.72,
+    "adjusted_close": 100.755,
+    "volume": 69788535
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-03-25",
+    "open": 106.72,
+    "high": 108.19,
+    "low": 105.1301,
+    "close": 106.73,
+    "adjusted_close": 100.7645,
+    "volume": 51876907
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-04-01",
+    "open": 105.62,
+    "high": 109.755,
+    "low": 102.21,
+    "close": 102.79,
+    "adjusted_close": 97.0447,
+    "volume": 62790383
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-04-08",
+    "open": 104.02,
+    "high": 105.57,
+    "low": 99.12,
+    "close": 99.29,
+    "adjusted_close": 93.7403,
+    "volume": 60275053
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-04-14",
+    "open": 98.22,
+    "high": 104.5,
+    "low": 96.91,
+    "close": 98.36,
+    "adjusted_close": 92.8623,
+    "volume": 59377246
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-04-22",
+    "open": 97.95,
+    "high": 101.0,
+    "low": 95.36,
+    "close": 95.68,
+    "adjusted_close": 90.3321,
+    "volume": 53627843
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-04-29",
+    "open": 95.05,
+    "high": 96.28,
+    "low": 90.22,
+    "close": 92.93,
+    "adjusted_close": 87.7358,
+    "volume": 64113259
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-05-06",
+    "open": 92.5,
+    "high": 96.07,
+    "low": 90.27,
+    "close": 91.63,
+    "adjusted_close": 86.5085,
+    "volume": 46212543
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-05-13",
+    "open": 89.94,
+    "high": 91.36,
+    "low": 85.39,
+    "close": 90.96,
+    "adjusted_close": 85.8759,
+    "volume": 57423827
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-05-20",
+    "open": 89.87,
+    "high": 93.49,
+    "low": 88.83,
+    "close": 90.78,
+    "adjusted_close": 85.706,
+    "volume": 42217751
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-05-27",
+    "open": 91.02,
+    "high": 93.818,
+    "low": 88.52,
+    "close": 93.77,
+    "adjusted_close": 88.5289,
+    "volume": 40864285
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-06-03",
+    "open": 95.54,
+    "high": 96.37,
+    "low": 92.9,
+    "close": 93.77,
+    "adjusted_close": 88.5289,
+    "volume": 31246166
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-06-10",
+    "open": 95.0,
+    "high": 95.54,
+    "low": 88.625,
+    "close": 88.68,
+    "adjusted_close": 83.7234,
+    "volume": 41801568
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-06-17",
+    "open": 86.06,
+    "high": 89.81,
+    "low": 83.95,
+    "close": 85.0,
+    "adjusted_close": 80.6927,
+    "volume": 57036473
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-06-24",
+    "open": 86.0,
+    "high": 87.75,
+    "low": 82.755,
+    "close": 85.92,
+    "adjusted_close": 81.5661,
+    "volume": 38517875
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-07-01",
+    "open": 86.92,
+    "high": 87.0,
+    "low": 76.18,
+    "close": 77.0,
+    "adjusted_close": 73.0981,
+    "volume": 57363520
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-07-08",
+    "open": 74.55,
+    "high": 82.16,
+    "low": 73.74,
+    "close": 81.51,
+    "adjusted_close": 77.3796,
+    "volume": 59653423
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-07-15",
+    "open": 79.77,
+    "high": 86.04,
+    "low": 78.82,
+    "close": 85.63,
+    "adjusted_close": 81.2908,
+    "volume": 72035943
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-07-22",
+    "open": 86.06,
+    "high": 87.795,
+    "low": 83.37,
+    "close": 86.32,
+    "adjusted_close": 81.9458,
+    "volume": 49437475
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-07-29",
+    "open": 86.3,
+    "high": 89.21,
+    "low": 83.845,
+    "close": 88.48,
+    "adjusted_close": 83.9964,
+    "volume": 43372564
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-08-05",
+    "open": 85.3,
+    "high": 90.975,
+    "low": 84.17,
+    "close": 89.77,
+    "adjusted_close": 85.221,
+    "volume": 83189665
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-08-12",
+    "open": 88.98,
+    "high": 91.35,
+    "low": 84.44,
+    "close": 90.86,
+    "adjusted_close": 86.2558,
+    "volume": 59159544
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-08-19",
+    "open": 90.01,
+    "high": 91.94,
+    "low": 87.015,
+    "close": 87.2,
+    "adjusted_close": 82.7812,
+    "volume": 56159192
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-08-26",
+    "open": 85.41,
+    "high": 87.79,
+    "low": 84.65,
+    "close": 84.74,
+    "adjusted_close": 80.4459,
+    "volume": 39585866
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-09-02",
+    "open": 83.91,
+    "high": 84.87,
+    "low": 80.12,
+    "close": 80.9,
+    "adjusted_close": 76.8005,
+    "volume": 47305527
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-09-09",
+    "open": 81.03,
+    "high": 81.66,
+    "low": 78.23,
+    "close": 81.53,
+    "adjusted_close": 77.3986,
+    "volume": 37774925
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-09-16",
+    "open": 81.97,
+    "high": 82.495,
+    "low": 76.92,
+    "close": 77.89,
+    "adjusted_close": 74.3676,
+    "volume": 50725238
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-09-23",
+    "open": 76.55,
+    "high": 79.31,
+    "low": 73.09,
+    "close": 73.87,
+    "adjusted_close": 70.5294,
+    "volume": 52946078
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-09-30",
+    "open": 73.47,
+    "high": 74.19,
+    "low": 67.74,
+    "close": 68.56,
+    "adjusted_close": 65.4595,
+    "volume": 65408374
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-10-07",
+    "open": 68.08,
+    "high": 74.92,
+    "low": 67.65,
+    "close": 69.75,
+    "adjusted_close": 66.5957,
+    "volume": 67438388
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-10-14",
+    "open": 69.85,
+    "high": 70.2,
+    "low": 62.32,
+    "close": 63.92,
+    "adjusted_close": 61.0293,
+    "volume": 117302639
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-10-21",
+    "open": 64.98,
+    "high": 66.11,
+    "low": 62.02,
+    "close": 63.75,
+    "adjusted_close": 60.867,
+    "volume": 65321343
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-10-28",
+    "open": 60.58,
+    "high": 62.45,
+    "low": 59.51,
+    "close": 62.01,
+    "adjusted_close": 59.2057,
+    "volume": 85670067
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-11-04",
+    "open": 61.59,
+    "high": 63.43,
+    "low": 59.43,
+    "close": 62.48,
+    "adjusted_close": 59.6545,
+    "volume": 62744624
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-11-11",
+    "open": 62.62,
+    "high": 74.6,
+    "low": 61.9711,
+    "close": 73.83,
+    "adjusted_close": 70.4912,
+    "volume": 74589165
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-11-18",
+    "open": 73.24,
+    "high": 82.94,
+    "low": 72.24,
+    "close": 82.27,
+    "adjusted_close": 78.5495,
+    "volume": 127181126
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-11-25",
+    "open": 80.81,
+    "high": 83.19,
+    "low": 79.465,
+    "close": 81.4,
+    "adjusted_close": 77.7188,
+    "volume": 55756523
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-12-02",
+    "open": 80.27,
+    "high": 83.63,
+    "low": 78.89,
+    "close": 81.5,
+    "adjusted_close": 77.8143,
+    "volume": 72895584
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-12-09",
+    "open": 81.94,
+    "high": 82.19,
+    "low": 78.59,
+    "close": 80.69,
+    "adjusted_close": 77.0409,
+    "volume": 65426118
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-12-16",
+    "open": 79.79,
+    "high": 82.09,
+    "low": 76.23,
+    "close": 76.3,
+    "adjusted_close": 73.2731,
+    "volume": 75373890
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-12-23",
+    "open": 76.92,
+    "high": 77.42,
+    "low": 74.015,
+    "close": 74.89,
+    "adjusted_close": 71.919,
+    "volume": 55920240
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2022-12-30",
+    "open": 74.33,
+    "high": 76.0399,
+    "low": 72.84,
+    "close": 74.49,
+    "adjusted_close": 71.5349,
+    "volume": 38177126
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-01-06",
+    "open": 75.85,
+    "high": 78.739,
+    "low": 73.77,
+    "close": 78.07,
+    "adjusted_close": 74.9728,
+    "volume": 45375900
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-01-13",
+    "open": 80.56,
+    "high": 88.8335,
+    "low": 80.055,
+    "close": 86.8,
+    "adjusted_close": 83.3565,
+    "volume": 99094679
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-01-20",
+    "open": 86.22,
+    "high": 91.22,
+    "low": 86.16,
+    "close": 91.03,
+    "adjusted_close": 87.4187,
+    "volume": 68998129
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-01-27",
+    "open": 91.76,
+    "high": 98.0,
+    "low": 91.12,
+    "close": 93.3,
+    "adjusted_close": 89.5986,
+    "volume": 77798851
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-02-03",
+    "open": 92.85,
+    "high": 97.5,
+    "low": 90.0,
+    "close": 94.66,
+    "adjusted_close": 90.9047,
+    "volume": 71377837
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-02-10",
+    "open": 91.8,
+    "high": 98.565,
+    "low": 90.735,
+    "close": 95.37,
+    "adjusted_close": 91.5865,
+    "volume": 69092620
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-02-17",
+    "open": 95.47,
+    "high": 98.99,
+    "low": 88.94,
+    "close": 90.1,
+    "adjusted_close": 86.5256,
+    "volume": 80704231
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-02-24",
+    "open": 88.38,
+    "high": 91.99,
+    "low": 86.66,
+    "close": 88.11,
+    "adjusted_close": 84.6145,
+    "volume": 48399931
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-03-03",
+    "open": 88.7,
+    "high": 90.04,
+    "low": 86.9,
+    "close": 89.79,
+    "adjusted_close": 86.2279,
+    "volume": 46927438
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-03-10",
+    "open": 90.075,
+    "high": 91.33,
+    "low": 87.2,
+    "close": 87.25,
+    "adjusted_close": 83.7887,
+    "volume": 49817567
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-03-17",
+    "open": 86.38,
+    "high": 90.03,
+    "low": 85.44,
+    "close": 89.47,
+    "adjusted_close": 86.3524,
+    "volume": 61595168
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-03-24",
+    "open": 89.21,
+    "high": 95.82,
+    "low": 88.6605,
+    "close": 92.79,
+    "adjusted_close": 89.5567,
+    "volume": 52154383
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-03-31",
+    "open": 92.04,
+    "high": 93.52,
+    "low": 89.9229,
+    "close": 93.02,
+    "adjusted_close": 89.7787,
+    "volume": 45069640
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-04-06",
+    "open": 93.01,
+    "high": 93.5999,
+    "low": 89.045,
+    "close": 90.24,
+    "adjusted_close": 87.0956,
+    "volume": 28248281
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-04-14",
+    "open": 88.415,
+    "high": 89.84,
+    "low": 85.97,
+    "close": 87.2,
+    "adjusted_close": 84.1615,
+    "volume": 50178041
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-04-21",
+    "open": 87.75,
+    "high": 91.8765,
+    "low": 85.28,
+    "close": 85.37,
+    "adjusted_close": 82.3953,
+    "volume": 59599734
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-04-28",
+    "open": 85.4,
+    "high": 85.96,
+    "low": 81.21,
+    "close": 84.3,
+    "adjusted_close": 81.3625,
+    "volume": 53528496
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-05-05",
+    "open": 84.3,
+    "high": 85.57,
+    "low": 82.4414,
+    "close": 84.97,
+    "adjusted_close": 82.0092,
+    "volume": 33113307
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-05-12",
+    "open": 84.5,
+    "high": 85.54,
+    "low": 82.525,
+    "close": 83.43,
+    "adjusted_close": 80.5229,
+    "volume": 35277448
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-05-19",
+    "open": 83.33,
+    "high": 93.4,
+    "low": 83.225,
+    "close": 92.58,
+    "adjusted_close": 89.354,
+    "volume": 67383682
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-05-26",
+    "open": 92.07,
+    "high": 104.44,
+    "low": 89.18,
+    "close": 103.21,
+    "adjusted_close": 99.6136,
+    "volume": 113289400
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-06-02",
+    "open": 103.79,
+    "high": 105.24,
+    "low": 98.06,
+    "close": 98.94,
+    "adjusted_close": 95.4924,
+    "volume": 75327076
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-06-09",
+    "open": 98.01,
+    "high": 104.68,
+    "low": 94.2475,
+    "close": 102.8,
+    "adjusted_close": 99.2179,
+    "volume": 62750781
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-06-16",
+    "open": 104.34,
+    "high": 110.69,
+    "low": 104.31,
+    "close": 104.57,
+    "adjusted_close": 101.3557,
+    "volume": 74718703
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-06-23",
+    "open": 104.18,
+    "high": 104.88,
+    "low": 101.005,
+    "close": 101.91,
+    "adjusted_close": 98.7774,
+    "volume": 36143736
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-06-30",
+    "open": 102.02,
+    "high": 103.035,
+    "low": 100.02,
+    "close": 100.92,
+    "adjusted_close": 97.8179,
+    "volume": 45541556
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-07-07",
+    "open": 102.25,
+    "high": 103.6808,
+    "low": 98.6,
+    "close": 100.23,
+    "adjusted_close": 97.1491,
+    "volume": 31833338
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-07-14",
+    "open": 100.25,
+    "high": 107.295,
+    "low": 99.4,
+    "close": 105.14,
+    "adjusted_close": 101.9082,
+    "volume": 44712426
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-07-21",
+    "open": 104.68,
+    "high": 105.025,
+    "low": 96.332,
+    "close": 97.25,
+    "adjusted_close": 94.2607,
+    "volume": 70480769
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-07-28",
+    "open": 97.27,
+    "high": 101.76,
+    "low": 96.78,
+    "close": 100.86,
+    "adjusted_close": 97.7597,
+    "volume": 42066763
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-08-04",
+    "open": 99.18,
+    "high": 99.78,
+    "low": 94.575,
+    "close": 96.16,
+    "adjusted_close": 93.2042,
+    "volume": 41088084
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-08-11",
+    "open": 96.73,
+    "high": 96.94,
+    "low": 91.97,
+    "close": 91.99,
+    "adjusted_close": 89.1624,
+    "volume": 38805259
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-08-18",
+    "open": 91.69,
+    "high": 93.29,
+    "low": 89.56,
+    "close": 91.1,
+    "adjusted_close": 88.2997,
+    "volume": 37777330
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-08-25",
+    "open": 90.5,
+    "high": 96.78,
+    "low": 90.5,
+    "close": 93.1,
+    "adjusted_close": 90.2382,
+    "volume": 48651318
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-09-01",
+    "open": 93.82,
+    "high": 95.92,
+    "low": 93.09,
+    "close": 93.19,
+    "adjusted_close": 90.3255,
+    "volume": 35914309
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-09-08",
+    "open": 93.4,
+    "high": 95.05,
+    "low": 88.43,
+    "close": 89.64,
+    "adjusted_close": 86.8846,
+    "volume": 34836912
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-09-15",
+    "open": 90.1,
+    "high": 92.93,
+    "low": 88.86,
+    "close": 89.25,
+    "adjusted_close": 86.9521,
+    "volume": 47715823
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-09-22",
+    "open": 88.54,
+    "high": 89.665,
+    "low": 85.35,
+    "close": 85.64,
+    "adjusted_close": 83.4351,
+    "volume": 39393437
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-09-29",
+    "open": 85.39,
+    "high": 88.03,
+    "low": 84.015,
+    "close": 86.9,
+    "adjusted_close": 84.6626,
+    "volume": 39480040
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-10-06",
+    "open": 87.18,
+    "high": 90.02,
+    "low": 85.06,
+    "close": 89.29,
+    "adjusted_close": 86.9911,
+    "volume": 38593988
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-10-13",
+    "open": 88.8,
+    "high": 93.44,
+    "low": 88.04,
+    "close": 90.46,
+    "adjusted_close": 88.131,
+    "volume": 36900233
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-10-20",
+    "open": 90.48,
+    "high": 94.76,
+    "low": 88.52,
+    "close": 91.31,
+    "adjusted_close": 88.9591,
+    "volume": 61720436
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-10-27",
+    "open": 89.98,
+    "high": 92.26,
+    "low": 85.89,
+    "close": 85.99,
+    "adjusted_close": 83.7761,
+    "volume": 50487723
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-11-03",
+    "open": 87.31,
+    "high": 92.45,
+    "low": 84.95,
+    "close": 91.79,
+    "adjusted_close": 89.4267,
+    "volume": 48558526
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-11-10",
+    "open": 92.0,
+    "high": 97.75,
+    "low": 91.29,
+    "close": 97.44,
+    "adjusted_close": 94.9313,
+    "volume": 48640521
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-11-17",
+    "open": 97.01,
+    "high": 100.6999,
+    "low": 95.72,
+    "close": 99.58,
+    "adjusted_close": 97.0162,
+    "volume": 49529172
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-11-24",
+    "open": 99.9,
+    "high": 100.5887,
+    "low": 97.47,
+    "close": 97.83,
+    "adjusted_close": 95.3112,
+    "volume": 28279603
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-12-01",
+    "open": 97.42,
+    "high": 99.73,
+    "low": 96.42,
+    "close": 98.55,
+    "adjusted_close": 96.0127,
+    "volume": 37487112
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-12-08",
+    "open": 97.05,
+    "high": 100.37,
+    "low": 95.2501,
+    "close": 100.35,
+    "adjusted_close": 97.7663,
+    "volume": 50432321
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-12-15",
+    "open": 99.57,
+    "high": 104.755,
+    "low": 99.37,
+    "close": 102.54,
+    "adjusted_close": 100.3622,
+    "volume": 52303896
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-12-22",
+    "open": 102.84,
+    "high": 103.975,
+    "low": 99.935,
+    "close": 103.15,
+    "adjusted_close": 100.9592,
+    "volume": 39262394
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2023-12-29",
+    "open": 103.61,
+    "high": 105.52,
+    "low": 103.57,
+    "close": 104.0,
+    "adjusted_close": 101.7912,
+    "volume": 22026915
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-01-05",
+    "open": 102.25,
+    "high": 102.62,
+    "low": 98.8,
+    "close": 99.61,
+    "adjusted_close": 97.4944,
+    "volume": 31007574
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-01-12",
+    "open": 100.63,
+    "high": 102.79,
+    "low": 99.98,
+    "close": 101.24,
+    "adjusted_close": 99.0898,
+    "volume": 41577645
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-01-19",
+    "open": 100.53,
+    "high": 115.15,
+    "low": 100.0,
+    "close": 114.2,
+    "adjusted_close": 111.7746,
+    "volume": 125431340
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-01-26",
+    "open": 114.78,
+    "high": 118.8455,
+    "low": 112.52,
+    "close": 117.26,
+    "adjusted_close": 114.7696,
+    "volume": 76934325
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-02-02",
+    "open": 117.17,
+    "high": 118.01,
+    "low": 112.605,
+    "close": 115.75,
+    "adjusted_close": 113.2916,
+    "volume": 52778475
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-02-09",
+    "open": 117.13,
+    "high": 135.17,
+    "low": 116.58,
+    "close": 133.11,
+    "adjusted_close": 130.2829,
+    "volume": 93303201
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-02-16",
+    "open": 133.27,
+    "high": 133.51,
+    "low": 125.81,
+    "close": 126.69,
+    "adjusted_close": 123.9993,
+    "volume": 67425825
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-02-23",
+    "open": 126.89,
+    "high": 131.48,
+    "low": 122.91,
+    "close": 129.53,
+    "adjusted_close": 126.779,
+    "volume": 50754392
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-03-01",
+    "open": 130.02,
+    "high": 136.65,
+    "low": 126.65,
+    "close": 133.9,
+    "adjusted_close": 131.0562,
+    "volume": 58660556
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-03-08",
+    "open": 139.94,
+    "high": 158.4,
+    "low": 133.73,
+    "close": 146.37,
+    "adjusted_close": 143.2613,
+    "volume": 141064604
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-03-15",
+    "open": 143.62,
+    "high": 146.7,
+    "low": 134.63,
+    "close": 136.98,
+    "adjusted_close": 134.0708,
+    "volume": 100366507
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-03-22",
+    "open": 140.18,
+    "high": 142.6,
+    "low": 133.03,
+    "close": 140.54,
+    "adjusted_close": 138.1124,
+    "volume": 72577785
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-03-28",
+    "open": 140.16,
+    "high": 141.68,
+    "low": 135.15,
+    "close": 136.05,
+    "adjusted_close": 133.7,
+    "volume": 44570869
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-04-05",
+    "open": 137.29,
+    "high": 146.75,
+    "low": 137.05,
+    "close": 141.36,
+    "adjusted_close": 138.9182,
+    "volume": 56990320
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-04-12",
+    "open": 145.24,
+    "high": 148.43,
+    "low": 142.15,
+    "close": 142.52,
+    "adjusted_close": 140.0582,
+    "volume": 77286677
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-04-19",
+    "open": 145.02,
+    "high": 145.48,
+    "low": 126.64,
+    "close": 127.7,
+    "adjusted_close": 125.4942,
+    "volume": 114090409
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-04-26",
+    "open": 126.75,
+    "high": 138.7399,
+    "low": 125.78,
+    "close": 138.3,
+    "adjusted_close": 135.9111,
+    "volume": 74176198
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-05-03",
+    "open": 138.0,
+    "high": 142.11,
+    "low": 133.21,
+    "close": 141.56,
+    "adjusted_close": 139.1148,
+    "volume": 56106249
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-05-10",
+    "open": 140.47,
+    "high": 150.495,
+    "low": 139.81,
+    "close": 149.26,
+    "adjusted_close": 146.6818,
+    "volume": 59170908
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-05-17",
+    "open": 148.02,
+    "high": 156.0,
+    "low": 146.25,
+    "close": 151.68,
+    "adjusted_close": 149.06,
+    "volume": 55727752
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-05-24",
+    "open": 151.67,
+    "high": 160.7799,
+    "low": 150.82,
+    "close": 160.0,
+    "adjusted_close": 157.2363,
+    "volume": 63417023
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-05-31",
+    "open": 159.68,
+    "high": 160.38,
+    "low": 147.81,
+    "close": 151.04,
+    "adjusted_close": 148.431,
+    "volume": 53237928
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-06-07",
+    "open": 155.12,
+    "high": 166.1199,
+    "low": 150.99,
+    "close": 164.39,
+    "adjusted_close": 161.5504,
+    "volume": 75026101
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-06-14",
+    "open": 164.0,
+    "high": 176.06,
+    "low": 162.4156,
+    "close": 172.51,
+    "adjusted_close": 170.0638,
+    "volume": 69040753
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-06-21",
+    "open": 177.84,
+    "high": 184.86,
+    "low": 172.21,
+    "close": 173.96,
+    "adjusted_close": 171.4933,
+    "volume": 94423378
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-06-28",
+    "open": 170.43,
+    "high": 176.8199,
+    "low": 167.121,
+    "close": 173.81,
+    "adjusted_close": 171.3454,
+    "volume": 67204787
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-07-05",
+    "open": 174.24,
+    "high": 185.08,
+    "low": 170.45,
+    "close": 183.99,
+    "adjusted_close": 181.381,
+    "volume": 44554080
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-07-12",
+    "open": 190.0,
+    "high": 193.47,
+    "low": 182.5,
+    "close": 187.35,
+    "adjusted_close": 184.6934,
+    "volume": 102652461
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-07-19",
+    "open": 188.68,
+    "high": 190.06,
+    "low": 164.51,
+    "close": 165.77,
+    "adjusted_close": 163.4194,
+    "volume": 152887933
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-07-26",
+    "open": 166.61,
+    "high": 171.54,
+    "low": 152.11,
+    "close": 161.94,
+    "adjusted_close": 159.6437,
+    "volume": 91085369
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-08-02",
+    "open": 162.68,
+    "high": 167.665,
+    "low": 146.89,
+    "close": 149.86,
+    "adjusted_close": 147.735,
+    "volume": 106732334
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-08-09",
+    "open": 133.86,
+    "high": 167.8,
+    "low": 133.57,
+    "close": 167.12,
+    "adjusted_close": 164.7503,
+    "volume": 117509269
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-08-16",
+    "open": 166.0,
+    "high": 175.44,
+    "low": 165.54,
+    "close": 174.54,
+    "adjusted_close": 172.065,
+    "volume": 67584554
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-08-23",
+    "open": 174.76,
+    "high": 175.45,
+    "low": 166.06,
+    "close": 171.28,
+    "adjusted_close": 168.8513,
+    "volume": 60236583
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-08-30",
+    "open": 170.38,
+    "high": 175.42,
+    "low": 165.04,
+    "close": 171.7,
+    "adjusted_close": 169.2653,
+    "volume": 52073337
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-09-06",
+    "open": 168.0,
+    "high": 168.679,
+    "low": 156.01,
+    "close": 156.82,
+    "adjusted_close": 154.5963,
+    "volume": 54914842
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-09-13",
+    "open": 160.76,
+    "high": 174.765,
+    "low": 157.6931,
+    "close": 172.5,
+    "adjusted_close": 170.6749,
+    "volume": 59512740
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-09-20",
+    "open": 169.91,
+    "high": 177.78,
+    "low": 166.355,
+    "close": 174.08,
+    "adjusted_close": 172.2382,
+    "volume": 64177879
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-09-27",
+    "open": 174.84,
+    "high": 189.33,
+    "low": 173.7,
+    "close": 177.97,
+    "adjusted_close": 176.0871,
+    "volume": 61663080
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-10-04",
+    "open": 174.27,
+    "high": 181.23,
+    "low": 170.78,
+    "close": 181.16,
+    "adjusted_close": 179.2433,
+    "volume": 59133111
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-10-11",
+    "open": 181.6,
+    "high": 191.4899,
+    "low": 180.93,
+    "close": 190.81,
+    "adjusted_close": 188.7912,
+    "volume": 52981051
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-10-18",
+    "open": 190.61,
+    "high": 212.6,
+    "low": 184.25,
+    "close": 200.78,
+    "adjusted_close": 198.6557,
+    "volume": 135521771
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-10-25",
+    "open": 200.81,
+    "high": 205.2,
+    "low": 196.23,
+    "close": 203.44,
+    "adjusted_close": 201.2876,
+    "volume": 65891366
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-11-01",
+    "open": 199.26,
+    "high": 199.74,
+    "low": 187.66,
+    "close": 192.95,
+    "adjusted_close": 190.9086,
+    "volume": 69676066
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-11-08",
+    "open": 193.7,
+    "high": 206.61,
+    "low": 188.5,
+    "close": 201.2,
+    "adjusted_close": 199.0713,
+    "volume": 69068624
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-11-15",
+    "open": 197.96,
+    "high": 198.2,
+    "low": 184.81,
+    "close": 186.01,
+    "adjusted_close": 184.042,
+    "volume": 63599810
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-11-22",
+    "open": 184.35,
+    "high": 193.0,
+    "low": 183.49,
+    "close": 190.08,
+    "adjusted_close": 188.0689,
+    "volume": 57684874
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-11-29",
+    "open": 188.09,
+    "high": 188.25,
+    "low": 178.05,
+    "close": 184.66,
+    "adjusted_close": 182.7063,
+    "volume": 42507136
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-12-06",
+    "open": 189.34,
+    "high": 205.63,
+    "low": 188.94,
+    "close": 203.02,
+    "adjusted_close": 200.872,
+    "volume": 62782194
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-12-13",
+    "open": 200.93,
+    "high": 203.125,
+    "low": 190.37,
+    "close": 200.99,
+    "adjusted_close": 199.5029,
+    "volume": 61457097
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-12-20",
+    "open": 203.2,
+    "high": 205.5,
+    "low": 191.98,
+    "close": 197.21,
+    "adjusted_close": 195.7509,
+    "volume": 67753234
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2024-12-27",
+    "open": 201.0,
+    "high": 208.16,
+    "low": 199.05,
+    "close": 201.63,
+    "adjusted_close": 200.1382,
+    "volume": 44199181
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-01-03",
+    "open": 199.84,
+    "high": 208.8,
+    "low": 196.69,
+    "close": 208.61,
+    "adjusted_close": 207.0665,
+    "volume": 38876453
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-01-10",
+    "open": 218.77,
+    "high": 222.2,
+    "low": 203.23,
+    "close": 208.37,
+    "adjusted_close": 206.8283,
+    "volume": 71877877
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-01-17",
+    "open": 200.52,
+    "high": 221.95,
+    "low": 198.5,
+    "close": 211.5,
+    "adjusted_close": 209.9351,
+    "volume": 109227482
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-01-24",
+    "open": 214.46,
+    "high": 226.4,
+    "low": 212.05,
+    "close": 221.88,
+    "adjusted_close": 220.2383,
+    "volume": 58526371
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-01-31",
+    "open": 197.04,
+    "high": 215.0,
+    "low": 187.665,
+    "close": 209.32,
+    "adjusted_close": 207.7713,
+    "volume": 144926657
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-02-07",
+    "open": 199.63,
+    "high": 213.18,
+    "low": 197.98,
+    "close": 206.12,
+    "adjusted_close": 204.595,
+    "volume": 61518078
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-02-14",
+    "open": 208.0,
+    "high": 209.98,
+    "low": 197.4605,
+    "close": 203.9,
+    "adjusted_close": 202.3914,
+    "volume": 64695922
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-02-21",
+    "open": 204.755,
+    "high": 205.85,
+    "low": 196.01,
+    "close": 198.24,
+    "adjusted_close": 196.7733,
+    "volume": 52547877
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-02-28",
+    "open": 196.88,
+    "high": 198.79,
+    "low": 175.52,
+    "close": 180.53,
+    "adjusted_close": 179.1943,
+    "volume": 101956116
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-03-07",
+    "open": 181.15,
+    "high": 184.74,
+    "low": 171.02,
+    "close": 177.1,
+    "adjusted_close": 175.7897,
+    "volume": 123009205
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-03-14",
+    "open": 172.47,
+    "high": 178.13,
+    "low": 167.91,
+    "close": 174.09,
+    "adjusted_close": 172.8019,
+    "volume": 75175941
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-03-21",
+    "open": 173.95,
+    "high": 178.67,
+    "low": 170.4324,
+    "close": 176.73,
+    "adjusted_close": 176.1152,
+    "volume": 52545543
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-03-28",
+    "open": 179.99,
+    "high": 182.925,
+    "low": 164.06,
+    "close": 165.25,
+    "adjusted_close": 164.6752,
+    "volume": 68694445
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-04-04",
+    "open": 160.36,
+    "high": 171.75,
+    "low": 144.84,
+    "close": 146.8,
+    "adjusted_close": 146.2894,
+    "volume": 103116597
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-04-11",
+    "open": 134.51,
+    "high": 160.62,
+    "low": 134.25,
+    "close": 157.08,
+    "adjusted_close": 156.5336,
+    "volume": 166616164
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-04-17",
+    "open": 158.3,
+    "high": 158.59,
+    "low": 148.49,
+    "close": 151.74,
+    "adjusted_close": 151.2122,
+    "volume": 82862078
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-04-25",
+    "open": 149.99,
+    "high": 165.91,
+    "low": 145.84,
+    "close": 165.1,
+    "adjusted_close": 164.5257,
+    "volume": 78922926
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-05-02",
+    "open": 165.0,
+    "high": 180.65,
+    "low": 160.5,
+    "close": 179.28,
+    "adjusted_close": 178.6564,
+    "volume": 75680531
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-05-09",
+    "open": 179.0,
+    "high": 180.46,
+    "low": 170.5884,
+    "close": 176.52,
+    "adjusted_close": 175.906,
+    "volume": 60814196
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-05-16",
+    "open": 187.28,
+    "high": 196.22,
+    "low": 184.61,
+    "close": 194.22,
+    "adjusted_close": 193.5444,
+    "volume": 73808282
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-05-23",
+    "open": 189.0,
+    "high": 196.83,
+    "low": 188.8107,
+    "close": 191.98,
+    "adjusted_close": 191.3122,
+    "volume": 45802269
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-05-30",
+    "open": 194.095,
+    "high": 199.8,
+    "low": 190.56,
+    "close": 193.32,
+    "adjusted_close": 192.6475,
+    "volume": 56638735
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-06-06",
+    "open": 193.035,
+    "high": 206.29,
+    "low": 192.195,
+    "close": 205.18,
+    "adjusted_close": 204.4663,
+    "volume": 51300967
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-06-13",
+    "open": 206.4,
+    "high": 217.43,
+    "low": 205.87,
+    "close": 211.1,
+    "adjusted_close": 211.1,
+    "volume": 59261353
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-06-20",
+    "open": 213.0,
+    "high": 217.6,
+    "low": 208.15,
+    "close": 209.51,
+    "adjusted_close": 209.51,
+    "volume": 43246560
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-06-27",
+    "open": 206.63,
+    "high": 228.88,
+    "low": 206.2015,
+    "close": 228.57,
+    "adjusted_close": 228.57,
+    "volume": 52633789
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-07-03",
+    "open": 227.44,
+    "high": 237.58,
+    "low": 221.18,
+    "close": 234.8,
+    "adjusted_close": 234.8,
+    "volume": 39062056
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-07-11",
+    "open": 231.63,
+    "high": 233.27,
+    "low": 227.44,
+    "close": 230.4,
+    "adjusted_close": 230.4,
+    "volume": 54089758
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-07-18",
+    "open": 229.33,
+    "high": 248.28,
+    "low": 226.31,
+    "close": 240.4,
+    "adjusted_close": 240.4,
+    "volume": 83684106
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-07-25",
+    "open": 240.12,
+    "high": 246.24,
+    "low": 231.76,
+    "close": 245.6,
+    "adjusted_close": 245.6,
+    "volume": 54452100
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-08-01",
+    "open": 243.0,
+    "high": 247.41,
+    "low": 231.8401,
+    "close": 235.21,
+    "adjusted_close": 235.21,
+    "volume": 55167972
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-08-08",
+    "open": 237.91,
+    "high": 247.84,
+    "low": 228.82,
+    "close": 241.83,
+    "adjusted_close": 241.83,
+    "volume": 55980107
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-08-15",
+    "open": 242.04,
+    "high": 246.43,
+    "low": 236.82,
+    "close": 238.88,
+    "adjusted_close": 238.88,
+    "volume": 42559522
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-08-22",
+    "open": 239.99,
+    "high": 242.8575,
+    "low": 223.7,
+    "close": 232.99,
+    "adjusted_close": 232.99,
+    "volume": 56262138
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-08-29",
+    "open": 234.3,
+    "high": 240.66,
+    "low": 230.58,
+    "close": 230.87,
+    "adjusted_close": 230.87,
+    "volume": 50956618
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-09-03",
+    "open": 226.15,
+    "high": 232.445,
+    "low": 225.6301,
+    "close": 231.39,
+    "adjusted_close": 231.39,
+    "volume": 21106832
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-09-05",
+    "open": 226.15,
+    "high": 244.55,
+    "low": 225.6301,
+    "close": 243.41,
+    "adjusted_close": 243.41,
+    "volume": 41405338
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-09-08",
+    "open": 241.99,
+    "high": 247.88,
+    "low": 241.62,
+    "close": 247.19,
+    "adjusted_close": 247.19,
+    "volume": 12908466
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-09-12",
+    "open": 241.99,
+    "high": 264.58,
+    "low": 241.62,
+    "close": 259.33,
+    "adjusted_close": 258.5252,
+    "volume": 63753998
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-09-19",
+    "open": 260.0,
+    "high": 270.54,
+    "low": 257.98,
+    "close": 264.87,
+    "adjusted_close": 264.87,
+    "volume": 63509166
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-09-26",
+    "open": 266.54,
+    "high": 286.0,
+    "low": 265.45,
+    "close": 273.36,
+    "adjusted_close": 273.36,
+    "volume": 66006864
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-10-03",
+    "open": 276.49,
+    "high": 296.72,
+    "low": 273.23,
+    "close": 292.19,
+    "adjusted_close": 292.19,
+    "volume": 51785574
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-10-10",
+    "open": 300.01,
+    "high": 307.3,
+    "low": 280.33,
+    "close": 280.66,
+    "adjusted_close": 280.66,
+    "volume": 75345093
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-10-17",
+    "open": 298.235,
+    "high": 311.3685,
+    "low": 291.3426,
+    "close": 295.08,
+    "adjusted_close": 295.08,
+    "volume": 101648936
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-10-23",
+    "open": 300.0,
+    "high": 303.65,
+    "low": 284.4,
+    "close": 290.73,
+    "adjusted_close": 290.73,
+    "volume": 50219792
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-10-24",
+    "open": 300.0,
+    "high": 303.65,
+    "low": 284.4,
+    "close": 294.96,
+    "adjusted_close": 293.3802,
+    "volume": 59118085
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-10-31",
+    "open": 298.65,
+    "high": 307.96,
+    "low": 293.69,
+    "close": 300.43,
+    "adjusted_close": 298.8209,
+    "volume": 68771477
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-11-07",
+    "open": 302.59,
+    "high": 310.12,
+    "low": 277.13,
+    "close": 286.5,
+    "adjusted_close": 284.9655,
+    "volume": 66198908
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-11-14",
+    "open": 294.36,
+    "high": 297.13,
+    "low": 273.23,
+    "close": 284.82,
+    "adjusted_close": 283.2945,
+    "volume": 55565821
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-11-21",
+    "open": 281.44,
+    "high": 292.85,
+    "low": 266.82,
+    "close": 275.06,
+    "adjusted_close": 273.5868,
+    "volume": 69876818
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-11-28",
+    "open": 273.19,
+    "high": 292.81,
+    "low": 273.08,
+    "close": 291.51,
+    "adjusted_close": 289.9487,
+    "volume": 45032749
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-12-05",
+    "open": 286.92,
+    "high": 300.8,
+    "low": 283.19,
+    "close": 294.72,
+    "adjusted_close": 293.1415,
+    "volume": 45086891
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-12-12",
+    "open": 301.2,
+    "high": 313.98,
+    "low": 290.976,
+    "close": 292.04,
+    "adjusted_close": 291.2355,
+    "volume": 70758496
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-12-19",
+    "open": 295.145,
+    "high": 295.8,
+    "low": 275.0773,
+    "close": 288.95,
+    "adjusted_close": 288.154,
+    "volume": 64320031
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2025-12-26",
+    "open": 294.67,
+    "high": 303.38,
+    "low": 291.21,
+    "close": 302.84,
+    "adjusted_close": 302.0057,
+    "volume": 20773153
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2026-01-02",
+    "open": 301.78,
+    "high": 321.59,
+    "low": 298.65,
+    "close": 319.61,
+    "adjusted_close": 318.7296,
+    "volume": 39097697
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2026-01-09",
+    "open": 330.4,
+    "high": 333.08,
+    "low": 316.14,
+    "close": 323.63,
+    "adjusted_close": 322.7385,
+    "volume": 67966708
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2026-01-16",
+    "open": 322.1,
+    "high": 351.33,
+    "low": 321.06,
+    "close": 342.4,
+    "adjusted_close": 341.4568,
+    "volume": 95833789
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2026-01-23",
+    "open": 340.79,
+    "high": 342.15,
+    "low": 325.68,
+    "close": 334.87,
+    "adjusted_close": 333.9475,
+    "volume": 65021329
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2026-01-30",
+    "open": 332.79,
+    "high": 345.5,
+    "low": 328.2,
+    "close": 330.56,
+    "adjusted_close": 329.6494,
+    "volume": 57879693
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2026-02-06",
+    "open": 330.755,
+    "high": 349.72,
+    "low": 319.07,
+    "close": 348.85,
+    "adjusted_close": 347.889,
+    "volume": 74922108
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2026-02-13",
+    "open": 348.76,
+    "high": 380.0,
+    "low": 322.1,
+    "close": 366.36,
+    "adjusted_close": 365.3508,
+    "volume": 75171978
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2026-02-20",
+    "open": 361.865,
+    "high": 372.2,
+    "low": 356.24,
+    "close": 370.54,
+    "adjusted_close": 369.5193,
+    "volume": 32729972
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2026-02-27",
+    "open": 367.01,
+    "high": 390.205,
+    "low": 366.46,
+    "close": 374.58,
+    "adjusted_close": 373.5481,
+    "volume": 57490382
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2026-03-06",
+    "open": 365.36,
+    "high": 373.1,
+    "low": 336.69,
+    "close": 338.89,
+    "adjusted_close": 337.9564,
+    "volume": 73335702
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2026-03-13",
+    "open": 335.6,
+    "high": 357.35,
+    "low": 331.92,
+    "close": 338.31,
+    "adjusted_close": 337.378,
+    "volume": 77701006
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2026-03-20",
+    "open": 341.25,
+    "high": 347.95,
+    "low": 325.19,
+    "close": 329.24,
+    "adjusted_close": 329.24,
+    "volume": 68026490
+  },
+  {
+    "symbol": "TSMC",
+    "week_date": "2026-03-23",
+    "open": 331.1,
+    "high": 343.41,
+    "low": 331.1,
+    "close": 338.45,
+    "adjusted_close": 338.45,
+    "volume": 15857233
+  }
+]
